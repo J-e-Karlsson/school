@@ -125,12 +125,10 @@ class ModelRunner:
 #print(f"Translated {i} out of {len(sen_file) sentences}) - KLART (loading bar istället)
 #i steg 3 behöver nog modellerna kallas i separata funktioner som kallas i från huvudfunktionen och returnar översättningar - KLART
 #ByT5 och mBARTs behöver olika tokenizers och kall-formuleringar - KLART
-#Moses ska kallas på något annat sätt tror jag, Max får ta reda på det eller fråga Meriem 
 #Gör om till dataframe på slutet och skriv den till csv - KLART
 
-
 def main():
-    """Instantiate and run class with all file paths and data. Data can not be tokenized."""
+    #Instantiate and run class with all file paths and data. Data can not be tokenized.
     #data = "/proj/uppmax2025-3-5/private/linus/project/clean_sentences.txt"
     data = "aspect_test_sentences.txt"
     mpath1 = "/proj/uppmax2025-3-5/private/jakob/project/output/checkpoint-81372"
