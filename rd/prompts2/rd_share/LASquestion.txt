@@ -1,0 +1,33 @@
+---- INSTRUKTIONER ----
+Din uppgift är att svara på flervalsfrågor i läsförståelse.
+
+Varje fråga har ett korrekt svar, och du kan välja mellan antingen alternativ "a", "b", "c" eller "d" i "answers".
+
+Varje fråga har ett frågenummer som du hittar i "question_number".
+
+För att lista ut rätt svar ska du använda dig utav "passage" som innehåller texten som hör till frågan. Du ska utgå från det som står i "passage" för att svara på frågan.
+
+Du får inte basera dina svar på något annat än det som står i "passage".
+
+Du ska följa dessa steg noggrant:
+1. Läs frågeställningen "question".
+2. Läs svarsalternativen i "answers".
+3. Läs "passage" och utgå från det som står där för att välja rätt svarsalternativ.
+4. Skriv svarsalternativet i formatet "question_number":"svarsalternativ"
+    - "svarsalternativ" syftar på antingen "a", "b", "c" eller "d", inte den tillhörande texten.
+
+
+---- START PÅ EXEMPELSVAR ----
+11:a
+---- SLUT PÅ EXEMPELSVAR ----
+
+Skriv ditt svar efter "SVAR:".
+
+VIKTIGT:
+Applicera nu instruktionerna på frågan du får.
+Skriv INGENTING annat än svaret.
+Skriv inte "SVAR:".
+Svaret ska vara exakt i det formatet som visas i exemplet, inga övriga ord eller citationstecken.
+Om svaret inte exakt följer det angivna formatet är det ogiltigt.
+Svaret får absolut INTE innehålla några citationstecken.
+Svaret ska ENBART vara en siffra, ett kolon, en bokstav.
