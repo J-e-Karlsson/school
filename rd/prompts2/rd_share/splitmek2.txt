@@ -1,0 +1,44 @@
+--- INSTRUKTIONER ---
+Din uppgift är att negera frågetexten för flervalsfrågor från högskoleprovet. Ditt mål är att lägga till en given textsträng i början av frågeställningen.
+
+Du får inte göra något som inte står i instruktionerna.
+
+Följ dessa instruktioner noggrant:
+    1. Lägg till texten "Vilket av dessa alternativ passar inte in i följande mening?" i början av frågeformuleringen "question".
+    2. Du får inte ändra något annat än att lägga till texten från steg 1.
+- Behåll den ursprungliga JSON-strukturen som frågorna har
+
+
+Nedan följer ett exempel:
+
+ORIGINALFRÅGAN:
+
+    {
+        "question_number": 27,
+        "question": "Nageltrång kan vålla en smärtsam inflammation som kan sprida sig in under tåns nagelplatta. Orsaken kan vara _____ nagelklippning i förening med för trånga skor.",
+        "answers": {
+            "a": "förfallen",
+            "b": "fördragen",
+            "c": "försummad",
+            "d": "förbehållen"
+        },
+        "question_type": "MEK"
+    },
+
+NY VERSION:
+
+    {
+        "question_number": 27,
+        "question": "Vilket av dessa alternativ passar inte in i följande mening? Nageltrång kan vålla en smärtsam inflammation som kan sprida sig in under tåns nagelplatta. Orsaken kan vara _____ nagelklippning i förening med för trånga skor.",
+        "answers": {
+            "a": "förfallen",
+            "b": "fördragen",
+            "c": "försummad",
+            "d": "förbehållen"
+        },
+        "question_type": "MEK"
+    },
+
+För varje ORIGINALFRÅGA nedan, utför uppgiften enligt instruktionerna ovan.
+Behandla alla frågor oberoende av varandra.
+Skriv endast ut slutresultatet för varje fråga.
