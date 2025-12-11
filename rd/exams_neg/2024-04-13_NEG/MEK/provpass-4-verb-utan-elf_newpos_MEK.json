@@ -1,0 +1,112 @@
+[
+  {
+    "question_number": 21,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Björnar är allätare, med undantag för jättepandan, som nästan _____ lever av bambuskott.",
+    "answers": {
+      "a": "avgörande",
+      "b": "förbehållslöst",
+      "c": "uteslutande",
+      "d": "oavbrutet"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 22,
+    "question": "Vilket av dessa alternativ passar in i följande mening? En grundläggande förutsättning för att en _____ försöksverksamhet ska _____ är att regelverket inte lägger hinder i vägen.",
+    "answers": {
+      "a": "ändamålsenlig – komma till stånd",
+      "b": "betryggande – ta till orda",
+      "c": "lagstadgad – äga sin riktighet",
+      "d": "framgångsrik – gå om intet"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 23,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Historiskt har läkemedel huvudsakligen _____ på naturprodukter, främst medicinalväxter, men många framställs numera _____ . Läkemedel kan också framställas genom att man utgår från en naturlig substans som _____ .",
+    "answers": {
+      "a": "baserats – syntetiskt – modifieras",
+      "b": "tillverkats – industriellt – stabiliseras",
+      "c": "grundlagts – kemiskt – extraheras",
+      "d": "skapats – artificiellt – steriliseras"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 24,
+    "question": "Vilket av dessa alternativ passar in i följande mening? När filosofen Renata Salecl skulle köpa ost i en delikatessbutik drabbades hon av beslutsångest. Utbudet var enormt och butiksinnehavarens råd hjälpte _____ . Det berättar Salecl i sin bok Valfrihetens tyranni.",
+    "answers": {
+      "a": "på måfå",
+      "b": "dito",
+      "c": "till nöds",
+      "d": "föga"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 25,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Skogshögskolan är väl anpassad till _____ och smyger sig upp i slänten vid skogsbrynet. Byggnadens storlek blir _____ först när man går in genom entrén.",
+    "answers": {
+      "a": "scenografin – märkvärdig",
+      "b": "geologin – uppmärksammad",
+      "c": "topografin – märkbar",
+      "d": "ekologin – anmärkningsvärd"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 26,
+    "question": "Vilket av dessa alternativ passar in i följande mening? PISA-rapporten, en av världens största elevstudier, både politiseras och haussas upp i nyhetsartiklar och på opinionssidor. I en studie från Södertörns högskola framkommer hur PISA har blivit ett _____ i den politiska debatten.",
+    "answers": {
+      "a": "vågspel",
+      "b": "långskott",
+      "c": "slagträ",
+      "d": "lyckokast"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 27,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Fysikernas beskrivning av materien, inbegripet våra hjärnor, handlar enbart om _____ mätbara egenskaper. Ändå kan vi känna doften av en ros. Det mjuka organet inne i skallen rymmer en hel värld av _____ upplevelser som bara är tillgängliga från insidan.",
+    "answers": {
+      "a": "distinkt – diffusa",
+      "b": "autentiskt – skenbara",
+      "c": "faktiskt – fiktiva",
+      "d": "objektivt – subjektiva"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 28,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Liberalismen är fast _____ i ett antal individuella rättigheter och ett tydligt frihetsideal. Det handlar om rätten att säga och tycka vad man vill, rätten till personlig _____ , rätten att starta föreningar, driva organisationer och bekänna sig till den _____ man föredrar.",
+    "answers": {
+      "a": "insatt – framgång – åsikt",
+      "b": "rotad – integritet – religion",
+      "c": "säkrad – egendom – klass",
+      "d": "övertygad – utveckling – etnicitet"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 29,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Med hjälp av ögonbottenfotografering kan man se om en person har _____ , det som i vardagligt tal kallas grön starr.",
+    "answers": {
+      "a": "artros",
+      "b": "glaukom",
+      "c": "afasi",
+      "d": "psoriasis"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 30,
+    "question": "Vilket av dessa alternativ passar in i följande mening? De nya idéerna orsakade _____ bland det egna partiets _____ och fick därför tonas ner så till den milda grad att det slutgiltiga programmet var lika upphetsande som Sjörapporten en stilla sommardag.",
+    "answers": {
+      "a": "bifall – vapendragare",
+      "b": "ramaskri – gräsrötter",
+      "c": "hurrarop – påhejare",
+      "d": "klagovisor – visselblåsare"
+    },
+    "question_type": "MEK"
+  }
+]

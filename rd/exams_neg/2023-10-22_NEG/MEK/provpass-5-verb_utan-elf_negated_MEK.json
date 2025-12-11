@@ -1,0 +1,112 @@
+[
+  {
+    "question_number": 21,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Handläggaren är noga med att poängtera att offentlig upphandling tar tid. I bästa fall, om ingen _____ valet av leverantör, kan de första leveranserna ske i november–december, bedömer han.",
+    "answers": {
+      "a": "överklagar",
+      "b": "invänder",
+      "c": "protesterar",
+      "d": "undervärderar"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 22,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Inom populärkulturen avbildas vikingar inte sällan med hornprydda hjälmar, trots att vi idag vet att hornen är en _____ . Varken skriftliga källor eller arkeologiska fynd från denna period i Skandinaviens historia _____ om några krigare med stora horn på sina hjälmar.",
+    "answers": {
+      "a": "saga – bekräftar",
+      "b": "berättelse – intygar",
+      "c": "legend – antyder",
+      "d": "myt – vittnar"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 23,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Länge fanns det inom forskningen en _____ uppfattning om att vuxna skulle ha svårt att lära sig nya språk. Att snabbt få grepp om ett främmande språk troddes främst vara _____ barn. Men senare forskning har visat att det inte finns några _____ hinder för vuxna att lära sig nya språk.",
+    "answers": {
+      "a": "bred – särskilt utvalt – intellektuella",
+      "b": "samlad – omfattat – genetiska",
+      "c": "utbredd – förbehållet – kognitiva",
+      "d": "omfattande – reserverat – mentala"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 24,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Orsaken till astmaanfall är förträngning i bronkerna. Det är främst flödet av utandningsluft som försvåras. Om det inte finns någon annan sjuklig process i luftrören eller lungorna är förträngningen fullt _____ , det vill säga återgång sker till normal funktion.",
+    "answers": {
+      "a": "återställbar",
+      "b": "reaktionär",
+      "c": "reversibel",
+      "d": "omvändbar"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 25,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Under sensommaren och hösten uppfattar svamparna att vintern är _____ , och de börjar utveckla fruktkroppar. På fruktkropparna bildas sporer, som vi kan tänka på som svamparnas _____ .",
+    "answers": {
+      "a": "i beredskap – blad",
+      "b": "i antågande – frön",
+      "c": "i annalkande – kärnor",
+      "d": "på väg – kärnor"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 26,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Handarbetstrenden märks tydligt även i bokhandeln och på biblioteken, där hyllorna _____ av böcker om stickning, virkning och sömnad.",
+    "answers": {
+      "a": "bågnar",
+      "b": "myllrar",
+      "c": "vimlar",
+      "d": "stupar"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 27,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? På 1600-talet var kärlek och erotik viktiga inslag på teaterscenerna. Musikdramatikens _____ , det vill säga texterna, kunde vara riktigt _____ , rentav vulgära.",
+    "answers": {
+      "a": "oktaver – svårsmälta",
+      "b": "libretton – grovkorniga",
+      "c": "pjästexter – råa",
+      "d": "sångtexter – grova"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 28,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? I debatten ställs ofta lärarcentrerad undervisning, allmänt benämnt _____ , mot elevcentrerad undervisning där elever ges ett större eget ansvar för sitt lärande. Men lärar- och elevcentrering behöver inte betraktas som två _____ som lärare måste välja mellan. Undervisning av hög kvalitet kännetecknas snarare av lärarens väl _____ blandning av de två perspektiven.",
+    "answers": {
+      "a": "klassrumsundervisning – extremiteter – balanserad",
+      "b": "lärarledd undervisning – gränsfall – måttfull",
+      "c": "ämnesundervisning – paralleller – beprövade",
+      "d": "katederundervisning – ytterligheter – avvägda"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 29,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Materialet grafen består av kolatomer i ett tunt lager. Det är 200 gånger starkare än stål och kan tänjas ut kraftigt utan _____ deformation.",
+    "answers": {
+      "a": "bestående",
+      "b": "bristfällig",
+      "c": "kvarstående",
+      "d": "varaktig"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 30,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? I sitt slutgiltiga testamente från 1895 var Alfred Nobel både mer _____ och mer tydlig än i tidigare versioner: han var obestämd i fråga om vem som skulle förvalta den stora fonden, men desto mer _____ när det gällde vad som skulle belönas.",
+    "answers": {
+      "a": "oklar – tydlig",
+      "b": "spridd – klar",
+      "c": "angelägen – tveksam",
+      "d": "diffus – explicit"
+    },
+    "question_type": "MEK"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "question_number": 21,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Vi leverantörer arbetar med att ta fram nya metoder som ska underlätta _____ . Vi för bland annat diskussioner med _____ som kan tänkas använda spillet som råmaterial till olika typer av produkter.",
+    "answers": {
+      "a": "transporter – överlöpare",
+      "b": "återvinning – kunder",
+      "c": "återanvändning – klienter",
+      "d": "materialåtervinning – köpare"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 22,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Lyssnandets _____ är att du förstår en annan människa sämre ju mer uppmärksamt du lyssnar på henne.",
+    "answers": {
+      "a": "absurditet",
+      "b": "kontrast",
+      "c": "paradox",
+      "d": "motsägelse"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 23,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Den stora _____ till i första hand USA, som omfattade närmare 1,2 miljoner människor under femtio år (1860–1910), _____ de värsta riskerna för riktigt _____ konsekvenser av överbefolkningen i Sverige.",
+    "answers": {
+      "a": "emigrationen – undanröjde – ödesdigra",
+      "b": "emigrationen – undanröjde – ödesdigra",
+      "c": "immigrationen – påskyndade – akuta",
+      "d": "emigrationen – undanröjde – ödesdigra"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 24,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? _____ är en avsöndringsprodukt från till exempel sår, slemhinnor eller körtlar och kan vara sådant som tårar, spott, magsaft eller sårvätska.",
+    "answers": {
+      "a": "Sekret",
+      "b": "Saliv",
+      "c": "Sekret",
+      "d": "Sekret"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 25,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Det har alltid varit konstens roll att _____ och väcka _____ . Hur ska vi kunna föra en debatt om etik och människovärde om kulturen skrubbas ren från allt som är moraliskt besvärande?",
+    "answers": {
+      "a": "framkalla – avsmak",
+      "b": "väcka – avsky",
+      "c": "imitera – obehag",
+      "d": "provocera – anstöt"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 26,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Redaktionen _____ sig rätten att inte publicera kommentarer som bryter mot tidningens riktlinjer. Vidare kan den som skrivit en lagstridig kommentar hållas personligen ansvarig.",
+    "answers": {
+      "a": "reserverar",
+      "b": "reserverar",
+      "c": "avsäger",
+      "d": "förbehåller"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 27,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? I Sverige eftersträvar man bättre samordning när det gäller vård av patienter med kroniska sjukdomar. Det är i första hand viktigt att utreda vem som bäst kan ta på sig rollen som samordnare för dessa patienter, och därefter att fastställa det budgetansvar som _____ ska ha. Frågan om huruvida det finns någon _____ att sänka kostnaderna återstår dock att få svar på.",
+    "answers": {
+      "a": "undertecknad – förordning",
+      "b": "vederbörande – potential",
+      "c": "den nämnda – möjlighet",
+      "d": "den avsedda – kapacitet"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 28,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Jag tror att historien kan lära oss något väsentligt om dessa maktens män: Utan _____ personer i sin omgivning hade de inte varit någonting. Det är människorna runt omkring som gör makten möjlig, alla de som _____ , förklarar och bortförklarar, som _____ och intygar att allt är i sin ordning: ”Vänta bara så ska ni få se att det blir bra.”",
+    "answers": {
+      "a": "entusiastiska – fascinerar – lägger an",
+      "b": "anpassliga – rationaliserar – skyler över",
+      "c": "flexibla – omorganiserar – gömmer undan",
+      "d": "anpassningsbara – omstrukturera – mörklägger"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 29,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? En ökad förståelse för hur högre temperaturer påverkar tillväxten och i _____ kroppsstorleken hos abborren är viktig, då storleken till stor del avgör abborrens funktion i ekosystemet. Därför kan förändringar i tillväxt få _____ konsekvenser för ekosystemet.",
+    "answers": {
+      "a": "synnerhet – upptänkliga",
+      "b": "förlängningen – långtgående",
+      "c": "utvidgningen – omfattande",
+      "d": "expansionen – genomgripande"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 30,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Dessa människor var i grunden rädda och försökte knyta egna små skyddsnät, bland annat genom att gifta sig. De pampiga bröllopen var ritualer för att _____ otryggheten.",
+    "answers": {
+      "a": "besvärja",
+      "b": "trollbinda",
+      "c": "förhäxa",
+      "d": "åkalla"
+    },
+    "question_type": "MEK"
+  }
+]

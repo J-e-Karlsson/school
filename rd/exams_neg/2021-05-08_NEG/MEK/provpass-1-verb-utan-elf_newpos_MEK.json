@@ -1,0 +1,112 @@
+[
+  {
+    "question_number": 21,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Pagets bensjukdom kännetecknas av en omfattande _____ benvävnad, åtföljd av nybildning av ben i ett oregelbundet mönster. Sjukdomen medför svåra förändringar av skelettbenen då dessa initialt försvagas och därefter så småningom blir kraftigt _____.",
+    "answers": {
+      "a": "brist på – passiviserade",
+      "b": "smärta i – ackumulerade",
+      "c": "förlust av – deformerade",
+      "d": "svullnad i – transformerade"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 22,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Här kommer Lewi Pethrus pragmatism i dagen. Han hade principer, men var beredd att _____ om han uppfattade att vinsten var tillräckligt stor.",
+    "answers": {
+      "a": "falla på knä",
+      "b": "sätta ner foten",
+      "c": "dra öronen åt sig",
+      "d": "se mellan fingrarna"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 23,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Redan för mer än 10 000 år sedan började människan lämna avtryck i de _____ lagren. Det var då hon gick från att vara jägare och samlare till att bli _____, odla spannmål och hålla sig med boskap. Antalet människor ökade då kraftigt. Skogar höggs ner för att ge plats för åkrar och _____ tamdjur, vilket fick antalet vilda växter att minska.",
+    "answers": {
+      "a": "arkeologiska – nomad – frigående",
+      "b": "geologiska – bofast – betande",
+      "c": "sedimenterade – fiskare – strövande",
+      "d": "ursprungliga – bybo – gräsätande"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 24,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Om ett samboförhållande upphör och någon av parterna begär det, så ska _____ av gemensamt anskaffad bostad och bohag ske.",
+    "answers": {
+      "a": "bodelning",
+      "b": "inteckning",
+      "c": "återbetalning",
+      "d": "efterskänkning"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 25,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Undersökningen visar att skolledarna tyngs av _____ uppdrag. Den största förändringen är att allt fler arbetsuppgifter flyttas från _____, vanligen en kommun, till enskilda skolor och förskolor.",
+    "answers": {
+      "a": "tekniska – skolnämnden",
+      "b": "gymnasiala – arbetsgivaren",
+      "c": "politiska – tjänstesektorn",
+      "d": "administrativa – huvudmannen"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 26,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Barn leker gärna äventyrliga lekar och iscensätter spännande situationer. De lånar teman från exempelvis Star Wars och skapar sina egna berättelser utifrån det övergripande _____ sagoinnehållet om det onda och det goda.",
+    "answers": {
+      "a": "deterministiska",
+      "b": "reversibla",
+      "c": "arketypiska",
+      "d": "eskapistiska"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 27,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Två samtidiga processer behöver inte ha något orsakssamband, utan de kan vara just _____ processer utan inbördes _____.",
+    "answers": {
+      "a": "parallella – kausalitet",
+      "b": "oberoende – sannolikhet",
+      "c": "fortlöpande – kongruens",
+      "d": "likformiga – rangordning"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 28,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Enligt den förromantiska rörelsen skulle människan _____ naturen, inte tvärtom. Men trots att det nya _____ var ”naturlighet” anlades romantikens parker ironiskt nog ofta efter minutiöst _____ skisser.",
+    "answers": {
+      "a": "övervinna – modeordet – abstrakta",
+      "b": "separeras från – rättesnöret – detaljerade",
+      "c": "samverka med – målet – förenklade",
+      "d": "underordna sig – idealet – noggranna"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 29,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Från att ha varit en relativt ovanlig företeelse, särskilt utanför Frankrike och Italien, har trenden att _____ skor fullkomligt exploderat under det senaste decenniet. Idag finns möjlighet att få sina skor ytbehandlade på många platser och på många olika sätt.",
+    "answers": {
+      "a": "tryffera",
+      "b": "patinera",
+      "c": "decimera",
+      "d": "plombera"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 30,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Att arbetarrörelsen möttes av motstånd från dem som kände sina _____ hotade var ju självklart. Men hur kunde det komma sig att, som Per Olov Enquist skildrat i sin bok Musikanternas uttåg, arbetarna själva var så tveksamma, ja rent av hatfyllda mot de socialistiska _____?",
+    "answers": {
+      "a": "privilegier – agitatorerna",
+      "b": "befogenheter – adepterna",
+      "c": "åligganden – aktivisterna",
+      "d": "rättigheter – aspiranterna"
+    },
+    "question_type": "MEK"
+  }
+]

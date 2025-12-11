@@ -1,0 +1,112 @@
+[
+  {
+    "question_number": 21,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Utfodring påverkar i regel inte älgarnas _____ att vandra till sina vinterhemområden. Men utfodringen kan styra dem inom de områden där de befinner sig, och därigenom minskas risken för trafikolyckor.",
+    "answers": {
+      "a": "inriktning",
+      "b": "benägenhet",
+      "c": "åtagande",
+      "d": "ansträngning"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 22,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Efter att full betalning _____ och kommit oss _____ är du välkommen att hämta dina föremål hos oss på Auktionsverket.",
+    "answers": {
+      "a": "erlagts – till handa",
+      "b": "avsatts – till godo",
+      "c": "bifogats – till rätta",
+      "d": "utförts – till pass"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 23,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Av 6 kap. 29 § högskoleförordningen _____ att det för varje doktorand ska upprättas en individuell studieplan. Denna ska innehålla högskolans respektive doktorandens _____ och därutöver en tidsplan för doktorandens utbildning. Studieplanen ska fastställas efter _____ med doktoranden och handledaren.",
+    "answers": {
+      "a": "visas – underskrifter – samtal",
+      "b": "uppges – godkännande – inrådan",
+      "c": "säkerställs – inlägg – överläggningar",
+      "d": "framgår – åtaganden – samråd"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 24,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Den mindre bemedlade arbetarbefolkningen i glesbygden kunde långt in på 1900-talet utnyttja insjöfisket som en möjlighet att _____ kosten.",
+    "answers": {
+      "a": "muntra upp",
+      "b": "duka fram",
+      "c": "lägga till",
+      "d": "dryga ut"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 25,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Dansare måste träna sig i kroppsmedvetenhet och i _____ för ordlös kommunikation. Det är färdigheter som är särskilt viktiga idag, då många tillbringar så mycket tid stillasittande och i virtuella verkligheter. Vår livsstil för oss allt längre bort från våra kroppsliga _____ och från att ta till oss andra ordlösa känslobudskap.",
+    "answers": {
+      "a": "öppenhet – föraningar",
+      "b": "lyhördhet – förnimmelser",
+      "c": "synlighet – föreställningar",
+      "d": "känslighet – företeelser"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 26,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Senvuxen gran har täta årsringar och är rik på kåda, vilket ökar virkets hårdhet och gör det _____ mot fukt och röta.",
+    "answers": {
+      "a": "skyddsvärt",
+      "b": "förhärdat",
+      "c": "tålmodigt",
+      "d": "motståndskraftigt"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 27,
+    "question": "Vilket av dessa alternativ passar in i följande mening? I svensk debatt har förslag om medborgarlön med få undantag spelat en _____ roll och inte sällan _____ då det setts som något stolligt, verklighetsfrämmande och arbetsfientligt.",
+    "answers": {
+      "a": "befintlig – framhållits",
+      "b": "reducerad – förnekats",
+      "c": "ansenlig – formulerats",
+      "d": "perifer – förlöjligats"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 28,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Fyndet av människoben ger en sällsynt ögonblicksbild av komplexa _____ knutna till jägar- och samlarsamhället under äldre stenåldern, vilket _____ också låter oss få en inblick i den tidens _____.",
+    "answers": {
+      "a": "skeenden – undermedvetet – kosthållning",
+      "b": "mönster – oavsiktligt – ursprungsbefolkning",
+      "c": "ritualer – indirekt – föreställningsvärld",
+      "d": "relationer – omvänt – maktförhållanden"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 29,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Kroppen har både ett yttre och ett inre infektionsförsvar. Till det yttre försvaret hör bland annat huden och slemhinnorna samt olika typer av _____, till exempel saliv, tårar, svett och magsaft.",
+    "answers": {
+      "a": "plasma",
+      "b": "serum",
+      "c": "körtlar",
+      "d": "sekret"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 30,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Efter det att afroamerikanen Michael Brown sköts till döds av poliser i delstaten Missouri har protesterna blivit fler och allt bättre organiserade. Det lär dock ta lång tid att förändra den rasism, _____ eller _____, som finns i det amerikanska samhället.",
+    "answers": {
+      "a": "sakral – profan",
+      "b": "flagrant – subtil",
+      "c": "kongruent – apart",
+      "d": "intrikat – extrovert"
+    },
+    "question_type": "MEK"
+  }
+]
