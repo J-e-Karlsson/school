@@ -1,0 +1,112 @@
+[
+  {
+    "question_number": 21,
+    "question": "Vilket av dessa alternativ passar in i följande mening? I de fall där djurskyddsärendena går vidare till domstol vill myndigheterna vanligen ha ett intyg, eller snarare ett _____ , av den veterinär som har varit i kontakt med djuren.",
+    "answers": {
+      "a": "utlämnande",
+      "b": "utförande",
+      "c": "utlåtande",
+      "d": "utnämnande"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 22,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Inom medieforskningen är man överens om att begreppet ”fake news” är ett _____ begrepp, som används för att _____ alla sorters åsikter man själv ogillar.",
+    "answers": {
+      "a": "avigt – framhäva",
+      "b": "trubbigt – avfärda",
+      "c": "markant – rannsaka",
+      "d": "träffsäkert – bekräfta"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 23,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Vitaminer i behandlande syfte uppfattas i läkarkåren ofta som harmlös _____ , ibland som riskabelt _____ . Sannolikt riktas ofta egenbehandling med vitaminer alltför ospecifikt mot mer eller mindre diffusa symtom. Många vitaminbristtillstånd är ju svåra att fastställa även för läkare, och bristsyndrom som _____ , pellagra och beriberi har blivit så sällsynta att många läkare aldrig träffar på dem.",
+    "answers": {
+      "a": "terapi – falskspel – malaria",
+      "b": "placebo – kvacksalveri – skörbjugg",
+      "c": "homeopati – lurendrejeri – kolera",
+      "d": "healing – experimenterande – skolios"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 24,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Gränsen mellan vad vi äter och inte äter är en intellektuell och subjektiv gräns, inte en objektiv sådan, menar Richard Tellström. –Lite _____ skulle man kunna säga att alla våra föreställningar om mathållning är hjärnspöken.",
+    "answers": {
+      "a": "diskret",
+      "b": "kopiöst",
+      "c": "formellt",
+      "d": "drastiskt"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 25,
+    "question": "Vilket av dessa alternativ passar in i följande mening? En person ska inte behöva ta studielån för att läsa sådant som hen redan kan. En viktig _____ i det livslånga lärandet är därför att människor får _____ sig ”reell kompetens” och därmed kan förkorta studietiden, menar utredaren.",
+    "answers": {
+      "a": "funktion – friskriva",
+      "b": "uppgift – medföra",
+      "c": "insikt – underordna",
+      "d": "komponent – tillgodoräkna"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 26,
+    "question": "Vilket av dessa alternativ passar in i följande mening? De senaste decenniernas bevattningsteknik har gett oss goda skördar, men riskerar också att _____ våra grundvattentillgångar om inget görs.",
+    "answers": {
+      "a": "länsa",
+      "b": "norpa",
+      "c": "dragga",
+      "d": "muddra"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 27,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Om det är någonting hos Nina Stemme som påminner om Birgit Nilsson, som ju _____ måste nämnas så fort en svensk sopran visar framfötterna, är det kanske hennes sätt att stå stadigt i skorna och bygga den konstnärliga _____ på en gedigen teknisk grund.",
+    "answers": {
+      "a": "ovillkorligen – gestaltningen",
+      "b": "säkerligen – stilistiken",
+      "c": "handgripligen – inramningen",
+      "d": "uttryckligen – sinnebilden"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 28,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Kristendomens seger i Europa blev början på en månghundraårig kamp om årstidsväxlingarnas _____ , där prästerskapets maningar om allvar och _____ krockade med allmogens ______ fylleri och spektakel.",
+    "answers": {
+      "a": "folkfester – besinning – dragning till",
+      "b": "ritualer – gudsfruktan – undvikande av",
+      "c": "ceremonier – onykterhet – förkärlek för",
+      "d": "högtider – bibelcitat – motstånd mot"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 29,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Under veckorna som följde fortsatte franska ungdomar att samlas i hundratusental över hela Frankrike. I ett försök att _____ demonstranterna drog president Hollande tillbaka flera kritiserade förslag för unga och lärlingar på arbetsmarknaden. Det räckte inte.",
+    "answers": {
+      "a": "jämka",
+      "b": "blidka",
+      "c": "mildra",
+      "d": "sporra"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 30,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Nabatéerna, som grundade den antika klippstaden Petra, utvecklade ett _____ system som gjorde att de kunde samla in det regnvatten som med oregelbundna _____ faller i området.",
+    "answers": {
+      "a": "sinnrikt – intervaller",
+      "b": "formidabelt – perioder",
+      "c": "utstakat – kvantiteter",
+      "d": "avancerat – mönster"
+    },
+    "question_type": "MEK"
+  }
+]

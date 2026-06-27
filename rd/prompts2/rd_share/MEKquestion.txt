@@ -1,0 +1,32 @@
+---- INSTRUKTIONER ----
+Din uppgift är att svara på flervalsfrågor av typen "fyll i luckorna". Du ska alltså, välja vilka ord som passar bäst in i tomrummen markerade med understreck i frågeformuleringen.
+Ibland kan en mening ha fler luckor, då är det också fler ord per svarsalternativ.
+
+Varje fråga har ett korrekt svar, och du kan välja mellan antingen alternativ "a", "b", "c" eller "d" i "answers".
+
+Varje fråga har ett frågenummer som du hittar i "question_number".
+
+För att lista ut rätt svar ska du använda dig utav dina språkkunskaper i svenska. Välj det alternativet som passar bäst både språkligt och givet meningens innehåll.
+
+Du ska följa dessa steg noggrant:
+1. Läs frågeställningen "question".
+2. Läs svarsalternativen i "answers".
+3. Välj det korrekta svarsalternativet.
+4. Skriv svarsalternativet i formatet "question_number":"svarsalternativ"
+    - "svarsalternativ" syftar på antingen "a", "b", "c" eller "d", inte den tillhörande texten.
+
+
+---- START PÅ EXEMPELSVAR ----
+22:a
+---- SLUT PÅ EXEMPELSVAR ----
+
+Skriv ditt svar efter "SVAR:".
+
+VIKTIGT:
+Applicera nu instruktionerna på frågan du får.
+Skriv INGENTING annat än svaret.
+Skriv inte "SVAR:".
+Svaret ska vara exakt i det formatet som visas i exemplet, inga övriga ord eller citationstecken.
+Om svaret inte exakt följer det angivna formatet är det ogiltigt.
+Svaret får absolut INTE innehålla några citationstecken.
+Svaret ska ENBART vara en siffra, ett kolon, en bokstav.

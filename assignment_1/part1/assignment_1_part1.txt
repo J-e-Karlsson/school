@@ -1,0 +1,9 @@
+ls
+cd ..
+cd schedule/today/
+head -n 2 words.txt > two_first_lines.txt
+mv file1.txt file2.txt
+mkdir reports
+rm data.txt
+cd
+cp my_file.txt /home/username/

@@ -1,0 +1,112 @@
+[
+  {
+    "question_number": 21,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? En del av de _____ växtarterna, till exempel backsippa och nattviol, är så attraktiva att det kan kännas frestande att plocka dem, men det är alltså förbjudet. Andra arter är mer _____ eller så ovanliga att man sällan kommer i kontakt med dem.",
+    "answers": {
+      "a": "skyddade – anspråkslösa",
+      "b": "bevarade – obetydliga",
+      "c": "närodlade – svåråtkomliga",
+      "d": "fridlysta – oansenliga"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 22,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Jag hade träffat min nuvarande tjej och sagt ja till henne utan _____. Ett år senare skulle vi få en liten dotter ihop, en typ av åtagande som jag tidigare hade betraktat med bävan och skepsis.",
+    "answers": {
+      "a": "förbehåll",
+      "b": "villkor",
+      "c": "tvekan",
+      "d": "profit"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 23,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Ett sätt att karakterisera moderniteten är att se den som ett tillstånd av konstant förändring: en hela tiden accelererande _____ som leder till en intensifierad upplevelse av nuets _____ och till en kluven känsla av förväntan och _____, hopp och förtvivlan inför både det som väntar och det som i samma ögonblick måste överges.",
+    "answers": {
+      "a": "förlopp – kortvarighet – skepsis",
+      "b": "utveckling – tillfällighet – tvivel",
+      "c": "teori – närvaro – ilska",
+      "d": "process – flyktighet – misstro"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 24,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? För att en gädda ska hugga efter byte räcker det med ett litet, rörligt föremål som ger ifrån sig vibrationer och/eller blänkande ljusreflexer, något som är typiskt för en skadad liten fisk. Även mycket enkla och ofullständiga _____ kan utlösa rätt beteende, bara de avger rätt _____.",
+    "answers": {
+      "a": "duplikat – reaktioner",
+      "b": "attrapper – stimuli",
+      "c": "lockbeten – stimuli",
+      "d": "fejkföremål – stimuli"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 25,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Festspelen i Bayreuth har länge kantats av intriger, motsättningar och hänsynslösa maktkamper, och därför liknats vid en såpopera. Men de senaste turerna kring jubileumsuppsättningen av Wagners opera Tristan och Isolde får nog även den mest _____ festspelsbesökaren att ta sig för pannan.",
+    "answers": {
+      "a": "luttrade",
+      "b": "rutinerade",
+      "c": "erfarna",
+      "d": "förgrämda"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 26,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Man kände till att schizofreni, det som var orsaken till Robbie Franklins _____, inte är ett psykiskt problem utan en sjukdom i hjärnan som man inte kunde göra något åt. Den drabbade bemöttes med _____ och vänlighet i stället för förlöjligande. Robbie kunde fortsätta att prata med sin låtsaskompis.",
+    "answers": {
+      "a": "missuppfattningar – medkänsla",
+      "b": "falska uppfattningar – vänlighet",
+      "c": "identitetskris – uppskattning",
+      "d": "vanföreställningar – sympati"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 27,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Den svenska regeringen har _____ att de tänker höja pensionsåldern under innevarande mandatperiod.",
+    "answers": {
+      "a": "proklamerat",
+      "b": "budgeterat",
+      "c": "aviserat",
+      "d": "annonserat"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 28,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Ladusvalan är en fågel som trivs bäst i öppna landskap, och den _____ ofta i lador eller andra slags byggnader. Den bygger ett skålformat _____ av bland annat lera, och _____ sig på insekter som den fångar i flykten.",
+    "answers": {
+      "a": "parar – näste – försörjer",
+      "b": "avlar – näste – försörjer",
+      "c": "kurar – näste – förser",
+      "d": "häckar – rede – livnär"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 29,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Fritidshemmen är ofta integrerade med skolan _____ personal, lokaler samt den pedagogiska verksamheten.",
+    "answers": {
+      "a": "i brist på",
+      "b": "vad avser",
+      "c": "angående",
+      "d": "beträffande"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 30,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Kunskapen om dessa _____ spår har utvecklats snabbt under de senaste tjugo åren, och nu börjar det finnas en vetenskaplig _____ om att vår art har sitt ursprung i Afrika.",
+    "answers": {
+      "a": "molekylära – enighet",
+      "b": "preliminära – tes",
+      "c": "genetiska – samsyn",
+      "d": "ärftliga – konsensus"
+    },
+    "question_type": "MEK"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "question_number": 21,
+    "question": "Vilket av dessa alternativ passar in i följande mening? I förhandlingarna om förslaget är EU-domstolens dom ett trumfkort för de medlemsländer som vill täppa till vad de uppfattar som ett _____ i förordningen.",
+    "answers": {
+      "a": "sidospår",
+      "b": "lönnfack",
+      "c": "kryphål",
+      "d": "skyddsnät"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 22,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Det material som används vid murningen styr oftast också valet av verktyg, men för slutbearbetning av putsen gäller ofta att man tar vad man har i verktygsväg. Det är snarare _____ än verktygen som måste anpassas till materialet om det ska bli _____ konstruktioner.",
+    "answers": {
+      "a": "magkänslan – anständiga",
+      "b": "tålamodet – behändiga",
+      "c": "ögonmåttet – fullständiga",
+      "d": "handlaget – beständiga"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 23,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Språkrådet anser inte att flödet av lånord från engelska till svenska är _____ . Mer problematiskt är i stället en företeelse som många språkbrukare kanske inte uppfattar, nämligen _____ . Det innebär att man inom vissa verksamhetsområden väljer att använda engelska uttryck i stället för svenska, och därmed inte utvecklar en svensk _____ inom området.",
+    "answers": {
+      "a": "betydande – översättningslån – tradition",
+      "b": "tvetydigt – tolkningsföreträden – samtalston",
+      "c": "oroväckande – domänförluster – terminologi",
+      "d": "gränslöst – betydelseglidningar – förståelse"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 24,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Håligheten i stenflisan rymmer spår av tre olika sorters mikroorganismer, ett slags miniatyrsamhälle vars medlemmar antagligen levde i _____ för 48 miljoner år sedan.",
+    "answers": {
+      "a": "kollektiv",
+      "b": "treenighet",
+      "c": "polygami",
+      "d": "symbios"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 25,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Om uppgifterna stämmer sneglar Kroatien åt samma håll som Ungern, Polen och framför allt Ryssland har gjort. Efter en period av öppenhet och demokrati kommer en _____ där länderna kantrar mot mer _____ lösningar.",
+    "answers": {
+      "a": "boom – sekulära",
+      "b": "trigger – diktatoriska",
+      "c": "peak – suspekta",
+      "d": "backlash – auktoritära"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 26,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Kan man vara beroende av socker? Frågan har debatterats i flera decennier utan att få något _____ svar.",
+    "answers": {
+      "a": "ensidigt",
+      "b": "envetet",
+      "c": "enskilt",
+      "d": "entydigt"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 27,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Regissören Ingmar Bergmans _____ över en symfoniorkesters förmåga att verka som en organism, sammansmält och samspelt, för att förmedla musiken under dirigentens taktpinne, är äkta och _____ .",
+    "answers": {
+      "a": "förundran – oförställd",
+      "b": "fantasi – oförarglig",
+      "c": "förtjusning – oförutsägbar",
+      "d": "fundering – oförbehållsam"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 28,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Med det moderna projektet skulle individen bli sin egen lyckas _____ . Och visst har vi vunnit en _____ som mänskligheten aldrig tidigare upplevt, men när vi ställde siktet mot framtiden och kapade banden bakåt blev många av oss _____ .",
+    "answers": {
+      "a": "ost – kunskap – rådlösa",
+      "b": "lott – rikedom – arvlösa",
+      "c": "smed – frihet – rotlösa",
+      "d": "dräng – standard – maktlösa"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 29,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Ångestens medicinska historia präglas av tillfälligheter och slumpmässiga upptäckter, vilket delvis förklarar _____ vilka diagnoser som förekommer.",
+    "answers": {
+      "a": "meningen med",
+      "b": "godtyckligheten i",
+      "c": "rangordningen av",
+      "d": "sannolikheten för"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 30,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Omkring 1910 gick det för första gången att _____ en realexamen per korrespondens i utbildningsföretaget Hermods regi, vilket ledde till att verksamheten expanderade kraftigt. Grundaren Hans Svensson Hermods vision var att alla svenskar, även landsbygdsbefolkningen, skulle kunna läsa kurser som de hade _____ för.",
+    "answers": {
+      "a": "avlägga – fallenhet",
+      "b": "beställa – utbildning",
+      "c": "tillämpa – resurser",
+      "d": "utfärda – befogenhet"
+    },
+    "question_type": "MEK"
+  }
+]
