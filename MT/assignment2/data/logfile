@@ -1,0 +1,1314 @@
+Using SCRIPTS_ROOTDIR: /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts
+Using multi-thread GIZA
+using gzip 
+(1) preparing corpus @ Fri Sep 12 10:25:04 CEST 2025
+Executing: mkdir -p /home/jaka6039/MT/assignment2/data/output/corpus
+(1.0) selecting factors @ Fri Sep 12 10:25:04 CEST 2025
+Forking...
+(1.2) creating vcb file /home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb @ Fri Sep 12 10:25:04 CEST 2025
+(1.1) running mkcls  @ Fri Sep 12 10:25:04 CEST 2025
+/common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/training-tools/mkcls -c50 -n2 -p/home/jaka6039/MT/assignment2/data/europarl.train.tk.lc.fl.sv -V/home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb.classes opt
+Executing: /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/training-tools/mkcls -c50 -n2 -p/home/jaka6039/MT/assignment2/data/europarl.train.tk.lc.fl.sv -V/home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb.classes opt
+(1.1) running mkcls  @ Fri Sep 12 10:25:04 CEST 2025
+/common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/training-tools/mkcls -c50 -n2 -p/home/jaka6039/MT/assignment2/data/europarl.train.tk.lc.fl.en -V/home/jaka6039/MT/assignment2/data/output/corpus/en.vcb.classes opt
+Executing: /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/training-tools/mkcls -c50 -n2 -p/home/jaka6039/MT/assignment2/data/europarl.train.tk.lc.fl.en -V/home/jaka6039/MT/assignment2/data/output/corpus/en.vcb.classes opt
+(1.2) creating vcb file /home/jaka6039/MT/assignment2/data/output/corpus/en.vcb @ Fri Sep 12 10:25:04 CEST 2025
+(1.3) numberizing corpus /home/jaka6039/MT/assignment2/data/output/corpus/sv-en-int-train.snt @ Fri Sep 12 10:25:04 CEST 2025
+(1.3) numberizing corpus /home/jaka6039/MT/assignment2/data/output/corpus/en-sv-int-train.snt @ Fri Sep 12 10:25:05 CEST 2025
+
+***** 2 runs. (algorithm:TA)*****
+;KategProblem:cats: 50   words: 8818
+
+start-costs: MEAN: 2.08479e+06 (2.08434e+06-2.08524e+06)  SIGMA:448.664   
+  end-costs: MEAN: 1.92471e+06 (1.92414e+06-1.92528e+06)  SIGMA:566.921   
+   start-pp: MEAN: 347.181 (346.3-348.062)  SIGMA:0.881087   
+     end-pp: MEAN: 140.381 (139.931-140.831)  SIGMA:0.450164   
+ iterations: MEAN: 263378 (248077-278679)  SIGMA:15301   
+       time: MEAN: 4.95679 (4.89674-5.01683)  SIGMA:0.0600475   
+
+***** 2 runs. (algorithm:TA)*****
+;KategProblem:cats: 50   words: 13758
+
+start-costs: MEAN: 1.85996e+06 (1.85789e+06-1.86203e+06)  SIGMA:2067.14   
+  end-costs: MEAN: 1.7146e+06 (1.7133e+06-1.71591e+06)  SIGMA:1305.1   
+   start-pp: MEAN: 519.261 (512.499-526.023)  SIGMA:6.76205   
+     end-pp: MEAN: 207.804 (206.096-209.513)  SIGMA:1.70858   
+ iterations: MEAN: 324944 (321413-328476)  SIGMA:3531.5   
+       time: MEAN: 5.73195 (5.19172-6.27219)  SIGMA:0.540232   
+Waiting for mkcls processes to finish...
+(2) running giza @ Fri Sep 12 10:25:24 CEST 2025
+(2.1a) running snt2cooc sv-en @ Fri Sep 12 10:25:24 CEST 2025
+
+Executing: mkdir -p /home/jaka6039/MT/assignment2/data/output/giza.sv-en
+Executing: /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/training-tools/snt2cooc /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en.cooc /home/jaka6039/MT/assignment2/data/output/corpus/en.vcb /home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb /home/jaka6039/MT/assignment2/data/output/corpus/sv-en-int-train.snt
+/common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/training-tools/snt2cooc /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en.cooc /home/jaka6039/MT/assignment2/data/output/corpus/en.vcb /home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb /home/jaka6039/MT/assignment2/data/output/corpus/sv-en-int-train.snt
+(2.1a) running snt2cooc en-sv @ Fri Sep 12 10:25:24 CEST 2025
+
+Executing: mkdir -p /home/jaka6039/MT/assignment2/data/output/giza.en-sv
+Executing: /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/training-tools/snt2cooc /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv.cooc /home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb /home/jaka6039/MT/assignment2/data/output/corpus/en.vcb /home/jaka6039/MT/assignment2/data/output/corpus/en-sv-int-train.snt
+/common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/training-tools/snt2cooc /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv.cooc /home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb /home/jaka6039/MT/assignment2/data/output/corpus/en.vcb /home/jaka6039/MT/assignment2/data/output/corpus/en-sv-int-train.snt
+line 1000
+line 1000
+line 2000
+line 2000
+line 3000
+line 3000
+line 4000
+line 4000
+line 5000
+line 5000
+line 6000
+line 7000
+line 6000
+line 8000
+END.
+line 7000
+line 8000
+END.
+(2.1b) running giza sv-en @ Fri Sep 12 10:25:27 CEST 2025
+/common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/training-tools/mgiza  -CoocurrenceFile /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en.cooc -c /home/jaka6039/MT/assignment2/data/output/corpus/sv-en-int-train.snt -m1 5 -m2 0 -m3 3 -m4 3 -model1dumpfrequency 1 -model4smoothfactor 0.4 -ncpus 4 -nodumps 1 -nsmooth 4 -o /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en -onlyaldumps 1 -p0 0.999 -s /home/jaka6039/MT/assignment2/data/output/corpus/en.vcb -t /home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb
+Executing: /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/training-tools/mgiza  -CoocurrenceFile /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en.cooc -c /home/jaka6039/MT/assignment2/data/output/corpus/sv-en-int-train.snt -m1 5 -m2 0 -m3 3 -m4 3 -model1dumpfrequency 1 -model4smoothfactor 0.4 -ncpus 4 -nodumps 1 -nsmooth 4 -o /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en -onlyaldumps 1 -p0 0.999 -s /home/jaka6039/MT/assignment2/data/output/corpus/en.vcb -t /home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb
+/common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/training-tools/mgiza  -CoocurrenceFile /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en.cooc -c /home/jaka6039/MT/assignment2/data/output/corpus/sv-en-int-train.snt -m1 5 -m2 0 -m3 3 -m4 3 -model1dumpfrequency 1 -model4smoothfactor 0.4 -ncpus 4 -nodumps 1 -nsmooth 4 -o /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en -onlyaldumps 1 -p0 0.999 -s /home/jaka6039/MT/assignment2/data/output/corpus/en.vcb -t /home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb
+Starting MGIZA 
+Initializing Global Paras 
+DEBUG: EnterDEBUG: PrefixDEBUG: LogParsing Arguments 
+Parameter 'coocurrencefile' changed from '' to '/home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en.cooc'
+Parameter 'c' changed from '' to '/home/jaka6039/MT/assignment2/data/output/corpus/sv-en-int-train.snt'
+Parameter 'm3' changed from '5' to '3'
+Parameter 'm4' changed from '5' to '3'
+Parameter 'model1dumpfrequency' changed from '0' to '1'
+Parameter 'model4smoothfactor' changed from '0.2' to '0.4'
+Parameter 'ncpus' changed from '0' to '4'
+Parameter 'nodumps' changed from '0' to '1'
+Parameter 'nsmooth' changed from '64' to '4'
+Parameter 'o' changed from '125-09-12.102527.jaka6039' to '/home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en'
+Parameter 'onlyaldumps' changed from '0' to '1'
+Parameter 'p0' changed from '-1' to '0.999'
+Parameter 's' changed from '' to '/home/jaka6039/MT/assignment2/data/output/corpus/en.vcb'
+Parameter 't' changed from '' to '/home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb'
+general parameters:
+-------------------
+ml = 101  (maximum sentence length)
+
+No. of iterations:
+-------------------
+hmmiterations = 5  (mh)
+model1iterations = 5  (number of iterations for Model 1)
+model2iterations = 0  (number of iterations for Model 2)
+model3iterations = 3  (number of iterations for Model 3)
+model4iterations = 3  (number of iterations for Model 4)
+model5iterations = 0  (number of iterations for Model 5)
+model6iterations = 0  (number of iterations for Model 6)
+
+parameter for various heuristics in GIZA++ for efficient training:
+------------------------------------------------------------------
+countincreasecutoff = 1e-06  (Counts increment cutoff threshold)
+countincreasecutoffal = 1e-05  (Counts increment cutoff threshold for alignments in training of fertility models)
+mincountincrease = 1e-07  (minimal count increase)
+peggedcutoff = 0.03  (relative cutoff probability for alignment-centers in pegging)
+probcutoff = 1e-07  (Probability cutoff threshold for lexicon probabilities)
+probsmooth = 1e-07  (probability smoothing (floor) value )
+
+parameters for describing the type and amount of output:
+-----------------------------------------------------------
+compactalignmentformat = 0  (0: detailled alignment format, 1: compact alignment format )
+countoutputprefix =   (The prefix for output counts)
+dumpcount = 0  (Whether we are going to dump count (in addition to) final output?)
+dumpcountusingwordstring = 0  (In count table, should actual word appears or just the id? default is id)
+hmmdumpfrequency = 0  (dump frequency of HMM)
+l = 125-09-12.102527.jaka6039.log  (log file name)
+log = 0  (0: no logfile; 1: logfile)
+model1dumpfrequency = 1  (dump frequency of Model 1)
+model2dumpfrequency = 0  (dump frequency of Model 2)
+model345dumpfrequency = 0  (dump frequency of Model 3/4/5)
+nbestalignments = 0  (for printing the n best alignments)
+nodumps = 1  (1: do not write any files)
+o = /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en  (output file prefix)
+onlyaldumps = 1  (1: do not write any files)
+outputpath =   (output path)
+transferdumpfrequency = 0  (output: dump of transfer from Model 2 to 3)
+verbose = 0  (0: not verbose; 1: verbose)
+verbosesentence = -10  (number of sentence for which a lot of information should be printed (negative: no output))
+
+parameters describing input files:
+----------------------------------
+c = /home/jaka6039/MT/assignment2/data/output/corpus/sv-en-int-train.snt  (training corpus file name)
+d =   (dictionary file name)
+previousa =   (The a-table of previous step)
+previousd =   (The d-table of previous step)
+previousd4 =   (The d4-table of previous step)
+previousd42 =   (The d4-table (2) of previous step)
+previoushmm =   (The hmm-table of previous step)
+previousn =   (The n-table of previous step)
+previousp0 =   (The P0 previous step)
+previoust =   (The t-table of previous step)
+restart = 0  (Restart training from a level,0: Normal restart, from model 1, 1: Model 1, 2: Model 2 Init (Using Model 1 model input and train model 2), 3: Model 2, (using model 2 input and train model 2), 4 : HMM Init (Using Model 1 model and train HMM), 5: HMM (Using Model 2 model and train HMM) 6 : HMM (Using HMM Model and train HMM), 7: Model 3 Init (Use HMM model and train model 3) 8: Model 3 Init (Use Model 2 model and train model 3) 9: Model 3, 10: Model 4 Init (Use Model 3 model and train Model 4) 11: Model 4 and on, )
+s = /home/jaka6039/MT/assignment2/data/output/corpus/en.vcb  (source vocabulary file name)
+sourcevocabularyclasses =   (source vocabulary classes file name)
+t = /home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb  (target vocabulary file name)
+targetvocabularyclasses =   (target vocabulary classes file name)
+tc =   (test corpus file name)
+
+smoothing parameters:
+---------------------
+emalsmooth = 0.2  (f-b-trn: smoothing factor for HMM alignment model (can be ignored by -emSmoothHMM))
+model23smoothfactor = 0  (smoothing parameter for IBM-2/3 (interpolation with constant))
+model4smoothfactor = 0.4  (smooting parameter for alignment probabilities in Model 4)
+model5smoothfactor = 0.1  (smooting parameter for distortion probabilities in Model 5 (linear interpolation with constant))
+nsmooth = 4  (smoothing for fertility parameters (good value: 64): weight for wordlength-dependent fertility parameters)
+nsmoothgeneral = 0  (smoothing for fertility parameters (default: 0): weight for word-independent fertility parameters)
+
+parameters modifying the models:
+--------------------------------
+compactadtable = 1  (1: only 3-dimensional alignment table for IBM-2 and IBM-3)
+deficientdistortionforemptyword = 0  (0: IBM-3/IBM-4 as described in (Brown et al. 1993); 1: distortion model of empty word is deficient; 2: distoriton model of empty word is deficient (differently); setting this parameter also helps to avoid that during IBM-3 and IBM-4 training too many words are aligned with the empty word)
+depm4 = 76  (d_{=1}: &1:l, &2:m, &4:F, &8:E, d_{>1}&16:l, &32:m, &64:F, &128:E)
+depm5 = 68  (d_{=1}: &1:l, &2:m, &4:F, &8:E, d_{>1}&16:l, &32:m, &64:F, &128:E)
+emalignmentdependencies = 2  (lextrain: dependencies in the HMM alignment model.  &1: sentence length; &2: previous class; &4: previous position;  &8: French position; &16: French class)
+emprobforempty = 0.4  (f-b-trn: probability for empty word)
+
+parameters modifying the EM-algorithm:
+--------------------------------------
+m5p0 = -1  (fixed value for parameter p_0 in IBM-5 (if negative then it is determined in training))
+manlexfactor1 = 0  ()
+manlexfactor2 = 0  ()
+manlexmaxmultiplicity = 20  ()
+maxfertility = 10  (maximal fertility for fertility models)
+ncpus = 4  (Number of threads to be executed, use 0 if you just want all CPUs to be used)
+p0 = 0.999  (fixed value for parameter p_0 in IBM-3/4 (if negative then it is determined in training))
+pegging = 0  (0: no pegging; 1: do pegging)
+
+Parameter 'sourcevocabularyclasses' changed from '' to '/home/jaka6039/MT/assignment2/data/output/corpus/en.vcb.classes'
+Parameter 'targetvocabularyclasses' changed from '' to '/home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb.classes'
+Opening Log File 
+Printing parameters 
+general parameters:
+-------------------
+ml = 101  (maximum sentence length)
+
+No. of iterations:
+-------------------
+hmmiterations = 5  (mh)
+model1iterations = 5  (number of iterations for Model 1)
+model2iterations = 0  (number of iterations for Model 2)
+model3iterations = 3  (number of iterations for Model 3)
+model4iterations = 3  (number of iterations for Model 4)
+model5iterations = 0  (number of iterations for Model 5)
+model6iterations = 0  (number of iterations for Model 6)
+
+parameter for various heuristics in GIZA++ for efficient training:
+------------------------------------------------------------------
+countincreasecutoff = 1e-06  (Counts increment cutoff threshold)
+countincreasecutoffal = 1e-05  (Counts increment cutoff threshold for alignments in training of fertility models)
+mincountincrease = 1e-07  (minimal count increase)
+peggedcutoff = 0.03  (relative cutoff probability for alignment-centers in pegging)
+probcutoff = 1e-07  (Probability cutoff threshold for lexicon probabilities)
+probsmooth = 1e-07  (probability smoothing (floor) value )
+
+parameters for describing the type and amount of output:
+-----------------------------------------------------------
+compactalignmentformat = 0  (0: detailled alignment format, 1: compact alignment format )
+countoutputprefix =   (The prefix for output counts)
+dumpcount = 0  (Whether we are going to dump count (in addition to) final output?)
+dumpcountusingwordstring = 0  (In count table, should actual word appears or just the id? default is id)
+hmmdumpfrequency = 0  (dump frequency of HMM)
+l = 125-09-12.102527.jaka6039.log  (log file name)
+log = 0  (0: no logfile; 1: logfile)
+model1dumpfrequency = 1  (dump frequency of Model 1)
+model2dumpfrequency = 0  (dump frequency of Model 2)
+model345dumpfrequency = 0  (dump frequency of Model 3/4/5)
+nbestalignments = 0  (for printing the n best alignments)
+nodumps = 1  (1: do not write any files)
+o = /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en  (output file prefix)
+onlyaldumps = 1  (1: do not write any files)
+outputpath =   (output path)
+transferdumpfrequency = 0  (output: dump of transfer from Model 2 to 3)
+verbose = 0  (0: not verbose; 1: verbose)
+verbosesentence = -10  (number of sentence for which a lot of information should be printed (negative: no output))
+
+parameters describing input files:
+----------------------------------
+c = /home/jaka6039/MT/assignment2/data/output/corpus/sv-en-int-train.snt  (training corpus file name)
+d =   (dictionary file name)
+previousa =   (The a-table of previous step)
+previousd =   (The d-table of previous step)
+previousd4 =   (The d4-table of previous step)
+previousd42 =   (The d4-table (2) of previous step)
+previoushmm =   (The hmm-table of previous step)
+previousn =   (The n-table of previous step)
+previousp0 =   (The P0 previous step)
+previoust =   (The t-table of previous step)
+restart = 0  (Restart training from a level,0: Normal restart, from model 1, 1: Model 1, 2: Model 2 Init (Using Model 1 model input and train model 2), 3: Model 2, (using model 2 input and train model 2), 4 : HMM Init (Using Model 1 model and train HMM), 5: HMM (Using Model 2 model and train HMM) 6 : HMM (Using HMM Model and train HMM), 7: Model 3 Init (Use HMM model and train model 3) 8: Model 3 Init (Use Model 2 model and train model 3) 9: Model 3, 10: Model 4 Init (Use Model 3 model and train Model 4) 11: Model 4 and on, )
+s = /home/jaka6039/MT/assignment2/data/output/corpus/en.vcb  (source vocabulary file name)
+sourcevocabularyclasses = /home/jaka6039/MT/assignment2/data/output/corpus/en.vcb.classes  (source vocabulary classes file name)
+t = /home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb  (target vocabulary file name)
+targetvocabularyclasses = /home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb.classes  (target vocabulary classes file name)
+tc =   (test corpus file name)
+
+smoothing parameters:
+---------------------
+emalsmooth = 0.2  (f-b-trn: smoothing factor for HMM alignment model (can be ignored by -emSmoothHMM))
+model23smoothfactor = 0  (smoothing parameter for IBM-2/3 (interpolation with constant))
+model4smoothfactor = 0.4  (smooting parameter for alignment probabilities in Model 4)
+model5smoothfactor = 0.1  (smooting parameter for distortion probabilities in Model 5 (linear interpolation with constant))
+nsmooth = 4  (smoothing for fertility parameters (good value: 64): weight for wordlength-dependent fertility parameters)
+nsmoothgeneral = 0  (smoothing for fertility parameters (default: 0): weight for word-independent fertility parameters)
+
+parameters modifying the models:
+--------------------------------
+compactadtable = 1  (1: only 3-dimensional alignment table for IBM-2 and IBM-3)
+deficientdistortionforemptyword = 0  (0: IBM-3/IBM-4 as described in (Brown et al. 1993); 1: distortion model of empty word is deficient; 2: distoriton model of empty word is deficient (differently); setting this parameter also helps to avoid that during IBM-3 and IBM-4 training too many words are aligned with the empty word)
+depm4 = 76  (d_{=1}: &1:l, &2:m, &4:F, &8:E, d_{>1}&16:l, &32:m, &64:F, &128:E)
+depm5 = 68  (d_{=1}: &1:l, &2:m, &4:F, &8:E, d_{>1}&16:l, &32:m, &64:F, &128:E)
+emalignmentdependencies = 2  (lextrain: dependencies in the HMM alignment model.  &1: sentence length; &2: previous class; &4: previous position;  &8: French position; &16: French class)
+emprobforempty = 0.4  (f-b-trn: probability for empty word)
+
+parameters modifying the EM-algorithm:
+--------------------------------------
+m5p0 = -1  (fixed value for parameter p_0 in IBM-5 (if negative then it is determined in training))
+manlexfactor1 = 0  ()
+manlexfactor2 = 0  ()
+manlexmaxmultiplicity = 20  ()
+maxfertility = 10  (maximal fertility for fertility models)
+ncpus = 4  (Number of threads to be executed, use 0 if you just want all CPUs to be used)
+p0 = 0.999  (fixed value for parameter p_0 in IBM-3/4 (if negative then it is determined in training))
+pegging = 0  (0: no pegging; 1: do pegging)
+
+reading vocabulary files 
+Reading vocabulary file from:/home/jaka6039/MT/assignment2/data/output/corpus/en.vcb
+Reading vocabulary file from:/home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb
+Source vocabulary list has 8819 unique tokens 
+Target vocabulary list has 13759 unique tokens 
+Calculating vocabulary frequencies from corpus /home/jaka6039/MT/assignment2/data/output/corpus/sv-en-int-train.snt
+Reading more sentence pairs into memory ... 
+Corpus fits in memory, corpus has: 8008 sentence pairs.
+Compacted Vocabulary, eliminated 1 entries 8818 remains 
+Compacted Vocabulary, eliminated 1 entries 13758 remains 
+ Train total # sentence pairs (weighted): 8008
+Size of source portion of the training corpus: 168782 tokens
+Size of the target portion of the training corpus: 150720 tokens 
+In source portion of the training corpus, only 8818 unique tokens appeared
+In target portion of the training corpus, only 13757 unique tokens appeared
+lambda for PP calculation in IBM-1,IBM-2,HMM:= 150720/(176790-8008)== 0.892986
+Dictionary Loading complete
+Inputfile in /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en.cooc
+There are 1137756 1137756 entries in table
+cooc file loading completed
+TTable initialization OK
+Model one initalization OK
+(2.1b) running giza en-sv @ Fri Sep 12 10:25:28 CEST 2025
+/common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/training-tools/mgiza  -CoocurrenceFile /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv.cooc -c /home/jaka6039/MT/assignment2/data/output/corpus/en-sv-int-train.snt -m1 5 -m2 0 -m3 3 -m4 3 -model1dumpfrequency 1 -model4smoothfactor 0.4 -ncpus 4 -nodumps 1 -nsmooth 4 -o /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv -onlyaldumps 1 -p0 0.999 -s /home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb -t /home/jaka6039/MT/assignment2/data/output/corpus/en.vcb
+Executing: /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/training-tools/mgiza  -CoocurrenceFile /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv.cooc -c /home/jaka6039/MT/assignment2/data/output/corpus/en-sv-int-train.snt -m1 5 -m2 0 -m3 3 -m4 3 -model1dumpfrequency 1 -model4smoothfactor 0.4 -ncpus 4 -nodumps 1 -nsmooth 4 -o /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv -onlyaldumps 1 -p0 0.999 -s /home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb -t /home/jaka6039/MT/assignment2/data/output/corpus/en.vcb
+/common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/training-tools/mgiza  -CoocurrenceFile /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv.cooc -c /home/jaka6039/MT/assignment2/data/output/corpus/en-sv-int-train.snt -m1 5 -m2 0 -m3 3 -m4 3 -model1dumpfrequency 1 -model4smoothfactor 0.4 -ncpus 4 -nodumps 1 -nsmooth 4 -o /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv -onlyaldumps 1 -p0 0.999 -s /home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb -t /home/jaka6039/MT/assignment2/data/output/corpus/en.vcb
+Starting MGIZA 
+Initializing Global Paras 
+DEBUG: EnterDEBUG: PrefixDEBUG: LogParsing Arguments 
+Parameter 'coocurrencefile' changed from '' to '/home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv.cooc'
+Parameter 'c' changed from '' to '/home/jaka6039/MT/assignment2/data/output/corpus/en-sv-int-train.snt'
+Parameter 'm3' changed from '5' to '3'
+Parameter 'm4' changed from '5' to '3'
+Parameter 'model1dumpfrequency' changed from '0' to '1'
+Parameter 'model4smoothfactor' changed from '0.2' to '0.4'
+Parameter 'ncpus' changed from '0' to '4'
+Parameter 'nodumps' changed from '0' to '1'
+Parameter 'nsmooth' changed from '64' to '4'
+Parameter 'o' changed from '125-09-12.102528.jaka6039' to '/home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv'
+Parameter 'onlyaldumps' changed from '0' to '1'
+Parameter 'p0' changed from '-1' to '0.999'
+Parameter 's' changed from '' to '/home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb'
+Parameter 't' changed from '' to '/home/jaka6039/MT/assignment2/data/output/corpus/en.vcb'
+general parameters:
+-------------------
+ml = 101  (maximum sentence length)
+
+No. of iterations:
+-------------------
+hmmiterations = 5  (mh)
+model1iterations = 5  (number of iterations for Model 1)
+model2iterations = 0  (number of iterations for Model 2)
+model3iterations = 3  (number of iterations for Model 3)
+model4iterations = 3  (number of iterations for Model 4)
+model5iterations = 0  (number of iterations for Model 5)
+model6iterations = 0  (number of iterations for Model 6)
+
+parameter for various heuristics in GIZA++ for efficient training:
+------------------------------------------------------------------
+countincreasecutoff = 1e-06  (Counts increment cutoff threshold)
+countincreasecutoffal = 1e-05  (Counts increment cutoff threshold for alignments in training of fertility models)
+mincountincrease = 1e-07  (minimal count increase)
+peggedcutoff = 0.03  (relative cutoff probability for alignment-centers in pegging)
+probcutoff = 1e-07  (Probability cutoff threshold for lexicon probabilities)
+probsmooth = 1e-07  (probability smoothing (floor) value )
+
+parameters for describing the type and amount of output:
+-----------------------------------------------------------
+compactalignmentformat = 0  (0: detailled alignment format, 1: compact alignment format )
+countoutputprefix =   (The prefix for output counts)
+dumpcount = 0  (Whether we are going to dump count (in addition to) final output?)
+dumpcountusingwordstring = 0  (In count table, should actual word appears or just the id? default is id)
+hmmdumpfrequency = 0  (dump frequency of HMM)
+l = 125-09-12.102528.jaka6039.log  (log file name)
+log = 0  (0: no logfile; 1: logfile)
+model1dumpfrequency = 1  (dump frequency of Model 1)
+model2dumpfrequency = 0  (dump frequency of Model 2)
+model345dumpfrequency = 0  (dump frequency of Model 3/4/5)
+nbestalignments = 0  (for printing the n best alignments)
+nodumps = 1  (1: do not write any files)
+o = /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv  (output file prefix)
+onlyaldumps = 1  (1: do not write any files)
+outputpath =   (output path)
+transferdumpfrequency = 0  (output: dump of transfer from Model 2 to 3)
+verbose = 0  (0: not verbose; 1: verbose)
+verbosesentence = -10  (number of sentence for which a lot of information should be printed (negative: no output))
+
+parameters describing input files:
+----------------------------------
+c = /home/jaka6039/MT/assignment2/data/output/corpus/en-sv-int-train.snt  (training corpus file name)
+d =   (dictionary file name)
+previousa =   (The a-table of previous step)
+previousd =   (The d-table of previous step)
+previousd4 =   (The d4-table of previous step)
+previousd42 =   (The d4-table (2) of previous step)
+previoushmm =   (The hmm-table of previous step)
+previousn =   (The n-table of previous step)
+previousp0 =   (The P0 previous step)
+previoust =   (The t-table of previous step)
+restart = 0  (Restart training from a level,0: Normal restart, from model 1, 1: Model 1, 2: Model 2 Init (Using Model 1 model input and train model 2), 3: Model 2, (using model 2 input and train model 2), 4 : HMM Init (Using Model 1 model and train HMM), 5: HMM (Using Model 2 model and train HMM) 6 : HMM (Using HMM Model and train HMM), 7: Model 3 Init (Use HMM model and train model 3) 8: Model 3 Init (Use Model 2 model and train model 3) 9: Model 3, 10: Model 4 Init (Use Model 3 model and train Model 4) 11: Model 4 and on, )
+s = /home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb  (source vocabulary file name)
+sourcevocabularyclasses =   (source vocabulary classes file name)
+t = /home/jaka6039/MT/assignment2/data/output/corpus/en.vcb  (target vocabulary file name)
+targetvocabularyclasses =   (target vocabulary classes file name)
+tc =   (test corpus file name)
+
+smoothing parameters:
+---------------------
+emalsmooth = 0.2  (f-b-trn: smoothing factor for HMM alignment model (can be ignored by -emSmoothHMM))
+model23smoothfactor = 0  (smoothing parameter for IBM-2/3 (interpolation with constant))
+model4smoothfactor = 0.4  (smooting parameter for alignment probabilities in Model 4)
+model5smoothfactor = 0.1  (smooting parameter for distortion probabilities in Model 5 (linear interpolation with constant))
+nsmooth = 4  (smoothing for fertility parameters (good value: 64): weight for wordlength-dependent fertility parameters)
+nsmoothgeneral = 0  (smoothing for fertility parameters (default: 0): weight for word-independent fertility parameters)
+
+parameters modifying the models:
+--------------------------------
+compactadtable = 1  (1: only 3-dimensional alignment table for IBM-2 and IBM-3)
+deficientdistortionforemptyword = 0  (0: IBM-3/IBM-4 as described in (Brown et al. 1993); 1: distortion model of empty word is deficient; 2: distoriton model of empty word is deficient (differently); setting this parameter also helps to avoid that during IBM-3 and IBM-4 training too many words are aligned with the empty word)
+depm4 = 76  (d_{=1}: &1:l, &2:m, &4:F, &8:E, d_{>1}&16:l, &32:m, &64:F, &128:E)
+depm5 = 68  (d_{=1}: &1:l, &2:m, &4:F, &8:E, d_{>1}&16:l, &32:m, &64:F, &128:E)
+emalignmentdependencies = 2  (lextrain: dependencies in the HMM alignment model.  &1: sentence length; &2: previous class; &4: previous position;  &8: French position; &16: French class)
+emprobforempty = 0.4  (f-b-trn: probability for empty word)
+
+parameters modifying the EM-algorithm:
+--------------------------------------
+m5p0 = -1  (fixed value for parameter p_0 in IBM-5 (if negative then it is determined in training))
+manlexfactor1 = 0  ()
+manlexfactor2 = 0  ()
+manlexmaxmultiplicity = 20  ()
+maxfertility = 10  (maximal fertility for fertility models)
+ncpus = 4  (Number of threads to be executed, use 0 if you just want all CPUs to be used)
+p0 = 0.999  (fixed value for parameter p_0 in IBM-3/4 (if negative then it is determined in training))
+pegging = 0  (0: no pegging; 1: do pegging)
+
+Parameter 'sourcevocabularyclasses' changed from '' to '/home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb.classes'
+Parameter 'targetvocabularyclasses' changed from '' to '/home/jaka6039/MT/assignment2/data/output/corpus/en.vcb.classes'
+Opening Log File 
+Printing parameters 
+general parameters:
+-------------------
+ml = 101  (maximum sentence length)
+
+No. of iterations:
+-------------------
+hmmiterations = 5  (mh)
+model1iterations = 5  (number of iterations for Model 1)
+model2iterations = 0  (number of iterations for Model 2)
+model3iterations = 3  (number of iterations for Model 3)
+model4iterations = 3  (number of iterations for Model 4)
+model5iterations = 0  (number of iterations for Model 5)
+model6iterations = 0  (number of iterations for Model 6)
+
+parameter for various heuristics in GIZA++ for efficient training:
+------------------------------------------------------------------
+countincreasecutoff = 1e-06  (Counts increment cutoff threshold)
+countincreasecutoffal = 1e-05  (Counts increment cutoff threshold for alignments in training of fertility models)
+mincountincrease = 1e-07  (minimal count increase)
+peggedcutoff = 0.03  (relative cutoff probability for alignment-centers in pegging)
+probcutoff = 1e-07  (Probability cutoff threshold for lexicon probabilities)
+probsmooth = 1e-07  (probability smoothing (floor) value )
+
+parameters for describing the type and amount of output:
+-----------------------------------------------------------
+compactalignmentformat = 0  (0: detailled alignment format, 1: compact alignment format )
+countoutputprefix =   (The prefix for output counts)
+dumpcount = 0  (Whether we are going to dump count (in addition to) final output?)
+dumpcountusingwordstring = 0  (In count table, should actual word appears or just the id? default is id)
+hmmdumpfrequency = 0  (dump frequency of HMM)
+l = 125-09-12.102528.jaka6039.log  (log file name)
+log = 0  (0: no logfile; 1: logfile)
+model1dumpfrequency = 1  (dump frequency of Model 1)
+model2dumpfrequency = 0  (dump frequency of Model 2)
+model345dumpfrequency = 0  (dump frequency of Model 3/4/5)
+nbestalignments = 0  (for printing the n best alignments)
+nodumps = 1  (1: do not write any files)
+o = /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv  (output file prefix)
+onlyaldumps = 1  (1: do not write any files)
+outputpath =   (output path)
+transferdumpfrequency = 0  (output: dump of transfer from Model 2 to 3)
+verbose = 0  (0: not verbose; 1: verbose)
+verbosesentence = -10  (number of sentence for which a lot of information should be printed (negative: no output))
+
+parameters describing input files:
+----------------------------------
+c = /home/jaka6039/MT/assignment2/data/output/corpus/en-sv-int-train.snt  (training corpus file name)
+d =   (dictionary file name)
+previousa =   (The a-table of previous step)
+previousd =   (The d-table of previous step)
+previousd4 =   (The d4-table of previous step)
+previousd42 =   (The d4-table (2) of previous step)
+previoushmm =   (The hmm-table of previous step)
+previousn =   (The n-table of previous step)
+previousp0 =   (The P0 previous step)
+previoust =   (The t-table of previous step)
+restart = 0  (Restart training from a level,0: Normal restart, from model 1, 1: Model 1, 2: Model 2 Init (Using Model 1 model input and train model 2), 3: Model 2, (using model 2 input and train model 2), 4 : HMM Init (Using Model 1 model and train HMM), 5: HMM (Using Model 2 model and train HMM) 6 : HMM (Using HMM Model and train HMM), 7: Model 3 Init (Use HMM model and train model 3) 8: Model 3 Init (Use Model 2 model and train model 3) 9: Model 3, 10: Model 4 Init (Use Model 3 model and train Model 4) 11: Model 4 and on, )
+s = /home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb  (source vocabulary file name)
+sourcevocabularyclasses = /home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb.classes  (source vocabulary classes file name)
+t = /home/jaka6039/MT/assignment2/data/output/corpus/en.vcb  (target vocabulary file name)
+targetvocabularyclasses = /home/jaka6039/MT/assignment2/data/output/corpus/en.vcb.classes  (target vocabulary classes file name)
+tc =   (test corpus file name)
+
+smoothing parameters:
+---------------------
+emalsmooth = 0.2  (f-b-trn: smoothing factor for HMM alignment model (can be ignored by -emSmoothHMM))
+model23smoothfactor = 0  (smoothing parameter for IBM-2/3 (interpolation with constant))
+model4smoothfactor = 0.4  (smooting parameter for alignment probabilities in Model 4)
+model5smoothfactor = 0.1  (smooting parameter for distortion probabilities in Model 5 (linear interpolation with constant))
+nsmooth = 4  (smoothing for fertility parameters (good value: 64): weight for wordlength-dependent fertility parameters)
+nsmoothgeneral = 0  (smoothing for fertility parameters (default: 0): weight for word-independent fertility parameters)
+
+parameters modifying the models:
+--------------------------------
+compactadtable = 1  (1: only 3-dimensional alignment table for IBM-2 and IBM-3)
+deficientdistortionforemptyword = 0  (0: IBM-3/IBM-4 as described in (Brown et al. 1993); 1: distortion model of empty word is deficient; 2: distoriton model of empty word is deficient (differently); setting this parameter also helps to avoid that during IBM-3 and IBM-4 training too many words are aligned with the empty word)
+depm4 = 76  (d_{=1}: &1:l, &2:m, &4:F, &8:E, d_{>1}&16:l, &32:m, &64:F, &128:E)
+depm5 = 68  (d_{=1}: &1:l, &2:m, &4:F, &8:E, d_{>1}&16:l, &32:m, &64:F, &128:E)
+emalignmentdependencies = 2  (lextrain: dependencies in the HMM alignment model.  &1: sentence length; &2: previous class; &4: previous position;  &8: French position; &16: French class)
+emprobforempty = 0.4  (f-b-trn: probability for empty word)
+
+parameters modifying the EM-algorithm:
+--------------------------------------
+m5p0 = -1  (fixed value for parameter p_0 in IBM-5 (if negative then it is determined in training))
+manlexfactor1 = 0  ()
+manlexfactor2 = 0  ()
+manlexmaxmultiplicity = 20  ()
+maxfertility = 10  (maximal fertility for fertility models)
+ncpus = 4  (Number of threads to be executed, use 0 if you just want all CPUs to be used)
+p0 = 0.999  (fixed value for parameter p_0 in IBM-3/4 (if negative then it is determined in training))
+pegging = 0  (0: no pegging; 1: do pegging)
+
+reading vocabulary files 
+Reading vocabulary file from:/home/jaka6039/MT/assignment2/data/output/corpus/sv.vcb
+Reading vocabulary file from:/home/jaka6039/MT/assignment2/data/output/corpus/en.vcb
+Source vocabulary list has 13759 unique tokens 
+Target vocabulary list has 8819 unique tokens 
+Calculating vocabulary frequencies from corpus /home/jaka6039/MT/assignment2/data/output/corpus/en-sv-int-train.snt
+Reading more sentence pairs into memory ... 
+Corpus fits in memory, corpus has: 8008 sentence pairs.
+Compacted Vocabulary, eliminated 1 entries 13758 remains 
+Compacted Vocabulary, eliminated 1 entries 8818 remains 
+ Train total # sentence pairs (weighted): 8008
+Size of source portion of the training corpus: 150720 tokens
+Size of the target portion of the training corpus: 168782 tokens 
+In source portion of the training corpus, only 13758 unique tokens appeared
+In target portion of the training corpus, only 8817 unique tokens appeared
+lambda for PP calculation in IBM-1,IBM-2,HMM:= 168782/(158728-8008)== 1.11984
+Dictionary Loading complete
+Inputfile in /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv.cooc
+There are 1132816 1132816 entries in table
+cooc file loading completed
+TTable initialization OK
+Model one initalization OK
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:27 2025
+
+-----------
+Model1: Iteration 1
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:27 2025
+
+-----------
+Model1: Iteration 1
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:27 2025
+
+-----------
+Model1: Iteration 1
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:27 2025
+
+-----------
+Model1: Iteration 1
+Main thread done, waiting
+Thread 1done
+Thread 2done
+Thread 3done
+Normalizing T 
+ DONE Normalizing 
+Model1: (1) TRAIN CROSS-ENTROPY 16.3288 PERPLEXITY 82311.6
+Model1: (1) VITERBI TRAIN CROSS-ENTROPY 20.9229 PERPLEXITY 1.98805e+06
+Model 1 Iteration: 1 took: 1 seconds
+-----------
+Model1: Iteration 2
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:28 2025
+
+-----------
+Model1: Iteration 2
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:28 2025
+
+-----------
+Model1: Iteration 2
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:29 2025
+
+-----------
+Model1: Iteration 2
+Main thread done, waiting
+Thread 1done
+Thread 2done
+Thread 3done
+Normalizing T 
+ DONE Normalizing 
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:28 2025
+
+-----------
+Model1: Iteration 1
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:28 2025
+
+-----------
+Model1: Iteration 1
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:28 2025
+
+-----------
+Model1: Iteration 1
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:28 2025
+
+-----------
+Model1: Iteration 1
+Main thread done, waiting
+Thread 1done
+Thread 2done
+Thread 3done
+Normalizing T 
+ DONE Normalizing 
+Model1: (2) TRAIN CROSS-ENTROPY 7.32667 PERPLEXITY 160.527
+Model1: (2) VITERBI TRAIN CROSS-ENTROPY 9.66864 PERPLEXITY 813.859
+Model 1 Iteration: 2 took: 2 seconds
+-----------
+Model1: Iteration 3
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:30 2025
+
+-----------
+Model1: Iteration 3
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:30 2025
+
+-----------
+Model1: Iteration 3
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:30 2025
+
+-----------
+Model1: Iteration 3
+Main thread done, waiting
+Thread 1done
+Thread 2done
+Thread 3done
+Normalizing T 
+ DONE Normalizing 
+Model1: (1) TRAIN CROSS-ENTROPY 15.7657 PERPLEXITY 55711.4
+Model1: (1) VITERBI TRAIN CROSS-ENTROPY 20.1944 PERPLEXITY 1.19987e+06
+Model 1 Iteration: 1 took: 2 seconds
+-----------
+Model1: Iteration 2
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:30 2025
+
+-----------
+Model1: Iteration 2
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:30 2025
+
+-----------
+Model1: Iteration 2
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:30 2025
+
+-----------
+Model1: Iteration 2
+Main thread done, waiting
+Thread 1done
+Thread 2done
+Thread 3done
+Normalizing T 
+ DONE Normalizing 
+Model1: (3) TRAIN CROSS-ENTROPY 6.55446 PERPLEXITY 93.9914
+Model1: (3) VITERBI TRAIN CROSS-ENTROPY 8.33439 PERPLEXITY 322.777
+Model 1 Iteration: 3 took: 1 seconds
+-----------
+Model1: Iteration 4
+==========================================================
+==========================================================
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:31 2025
+
+-----------
+Model1: Iteration 4
+Model1 Training Started at: Fri Sep 12 10:25:31 2025
+
+-----------
+Model1: Iteration 4
+Model1 Training Started at: Fri Sep 12 10:25:31 2025
+
+-----------
+Model1: Iteration 4
+Main thread done, waiting
+Thread 1done
+Thread 2done
+Thread 3done
+Normalizing T 
+ DONE Normalizing 
+Model1: (2) TRAIN CROSS-ENTROPY 6.72514 PERPLEXITY 105.796
+Model1: (2) VITERBI TRAIN CROSS-ENTROPY 9.12153 PERPLEXITY 556.997
+Model 1 Iteration: 2 took: 1 seconds
+-----------
+Model1: Iteration 3
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:31 2025
+
+-----------
+Model1: Iteration 3
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:31 2025
+
+-----------
+Model1: Iteration 3
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:31 2025
+
+-----------
+Model1: Iteration 3
+Main thread done, waiting
+Thread 1done
+Thread 2done
+Thread 3done
+Normalizing T 
+ DONE Normalizing 
+Model1: (3) TRAIN CROSS-ENTROPY 6.03331 PERPLEXITY 65.495
+Model1: (3) VITERBI TRAIN CROSS-ENTROPY 7.9211 PERPLEXITY 242.375
+Model 1 Iteration: 3 took: 2 seconds
+-----------
+Model1: Iteration 4
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:33 2025
+
+-----------
+Model1: Iteration 4
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:33 2025
+
+-----------
+Model1: Iteration 4
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:33 2025
+
+-----------
+Model1: Iteration 4
+Main thread done, waiting
+Thread 1done
+Thread 2done
+Thread 3done
+Normalizing T 
+ DONE Normalizing 
+Model1: (4) TRAIN CROSS-ENTROPY 6.21928 PERPLEXITY 74.506
+Model1: (4) VITERBI TRAIN CROSS-ENTROPY 7.61646 PERPLEXITY 196.238
+Model 1 Iteration: 4 took: 2 seconds
+-----------
+Model1: Iteration 5
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:33 2025
+
+-----------
+Model1: Iteration 5
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:33 2025
+
+-----------
+Model1: Iteration 5
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:33 2025
+
+-----------
+Model1: Iteration 5
+Main thread done, waiting
+Thread 1done
+Thread 2done
+Thread 3done
+Normalizing T 
+ DONE Normalizing 
+Model1: (5) TRAIN CROSS-ENTROPY 6.08146 PERPLEXITY 67.7174
+Model1: (5) VITERBI TRAIN CROSS-ENTROPY 7.25436 PERPLEXITY 152.679
+Model 1 Iteration: 5 took: 1 seconds
+Entire Model1 Training took: 7 seconds
+NOTE: I am doing iterations with the HMM model!
+Read classes: #words: 8818  #classes: 51
+Actual number of read words: 8817 stored words: 8817
+Read classes: #words: 13758  #classes: 51
+Actual number of read words: 13757 stored words: 13757
+
+==========================================================
+Hmm Training Started at: Fri Sep 12 10:25:34 2025
+
+-----------
+Hmm: Iteration 1
+Dump files 0 it 1 noIterations 5 dumpFreq 0
+Model1: (4) TRAIN CROSS-ENTROPY 5.72713 PERPLEXITY 52.9708
+Model1: (4) VITERBI TRAIN CROSS-ENTROPY 7.24524 PERPLEXITY 151.717
+Model 1 Iteration: 4 took: 1 seconds
+-----------
+Model1: Iteration 5
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:34 2025
+
+-----------
+Model1: Iteration 5
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:34 2025
+
+-----------
+Model1: Iteration 5
+==========================================================
+Model1 Training Started at: Fri Sep 12 10:25:34 2025
+
+-----------
+Model1: Iteration 5
+Main thread done, waiting
+Thread 1done
+Thread 2done
+Thread 3done
+Normalizing T 
+ DONE Normalizing 
+Model1: (5) TRAIN CROSS-ENTROPY 5.59766 PERPLEXITY 48.4243
+Model1: (5) VITERBI TRAIN CROSS-ENTROPY 6.90016 PERPLEXITY 119.442
+Model 1 Iteration: 5 took: 1 seconds
+Entire Model1 Training took: 7 seconds
+NOTE: I am doing iterations with the HMM model!
+Read classes: #words: 13758  #classes: 51
+Actual number of read words: 13757 stored words: 13757
+Read classes: #words: 8818  #classes: 51
+Actual number of read words: 8817 stored words: 8817
+
+==========================================================
+Hmm Training Started at: Fri Sep 12 10:25:35 2025
+
+-----------
+Hmm: Iteration 1
+Dump files 0 it 1 noIterations 5 dumpFreq 0
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 30765 parameters.
+Hmm: (1) TRAIN CROSS-ENTROPY 6.0174 PERPLEXITY 64.7766
+Hmm: (1) VITERBI TRAIN CROSS-ENTROPY 7.0505 PERPLEXITY 132.56
+
+Hmm Iteration: 1 took: 5 seconds
+
+-----------
+Hmm: Iteration 2
+Dump files 0 it 2 noIterations 5 dumpFreq 0
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 32323 parameters.
+Hmm: (1) TRAIN CROSS-ENTROPY 5.53726 PERPLEXITY 46.4388
+Hmm: (1) VITERBI TRAIN CROSS-ENTROPY 6.70494 PERPLEXITY 104.325
+
+Hmm Iteration: 1 took: 4 seconds
+
+-----------
+Hmm: Iteration 2
+Dump files 0 it 2 noIterations 5 dumpFreq 0
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 32323 parameters.
+Hmm: (2) TRAIN CROSS-ENTROPY 5.12629 PERPLEXITY 34.9275
+Hmm: (2) VITERBI TRAIN CROSS-ENTROPY 5.6565 PERPLEXITY 50.4401
+
+Hmm Iteration: 2 took: 3 seconds
+
+-----------
+Hmm: Iteration 3
+Dump files 0 it 3 noIterations 5 dumpFreq 0
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 30765 parameters.
+Hmm: (2) TRAIN CROSS-ENTROPY 5.57687 PERPLEXITY 47.7316
+Hmm: (2) VITERBI TRAIN CROSS-ENTROPY 6.0781 PERPLEXITY 67.5601
+
+Hmm Iteration: 2 took: 4 seconds
+
+-----------
+Hmm: Iteration 3
+Dump files 0 it 3 noIterations 5 dumpFreq 0
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 32323 parameters.
+Hmm: (3) TRAIN CROSS-ENTROPY 4.53287 PERPLEXITY 23.1489
+Hmm: (3) VITERBI TRAIN CROSS-ENTROPY 4.8258 PERPLEXITY 28.3603
+
+Hmm Iteration: 3 took: 5 seconds
+
+-----------
+Hmm: Iteration 4
+Dump files 0 it 4 noIterations 5 dumpFreq 0
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 30765 parameters.
+Hmm: (3) TRAIN CROSS-ENTROPY 4.99452 PERPLEXITY 31.8786
+Hmm: (3) VITERBI TRAIN CROSS-ENTROPY 5.27634 PERPLEXITY 38.7558
+
+Hmm Iteration: 3 took: 5 seconds
+
+-----------
+Hmm: Iteration 4
+Dump files 0 it 4 noIterations 5 dumpFreq 0
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 32323 parameters.
+Hmm: (4) TRAIN CROSS-ENTROPY 4.20194 PERPLEXITY 18.4039
+Hmm: (4) VITERBI TRAIN CROSS-ENTROPY 4.40485 PERPLEXITY 21.1832
+
+Hmm Iteration: 4 took: 5 seconds
+
+-----------
+Hmm: Iteration 5
+Dump files 0 it 5 noIterations 5 dumpFreq 0
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 30765 parameters.
+Hmm: (4) TRAIN CROSS-ENTROPY 4.68729 PERPLEXITY 25.7641
+Hmm: (4) VITERBI TRAIN CROSS-ENTROPY 4.88983 PERPLEXITY 29.6473
+
+Hmm Iteration: 4 took: 6 seconds
+
+-----------
+Hmm: Iteration 5
+Dump files 0 it 5 noIterations 5 dumpFreq 0
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 32323 parameters.
+Hmm: (5) TRAIN CROSS-ENTROPY 4.05253 PERPLEXITY 16.5933
+Hmm: (5) VITERBI TRAIN CROSS-ENTROPY 4.21504 PERPLEXITY 18.5717
+
+Hmm Iteration: 5 took: 4 seconds
+
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 30765 parameters.
+Hmm: (5) TRAIN CROSS-ENTROPY 4.55089 PERPLEXITY 23.4398
+Hmm: (5) VITERBI TRAIN CROSS-ENTROPY 4.71816 PERPLEXITY 26.3214
+
+Hmm Iteration: 5 took: 5 seconds
+
+Entire Hmm Training took: 21 seconds
+==========================================================
+
+==========================================================
+Starting H333444:  Viterbi Training
+ H333444 Training Started at: Fri Sep 12 10:25:56 2025
+
+
+---------------------
+THTo3: Iteration 1
+#centers(pre/hillclimbed/real): 1 1 1  #al: 701.413 #alsophisticatedcountcollection: 0 #hcsteps: 0
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 725.388 #alsophisticatedcountcollection: 0 #hcsteps: 0
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 700.13 #alsophisticatedcountcollection: 0 #hcsteps: 0
+#peggingImprovements: 0
+Thread 1done
+#centers(pre/hillclimbed/real): 1 1 1  #al: 716.717 #alsophisticatedcountcollection: 0 #hcsteps: 0
+#peggingImprovements: 0
+Thread 2done
+Thread 3done
+A/D table contains 32323 parameters.
+A/D table contains 30129 parameters.
+NTable contains 137590 parameter.
+Entire Hmm Training took: 25 seconds
+==========================================================
+
+==========================================================
+Starting H333444:  Viterbi Training
+ H333444 Training Started at: Fri Sep 12 10:25:59 2025
+
+
+---------------------
+THTo3: Iteration 1
+#centers(pre/hillclimbed/real): 1 1 1  #al: 649.961 #alsophisticatedcountcollection: 0 #hcsteps: 0
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 666.463 #alsophisticatedcountcollection: 0 #hcsteps: 0
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 665.704 #alsophisticatedcountcollection: 0 #hcsteps: 0
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 671.196 #alsophisticatedcountcollection: 0 #hcsteps: 0
+#peggingImprovements: 0
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 30765 parameters.
+A/D table contains 31639 parameters.
+NTable contains 88190 parameter.
+p0_count is 131084 and p1 is 18848.9; p0 is 0.999 p1: 0.001
+THTo3: TRAIN CROSS-ENTROPY 3.88058 PERPLEXITY 14.7289
+THTo3: (1) TRAIN VITERBI CROSS-ENTROPY 3.96538 PERPLEXITY 15.6206
+
+THTo3 Viterbi Iteration : 1 took: 4 seconds
+
+---------------------
+Model3: Iteration 2
+#centers(pre/hillclimbed/real): 1 1 1  #al: 708.455 #alsophisticatedcountcollection: 0 #hcsteps: 3.62147
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 695.214 #alsophisticatedcountcollection: 0 #hcsteps: 3.57249
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 707.783 #alsophisticatedcountcollection: 0 #hcsteps: 3.47414
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 730.345 #alsophisticatedcountcollection: 0 #hcsteps: 3.58182
+#peggingImprovements: 0
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 32323 parameters.
+A/D table contains 30129 parameters.
+NTable contains 137590 parameter.
+p0_count is 153801 and p1 is 7490.54; p0 is 0.999 p1: 0.001
+Model3: TRAIN CROSS-ENTROPY 5.75301 PERPLEXITY 53.9299
+Model3: (2) TRAIN VITERBI CROSS-ENTROPY 5.83977 PERPLEXITY 57.2725
+
+Model3 Viterbi Iteration : 2 took: 3 seconds
+
+---------------------
+Model3: Iteration 3
+#centers(pre/hillclimbed/real): 1 1 1  #al: 687.286 #alsophisticatedcountcollection: 0 #hcsteps: 3.55368
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 715.05 #alsophisticatedcountcollection: 0 #hcsteps: 3.61553
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 725.614 #alsophisticatedcountcollection: 0 #hcsteps: 3.67757
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 709.905 #alsophisticatedcountcollection: 0 #hcsteps: 3.63464
+#peggingImprovements: 0
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 32323 parameters.
+A/D table contains 30147 parameters.
+NTable contains 137590 parameter.
+p0_count is 123890 and p1 is 13413.9; p0 is 0.999 p1: 0.001
+THTo3: TRAIN CROSS-ENTROPY 4.35184 PERPLEXITY 20.4189
+THTo3: (1) TRAIN VITERBI CROSS-ENTROPY 4.44438 PERPLEXITY 21.7717
+
+THTo3 Viterbi Iteration : 1 took: 4 seconds
+
+---------------------
+Model3: Iteration 2
+#centers(pre/hillclimbed/real): 1 1 1  #al: 664.525 #alsophisticatedcountcollection: 0 #hcsteps: 3.17013
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 660.654 #alsophisticatedcountcollection: 0 #hcsteps: 3.21501
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 657.853 #alsophisticatedcountcollection: 0 #hcsteps: 3.18314
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 673.284 #alsophisticatedcountcollection: 0 #hcsteps: 3.22159
+#peggingImprovements: 0
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 30765 parameters.
+A/D table contains 31639 parameters.
+NTable contains 88190 parameter.
+p0_count is 158156 and p1 is 5313.24; p0 is 0.999 p1: 0.001
+Model3: TRAIN CROSS-ENTROPY 5.58059 PERPLEXITY 47.8547
+Model3: (3) TRAIN VITERBI CROSS-ENTROPY 5.65276 PERPLEXITY 50.3097
+
+Model3 Viterbi Iteration : 3 took: 2 seconds
+
+---------------------
+T3To4: Iteration 4
+#centers(pre/hillclimbed/real): 1 1 1  #al: 718.853 #alsophisticatedcountcollection: 199.138 #hcsteps: 3.66243
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 718.207 #alsophisticatedcountcollection: 254.006 #hcsteps: 3.66978
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 728.19 #alsophisticatedcountcollection: 188.263 #hcsteps: 3.59649
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 683.257 #alsophisticatedcountcollection: 186.211 #hcsteps: 3.55845
+#peggingImprovements: 0
+D4 table contains 524349 parameters.
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 32323 parameters.
+A/D table contains 30147 parameters.
+NTable contains 137590 parameter.
+p0_count is 141863 and p1 is 4428.32; p0 is 0.999 p1: 0.001
+Model3: TRAIN CROSS-ENTROPY 6.03254 PERPLEXITY 65.4598
+Model3: (2) TRAIN VITERBI CROSS-ENTROPY 6.11857 PERPLEXITY 69.4824
+
+Model3 Viterbi Iteration : 2 took: 3 seconds
+
+---------------------
+Model3: Iteration 3
+#centers(pre/hillclimbed/real): 1 1 1  #al: 659.889 #alsophisticatedcountcollection: 0 #hcsteps: 3.12436
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 668.021 #alsophisticatedcountcollection: 0 #hcsteps: 3.15073
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 677.181 #alsophisticatedcountcollection: 0 #hcsteps: 3.22147
+#peggingImprovements: 0
+Thread 1done
+#centers(pre/hillclimbed/real): 1 1 1  #al: 652.474 #alsophisticatedcountcollection: 0 #hcsteps: 3.16287
+#peggingImprovements: 0
+Thread 2done
+Thread 3done
+A/D table contains 30765 parameters.
+A/D table contains 31639 parameters.
+NTable contains 88190 parameter.
+p0_count is 143661 and p1 is 3529.48; p0 is 0.999 p1: 0.001
+Model3: TRAIN CROSS-ENTROPY 5.89812 PERPLEXITY 59.6365
+Model3: (3) TRAIN VITERBI CROSS-ENTROPY 5.9706 PERPLEXITY 62.7088
+
+Model3 Viterbi Iteration : 3 took: 4 seconds
+
+---------------------
+T3To4: Iteration 4
+#centers(pre/hillclimbed/real): 1 1 1  #al: 686.91 #alsophisticatedcountcollection: 183.876 #hcsteps: 3.16546
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 638.465 #alsophisticatedcountcollection: 191.711 #hcsteps: 3.14372
+#peggingImprovements: 0
+D4 table contains 524958 parameters.
+#centers(pre/hillclimbed/real): 1 1 1  #al: 664.755 #alsophisticatedcountcollection: 172.517 #hcsteps: 3.11434
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 665.068 #alsophisticatedcountcollection: 216.788 #hcsteps: 3.08267
+#peggingImprovements: 0
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 30765 parameters.
+A/D table contains 31639 parameters.
+NTable contains 88190 parameter.
+p0_count is 159444 and p1 is 4669.03; p0 is 0.999 p1: 0.001
+T3To4: TRAIN CROSS-ENTROPY 5.53065 PERPLEXITY 46.2265
+T3To4: (4) TRAIN VITERBI CROSS-ENTROPY 5.59693 PERPLEXITY 48.4
+
+T3To4 Viterbi Iteration : 4 took: 4 seconds
+
+---------------------
+Model4: Iteration 5
+#centers(pre/hillclimbed/real): 1 1 1  #al: 694.464 #alsophisticatedcountcollection: 157.918 #hcsteps: 3.01211
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 703.899 #alsophisticatedcountcollection: 128.495 #hcsteps: 3.03405
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 748.204 #alsophisticatedcountcollection: 161.058 #hcsteps: 3.0365
+#peggingImprovements: 0
+D4 table contains 524349 parameters.
+Thread 1done
+Thread 2done
+#centers(pre/hillclimbed/real): 1 1 1  #al: 703.125 #alsophisticatedcountcollection: 131.642 #hcsteps: 2.92428
+#peggingImprovements: 0
+Thread 3done
+A/D table contains 32323 parameters.
+A/D table contains 30298 parameters.
+NTable contains 137590 parameter.
+p0_count is 157111 and p1 is 5835.43; p0 is 0.999 p1: 0.001
+Model4: TRAIN CROSS-ENTROPY 5.00476 PERPLEXITY 32.1058
+Model4: (5) TRAIN VITERBI CROSS-ENTROPY 5.04991 PERPLEXITY 33.1265
+
+Model4 Viterbi Iteration : 5 took: 8 seconds
+
+---------------------
+Model4: Iteration 6
+I will write alignment to /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv.A3.final.part001
+I will write alignment to /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv.A3.final.part000
+I will write alignment to /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv.A3.final.part003
+I will write alignment to /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv.A3.final.part002
+p0_count is 144240 and p1 is 3240.14; p0 is 0.999 p1: 0.001
+T3To4: TRAIN CROSS-ENTROPY 5.85385 PERPLEXITY 57.8341
+T3To4: (4) TRAIN VITERBI CROSS-ENTROPY 5.92084 PERPLEXITY 60.583
+
+T3To4 Viterbi Iteration : 4 took: 4 seconds
+
+---------------------
+Model4: Iteration 5
+#centers(pre/hillclimbed/real): 1 1 1  #al: 674.574 #alsophisticatedcountcollection: 119.478 #hcsteps: 2.61309
+#peggingImprovements: 0
+D4 table contains 524958 parameters.
+#centers(pre/hillclimbed/real): 1 1 1  #al: 660.323 #alsophisticatedcountcollection: 144.425 #hcsteps: 2.63535
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 653.622 #alsophisticatedcountcollection: 141.14 #hcsteps: 2.64782
+#peggingImprovements: 0
+Thread 1done
+Thread 2done
+#centers(pre/hillclimbed/real): 1 1 1  #al: 665.45 #alsophisticatedcountcollection: 141.843 #hcsteps: 2.69776
+#peggingImprovements: 0
+Thread 3done
+A/D table contains 30765 parameters.
+A/D table contains 31686 parameters.
+NTable contains 88190 parameter.
+p0_count is 142733 and p1 is 3993.48; p0 is 0.999 p1: 0.001
+Model4: TRAIN CROSS-ENTROPY 5.36441 PERPLEXITY 41.1954
+Model4: (5) TRAIN VITERBI CROSS-ENTROPY 5.40909 PERPLEXITY 42.4912
+
+Model4 Viterbi Iteration : 5 took: 10 seconds
+
+---------------------
+Model4: Iteration 6
+I will write alignment to /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en.A3.final.part000
+I will write alignment to /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en.A3.final.part002
+I will write alignment to /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en.A3.final.part003
+I will write alignment to /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en.A3.final.part001
+#centers(pre/hillclimbed/real): 1 1 1  #al: 707.461 #alsophisticatedcountcollection: 109.311 #hcsteps: 2.97409
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 707.492 #alsophisticatedcountcollection: 113.52 #hcsteps: 2.96697
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 705.38 #alsophisticatedcountcollection: 111.675 #hcsteps: 2.9039
+#peggingImprovements: 0
+D4 table contains 524349 parameters.
+#centers(pre/hillclimbed/real): 1 1 1  #al: 730.428 #alsophisticatedcountcollection: 156.709 #hcsteps: 3.04039
+#peggingImprovements: 0
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 32323 parameters.
+A/D table contains 30306 parameters.
+NTable contains 137590 parameter.
+p0_count is 157325 and p1 is 5728.56; p0 is 0.999 p1: 0.001
+Model4: TRAIN CROSS-ENTROPY 4.83267 PERPLEXITY 28.4957
+Model4: (6) TRAIN VITERBI CROSS-ENTROPY 4.87036 PERPLEXITY 29.2499
+
+Model4 Viterbi Iteration : 6 took: 9 seconds
+H333444 Training Finished at: Fri Sep 12 10:26:26 2025
+
+
+Entire Viterbi H333444 Training took: 30 seconds
+==========================================================
+
+Entire Training took: 58 seconds
+Program Finished at: Fri Sep 12 10:26:26 2025
+
+==========================================================
+Merging A3.final.part* tables
+Executing: /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/training-tools/merge_alignment.py  /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv.A3.final.part*>/home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv.A3.final
+Combined 4 files, totally 8008 sents 
+Executing: rm -f /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv.A3.final.gz
+Executing: gzip /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv.A3.final
+#centers(pre/hillclimbed/real): 1 1 1  #al: 676.974 #alsophisticatedcountcollection: 110.188 #hcsteps: 2.60057
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 652.699 #alsophisticatedcountcollection: 119.767 #hcsteps: 2.5427
+#peggingImprovements: 0
+#centers(pre/hillclimbed/real): 1 1 1  #al: 670.278 #alsophisticatedcountcollection: 119.891 #hcsteps: 2.62976
+#peggingImprovements: 0
+D4 table contains 524958 parameters.
+#centers(pre/hillclimbed/real): 1 1 1  #al: 654.988 #alsophisticatedcountcollection: 115.892 #hcsteps: 2.5784
+#peggingImprovements: 0
+Thread 1done
+Thread 2done
+Thread 3done
+A/D table contains 30765 parameters.
+A/D table contains 31693 parameters.
+NTable contains 88190 parameter.
+p0_count is 142987 and p1 is 3866.29; p0 is 0.999 p1: 0.001
+Model4: TRAIN CROSS-ENTROPY 5.20235 PERPLEXITY 36.8182
+Model4: (6) TRAIN VITERBI CROSS-ENTROPY 5.2403 PERPLEXITY 37.7996
+
+Model4 Viterbi Iteration : 6 took: 7 seconds
+H333444 Training Finished at: Fri Sep 12 10:26:31 2025
+
+
+Entire Viterbi H333444 Training took: 32 seconds
+==========================================================
+
+Entire Training took: 64 seconds
+Program Finished at: Fri Sep 12 10:26:31 2025
+
+==========================================================
+Merging A3.final.part* tables
+Executing: /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/training-tools/merge_alignment.py  /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en.A3.final.part*>/home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en.A3.final
+Combined 4 files, totally 8008 sents 
+Executing: rm -f /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en.A3.final.gz
+Executing: gzip /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en.A3.final
+Waiting for second GIZA process...
+(3) generate word alignment @ Fri Sep 12 10:26:32 CEST 2025
+Combining forward and inverted alignment from files:
+  /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en.A3.final.{bz2,gz}
+  /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv.A3.final.{bz2,gz}
+Executing: mkdir -p /home/jaka6039/MT/assignment2/data/output/model
+Executing: /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts/training/giza2bal.pl -d "gzip -cd /home/jaka6039/MT/assignment2/data/output/giza.en-sv/en-sv.A3.final.gz" -i "gzip -cd /home/jaka6039/MT/assignment2/data/output/giza.sv-en/sv-en.A3.final.gz" |/common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts/../bin/symal -alignment="grow" -diagonal="yes" -final="yes" -both="no" > /home/jaka6039/MT/assignment2/data/output/model/aligned.grow-diag-final
+symal: computing grow alignment: diagonal (1) final (1)both-uncovered (0)
+skip=<0> counts=<8008>
+(4) generate lexical translation table 0-0 @ Fri Sep 12 10:26:35 CEST 2025
+(/home/jaka6039/MT/assignment2/data/europarl.train.tk.lc.fl.sv,/home/jaka6039/MT/assignment2/data/europarl.train.tk.lc.fl.en,/home/jaka6039/MT/assignment2/data/output/model/lex)
+!!!!!!!!!
+Saved: /home/jaka6039/MT/assignment2/data/output/model/lex.f2e and /home/jaka6039/MT/assignment2/data/output/model/lex.e2f
+FILE: /home/jaka6039/MT/assignment2/data/europarl.train.tk.lc.fl.en
+FILE: /home/jaka6039/MT/assignment2/data/europarl.train.tk.lc.fl.sv
+FILE: /home/jaka6039/MT/assignment2/data/output/model/aligned.grow-diag-final
+(5) extract phrases @ Fri Sep 12 10:26:37 CEST 2025
+/common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts/generic/extract-parallel.perl 8 split "sort    " /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts/../bin/extract /home/jaka6039/MT/assignment2/data/europarl.train.tk.lc.fl.en /home/jaka6039/MT/assignment2/data/europarl.train.tk.lc.fl.sv /home/jaka6039/MT/assignment2/data/output/model/aligned.grow-diag-final /home/jaka6039/MT/assignment2/data/output/model/extract 7 --GZOutput 
+Executing: /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts/generic/extract-parallel.perl 8 split "sort    " /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts/../bin/extract /home/jaka6039/MT/assignment2/data/europarl.train.tk.lc.fl.en /home/jaka6039/MT/assignment2/data/europarl.train.tk.lc.fl.sv /home/jaka6039/MT/assignment2/data/output/model/aligned.grow-diag-final /home/jaka6039/MT/assignment2/data/output/model/extract 7 --GZOutput 
+MAX 7 0 0
+Started Fri Sep 12 10:26:38 2025
+using gzip 
+isBSDSplit=0 
+Executing: mkdir -p /home/jaka6039/MT/assignment2/data/output/model/tmp.461794; ls -l /home/jaka6039/MT/assignment2/data/output/model/tmp.461794 
+total=8008 line-per-split=1002 
+split -d -l 1002 -a 7 /home/jaka6039/MT/assignment2/data/europarl.train.tk.lc.fl.en /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/target.split -d -l 1002 -a 7 /home/jaka6039/MT/assignment2/data/europarl.train.tk.lc.fl.sv /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/source.split -d -l 1002 -a 7 /home/jaka6039/MT/assignment2/data/output/model/aligned.grow-diag-final /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/align.merging extract / extract.inv
+gunzip -c /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/extract.0000000.inv.gz /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/extract.0000001.inv.gz /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/extract.0000002.inv.gz /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/extract.0000003.inv.gz /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/extract.0000004.inv.gz /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/extract.0000005.inv.gz /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/extract.0000006.inv.gz /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/extract.0000007.inv.gz  | LC_ALL=C sort     -T /home/jaka6039/MT/assignment2/data/output/model/tmp.461794 2>> /dev/stderr | gzip -c > /home/jaka6039/MT/assignment2/data/output/model/extract.inv.sorted.gz 2>> /dev/stderr 
+gunzip -c /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/extract.0000000.gz /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/extract.0000001.gz /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/extract.0000002.gz /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/extract.0000003.gz /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/extract.0000004.gz /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/extract.0000005.gz /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/extract.0000006.gz /home/jaka6039/MT/assignment2/data/output/model/tmp.461794/extract.0000007.gz  | LC_ALL=C sort     -T /home/jaka6039/MT/assignment2/data/output/model/tmp.461794 2>> /dev/stderr | gzip -c > /home/jaka6039/MT/assignment2/data/output/model/extract.sorted.gz 2>> /dev/stderr 
+Finished Fri Sep 12 10:26:42 2025
+(6) score phrases @ Fri Sep 12 10:26:42 CEST 2025
+(6.1)  creating table half /home/jaka6039/MT/assignment2/data/output/model/phrase-table.half.f2e @ Fri Sep 12 10:26:42 CEST 2025
+/common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts/generic/score-parallel.perl 8 "sort    " /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts/../bin/score /home/jaka6039/MT/assignment2/data/output/model/extract.sorted.gz /home/jaka6039/MT/assignment2/data/output/model/lex.f2e /home/jaka6039/MT/assignment2/data/output/model/phrase-table.half.f2e.gz  0 
+Executing: /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts/generic/score-parallel.perl 8 "sort    " /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts/../bin/score /home/jaka6039/MT/assignment2/data/output/model/extract.sorted.gz /home/jaka6039/MT/assignment2/data/output/model/lex.f2e /home/jaka6039/MT/assignment2/data/output/model/phrase-table.half.f2e.gz  0 
+(6.1)  creating table half /home/jaka6039/MT/assignment2/data/output/model/phrase-table.half.e2f @ Fri Sep 12 10:26:42 CEST 2025
+/common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts/generic/score-parallel.perl 8 "sort    " /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts/../bin/score /home/jaka6039/MT/assignment2/data/output/model/extract.inv.sorted.gz /home/jaka6039/MT/assignment2/data/output/model/lex.e2f /home/jaka6039/MT/assignment2/data/output/model/phrase-table.half.e2f.gz --Inverse 1 
+Executing: /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts/generic/score-parallel.perl 8 "sort    " /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts/../bin/score /home/jaka6039/MT/assignment2/data/output/model/extract.inv.sorted.gz /home/jaka6039/MT/assignment2/data/output/model/lex.e2f /home/jaka6039/MT/assignment2/data/output/model/phrase-table.half.e2f.gz --Inverse 1 
+using gzip 
+Started Fri Sep 12 10:26:42 2025
+using gzip 
+Started Fri Sep 12 10:26:42 2025
+/common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts/../bin/score /home/jaka6039/MT/assignment2/data/output/model/tmp.461914/extract.0.gz /home/jaka6039/MT/assignment2/data/output/model/lex.f2e /home/jaka6039/MT/assignment2/data/output/model/tmp.461914/phrase-table.half.0000000.gz  2>> /dev/stderr 
+/home/jaka6039/MT/assignment2/data/output/model/tmp.461914/run.0.sh/home/jaka6039/MT/assignment2/data/output/model/tmp.461914/run.2.sh/home/jaka6039/MT/assignment2/data/output/model/tmp.461914/run.3.sh/home/jaka6039/MT/assignment2/data/output/model/tmp.461914/run.6.sh/home/jaka6039/MT/assignment2/data/output/model/tmp.461914/run.1.sh/home/jaka6039/MT/assignment2/data/output/model/tmp.461914/run.4.sh/home/jaka6039/MT/assignment2/data/output/model/tmp.461914/run.5.sh/home/jaka6039/MT/assignment2/data/output/model/tmp.461914/run.7.sh/common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts/../bin/score /home/jaka6039/MT/assignment2/data/output/model/tmp.461915/extract.0.gz /home/jaka6039/MT/assignment2/data/output/model/lex.e2f /home/jaka6039/MT/assignment2/data/output/model/tmp.461915/phrase-table.half.0000000.gz --Inverse  2>> /dev/stderr 
+/home/jaka6039/MT/assignment2/data/output/model/tmp.461915/run.0.sh/home/jaka6039/MT/assignment2/data/output/model/tmp.461915/run.1.sh/home/jaka6039/MT/assignment2/data/output/model/tmp.461915/run.2.sh/home/jaka6039/MT/assignment2/data/output/model/tmp.461915/run.3.sh/home/jaka6039/MT/assignment2/data/output/model/tmp.461915/run.4.sh/home/jaka6039/MT/assignment2/data/output/model/tmp.461915/run.5.sh/home/jaka6039/MT/assignment2/data/output/model/tmp.461915/run.7.sh/home/jaka6039/MT/assignment2/data/output/model/tmp.461915/run.6.shmv /home/jaka6039/MT/assignment2/data/output/model/tmp.461914/phrase-table.half.0000000.gz /home/jaka6039/MT/assignment2/data/output/model/phrase-table.half.f2e.gzrm -rf /home/jaka6039/MT/assignment2/data/output/model/tmp.461914 
+gunzip -c /home/jaka6039/MT/assignment2/data/output/model/tmp.461915/phrase-table.half.*.gz 2>> /dev/stderr| LC_ALL=C sort     -T /home/jaka6039/MT/assignment2/data/output/model/tmp.461915  | gzip -c > /home/jaka6039/MT/assignment2/data/output/model/phrase-table.half.e2f.gz  2>> /dev/stderr Finished Fri Sep 12 10:26:48 2025
+rm -rf /home/jaka6039/MT/assignment2/data/output/model/tmp.461915 
+Finished Fri Sep 12 10:26:50 2025
+(6.6) consolidating the two halves @ Fri Sep 12 10:26:50 CEST 2025
+Executing: /common/student/courses/MT-5LN711-18/tools/MOSES/ubuntu-16.04/scripts/../bin/consolidate /home/jaka6039/MT/assignment2/data/output/model/phrase-table.half.f2e.gz /home/jaka6039/MT/assignment2/data/output/model/phrase-table.half.e2f.gz /dev/stdout | gzip -c > /home/jaka6039/MT/assignment2/data/output/model/phrase-table.gz
+Consolidate v2.0 written by Philipp Koehn
+consolidating direct and indirect rule tables
+..
+Executing: rm -f /home/jaka6039/MT/assignment2/data/output/model/phrase-table.half.*
+(7) learn reordering model @ Fri Sep 12 10:26:53 CEST 2025
+  ... skipping this step, reordering is not lexicalized ...
+(8) learn generation model @ Fri Sep 12 10:26:53 CEST 2025
+  no generation model requested, skipping step
+(9) create moses.ini @ Fri Sep 12 10:26:53 CEST 2025

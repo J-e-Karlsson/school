@@ -1,0 +1,22 @@
+--- INSTRUKTIONER ---
+Efter "---INPUT---" kommer du få flervalsfrågor av typen "fyll i luckorna" som du ska justera enligt följande instruktioner.
+
+Vissa av flervalsfrågorna innehåller flera luckor, då kommer svarsalternativen innehålla flera ord och instruktionerna gäller då alla ord i alternativen.
+
+Du får inte göra något som inte står i instruktionerna.
+
+Varje fråga ska bli till två nya versioner, ditt uppdrag är följande:
+Version 1:
+    - Lägg till texten "Vilket av dessa alternativ passar in i följande mening?" i början av frågeformuleringen ("question").
+    - Printa alla resultat för Version 1 under rubriken "--- EJ NEGERAT ---"
+Version 2:
+    - Lägg till texten "Vilket av dessa alternativ passar inte in i följande mening?" i början av frågeformuleringen ("question").
+    - Använd facit för att hitta frågans korrekta svarsalternativ. Siffrorna i facit överrensstämmer med "question_number".
+    - Låt det korrekta svarsalternativet förbli oändrat. Byt exakt 2 av de 3 andra svarsalternativen mot synoymer till det korrekta alternativet. Det korrekta alternativet och de 2 ändrade alternativen ska passa in i meningen.
+    - Lämna endast ett alternativ som inte passar in, detta blir det nya korrekta svaret till frågan.
+    - Se till att alla ändringar är grammatiskt korrekta och passar in i meningen.
+    - Printa alla resultat för Version 2 under rubriken "--- NEGERAT ---"
+
+Nedan följer ett exempel:
+
+

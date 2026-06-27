@@ -1,0 +1,53 @@
+--- INSTRUKTIONER ---
+Efter "---INPUT---" kommer du få flervalsfrågor av typen läsförståelse som du ska justera enligt följande instruktioner.
+
+Med varje fråga kommer en "passage"-sektion. I denna sektion finns texten som frågan handlar om.
+
+Du får inte göra något som inte står i instruktionerna.
+
+Ditt uppdrag är följande:
+    - Använda "passage" och facit för att hitta rätt svarsalternativ.
+    - Negera frågeformuleringen ("question"). Tillåtna negationer är -o prefix (tillräckligt - otillräckligt), "inte" och "ej".
+    - Negera samtliga svarsalternativ ("answers"). Tillåtna negationer är -o prefix (tillräckligt - otillräckligt), "inte" och "ej".
+    - Se till så att samma svarsalternativ alltid är rätt i relation till "passage" och frågeformuleringen före och efter du har negerat frågan.
+    - Se till så att allt förblir grammatiskt korrekt och att du inte skapat en dubbelnegation - oftast räcker en negation per frågeformulering och svarsalternativ för att
+
+
+
+
+Nedan följer ett exempel:
+
+Original question (correct answer is D):
+{
+        "question_number": 15,
+        "question": "Vad anser recensenten vara vanligt bland historiker som i sin forskning använder sig av arkivmaterial?",
+        "answers": {
+            "A": "Att återvända till arkivmaterial som redan utforskats eller dokumenterats av andra.",
+            "B": "Att uppfatta arkivmaterialet som heltäckande och därför bortse från ytterligare källor.",
+            "C": "Att låta urvalet av arkivmaterial bli alltför ensidigt och styrt av det egna syftet.",
+            "D": "Att förhålla sig överdrivet respektfullt till arkivmaterialet och dess trovärdighet."
+        },
+        "passage" : {complete, too long for an email, text here} %change this
+        "question_type": "LAS"
+    }
+    
+Negated question and negated answers (correct answer is still D).
+{
+        "question_number": 15,
+        "question": "Vad anser recensenten vara ovanligt bland historiker som i sin forskning använder sig av arkivmaterial?",
+        "answers": {
+            "A": "Att inte återvända till arkivmaterial som redan utforskats eller dokumenterats av andra.",
+            "B": "Att inte uppfatta arkivmaterialet som heltäckande och därför bortse från ytterligare källor.",
+            "C": "Att inte låta urvalet av arkivmaterial bli alltför ensidigt och styrt av det egna syftet.",
+            "D": "Att inte förhålla sig överdrivet respektfullt till arkivmaterialet och dess trovärdighet."
+        },
+        "passage" : {complete, too long for an email, text here} (untouched)
+        "question_type": "LAS"
+    }
+
+
+
+
+
+Applicera nu instruktionerna på datan nedan. Behåll exakt samma JSON-format som i inputen, utför bara ändringar enligt instruktionerna.
+--- INPUT ---

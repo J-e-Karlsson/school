@@ -1,0 +1,12 @@
+Binary write mode is NOT selected
+Scorer type: BLEU
+name: case value: true
+Loading reference from /home/jaka6039/MT/assignment2/data/europarl.dev.tk.lc.en
+....Data::m_score_type BLEU
+Data::Scorer type from Scorer: BLEU
+loading nbest from run1.best100.out.gz
+Loaded N-best lists : [Wall 1.50694 CPU 0.559406] seconds.
+Binary write mode is NOT selected
+saving the array into run1.features.dat
+saving the array into run1.scores.dat
+Stopping... : [Wall 7.76364 CPU 0.997242] seconds.

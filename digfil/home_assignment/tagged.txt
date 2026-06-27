@@ -1,0 +1,380 @@
+SENTENCE BREAK
+
+Also ADV 
+
+if SCONJ 
+
+any DET 
+
+man NOUN 
+
+bi NOUN 
+
+cause NOUN 
+
+of ADP 
+
+seruyce NOUN 
+
+or CCONJ 
+
+other ADJ 
+
+leueful ADJ 
+
+comaundement NOUN 
+
+approched VERB 
+
+a DET 
+
+lorde NOUN 
+
+to ADP 
+
+which PRON 
+
+lorde VERB 
+
+he PRON 
+
+Nichol PROPN 
+
+dradde VERB 
+
+his PRON 
+
+falshede NOUN 
+
+to PART 
+
+be AUX 
+
+knowe NOUN 
+
+to ADP 
+
+anon PROPN 
+
+was AUX 
+
+apeched ADJ 
+
+that SCONJ 
+
+he PRON 
+
+was AUX 
+
+false ADJ 
+
+to ADP 
+
+the DET 
+
+conseille NOUN 
+
+of ADP 
+
+the DET 
+
+Citee PROPN 
+
+& CCONJ 
+
+so ADV 
+
+to ADP 
+
+the DET 
+
+kyng NOUN 
+
+SENTENCE BREAK
+
+For SCONJ 
+
+thy ADJ 
+
+graciouse NOUN 
+
+lordes NOUN 
+
+lyke VERB 
+
+it PRON 
+
+to PART 
+
+yow VERB 
+
+to PART 
+
+take VERB 
+
+hede NOUN 
+
+in ADP 
+
+what PRON 
+
+manere PROPN 
+
+& CCONJ 
+
+where SCONJ 
+
+owre PROPN 
+
+lige VERB 
+
+lordes NOUN 
+
+power NOUN 
+
+hath PROPN 
+
+ben PROPN 
+
+mysused VERB 
+
+by ADP 
+
+the DET 
+
+forsaid PROPN 
+
+Nichol PROPN 
+
+& CCONJ 
+
+his PRON 
+
+vpberers NOUN 
+
+for ADP 
+
+sithen ADJ 
+
+thise NOUN 
+
+wronges NOUN 
+
+bifore PROPN 
+
+saide PROPN 
+
+han PROPN 
+
+ben PROPN 
+
+vsed VERB 
+
+as ADP 
+
+accidental ADJ 
+
+or CCONJ 
+
+comune PROPN 
+
+braunches NOUN 
+
+outward ADV 
+
+it PRON 
+
+sheweth PROPN 
+
+wel PROPN 
+
+the DET 
+
+rote NOUN 
+
+of ADP 
+
+hem PROPN 
+
+is AUX 
+
+a DET 
+
+ragged ADJ 
+
+subiect NOUN 
+
+or CCONJ 
+
+stok NOUN 
+
+inward ADV 
+
+that PRON 
+
+is AUX 
+
+the DET 
+
+forsaid ADJ 
+
+Brere PROPN 
+
+or CCONJ 
+
+brembre NOUN 
+
+the DET 
+
+whiche PROPN 
+
+comune PROPN 
+
+wronge PROPN 
+
+vses NOUN 
+
+& CCONJ 
+
+many ADJ 
+
+other ADJ 
+
+if SCONJ 
+
+it PRON 
+
+lyke VERB 
+
+to ADP 
+
+yow PROPN 
+
+mowe PROPN 
+
+be AUX 
+
+shewed VERB 
+
+& CCONJ 
+
+wel PROPN 
+
+knowen PROPN 
+
+bi PROPN 
+
+an DET 
+
+indifferent ADJ 
+
+Juge PROPN 
+
+and CCONJ 
+
+Mair PROPN 
+
+of ADP 
+
+owre PROPN 
+
+Citee PROPN 
+
+the PRON 
+
+which PRON 
+
+wyth VERB 
+
+yowre PROPN 
+
+ryghtful ADJ 
+
+lordeship NOUN 
+
+ygraunted VERB 
+
+for ADP 
+
+moost NOUN 
+
+pryncipal ADJ 
+
+remedye NOUN 
+
+as ADP 
+
+goddes NOUN 
+
+lawe PROPN 
+
+& CCONJ 
+
+al PROPN 
+
+resoun PROPN 
+
+wole NOUN 
+
+that SCONJ 
+
+no DET 
+
+domesman NOUN 
+
+stonde PROPN 
+
+togidre PROPN 
+
+Juge PROPN 
+
+& CCONJ 
+
+partye NOUN 
+
+wronges NOUN 
+
+sholle VERB 
+
+more ADJ 
+
+openlich NOUN 
+
+be VERB 
+
+knowe NOUN 
+
+& CCONJ 
+
+trouth PROPN 
+
+dor NOUN 
+
+apere ADV 
+
+SENTENCE BREAK
+
+Wryten VERB 
+
+at ADP 
+
+your PRON 
+
+forsayd NOUN 
+
+Cite PROPN 
+
+of ADP 
+
+london PROPN 
+
+the DET 
+
+xx NUM 
+
+day NOUN 
+
+of ADP 
+
+Decembre PROPN 
+

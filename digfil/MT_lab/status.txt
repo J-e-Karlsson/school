@@ -1,0 +1,77 @@
+Task 1: Report by handing in code
+Task 2: No reporting
+Task 3: Report below notes + code
+
+Translation vs reference bleu:
+BLEU = 84.98, 94.4/88.4/82.6/75.6 (BP=1.000, ratio=1.026, hyp_len=12952, ref_len=12618)
+"Do-nothing" original historical text vs modern (reference):
+BLEU = 73.41, 87.4/78.6/69.3/61.0 (BP=1.000, ratio=1.048, hyp_len=13225, ref_len=12618)
+
+Gör om data - klart
+Gör om bleu - klart
+
+Translation vs reference exact match accuracy:
+Translation accuracy:  2366/2945 = 80.33955857385399% = 80.34%
+Baseline:  1777/2945 = 60.33955857385399% = 60.34%
+
+Task 4:
+I will use fairseq NMT to compare spelling normalization of Swedish historical data to the SMT performance in the previous steps.
+
+My baseline is therefore:
+
+    Translation vs reference bleu: 
+    BLEU = 84.98, 94.4/88.4/82.6/75.6 (BP=1.000, ratio=1.026, hyp_len=12952, ref_len=12618)
+    Translation accuracy:  2366/2945 = 80.33955857385399% = 80.34%
+
+- I am to get the Bleu score for NMT, and also to apply the accuracy script.
+- I am also to do a small qualitative comparison on the results
+
+
+I need to copy the accuracy script (task3.py) and the data in DATA_FOLDER to Uppmax, that should be it
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+IF no differences:
+    - I am to discuss why I think the performance is similar
+    - I am to compare the NMT to the "do-nothing" baseline:
+
+        "Do-nothing" original historical text vs modern (reference):
+        BLEU = 73.41, 87.4/78.6/69.3/61.0 (BP=1.000, ratio=1.048, hyp_len=13225, ref_len=12618)
+        Baseline:  1777/2945 = 60.33955857385399% = 60.34%
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+For the report:
+- Description of experimental setup
+    - Task: Spelling normalization of historical Swedish to modern Swedish
+    - Parameter/context/model: Fairseq
+        - MODEL: Changed to transformer_tiny for a small model designed for small data (found here https://fairseq.readthedocs.io/en/latest/command_line_tools.html#fairseq-train)
+        - PARAMETERS: Learning rate lowered to 0.001, optimizer changed to Adam, seems recommended for transformers https://github.com/facebookresearch/fairseq/blob/main/examples/translation/README.md#training-a-new-model
+            The rest of the parameters follow the tutorial on the page https://fairseq.readthedocs.io/en/latest/getting_started.html#training-a-new-model
+    - Data/language: Swedish old vs modern, same as previous steps
+    - NOTE: "Give enough details so that someone would be able to replicate your experiment"
+
+- Motivation of choice and expectation
+    - I thought the first steps of the lab with SMT on the Swedish historical data was interesting,
+    and since I saw an improvement in performance there, I want to see if the NMT can do even better. It also makes more sense to me to
+    run the same experiment as with SMT for NMT, so that I have strong grounds for comparisons.
+    - I don't think that NMT will do that much better than SMT, or better at all. SMT already has strong results (80%),
+    and there might be too little data for a strong NMT solution.
+
+- Bleu and accuracy for SMT and NMT to compare
+    - I have everything for SMT already
+    - NMT has the same baseline ("Do nothing"), so I just need the NMT scores to have everything done
+
+- Qualitative analysis
+    - I am going for G, so probably find like 15 differences between baseline and NMT and list those with brief comments.
+    Maybe just 10 is enough
+
+- Code
+    - Code will not be any different, since fairseq is run with CLI commands and I already have the accuracy script from task 3.
+
+PARTS 3 AND 4 reporting (text and results) GO IN THE SAME PDF. HAND IN ZIP FILE WITH THAT AND THE TWO PYTHON SCRIPTS
+(task1.py, task3.py)
+_______________________________________
+
+

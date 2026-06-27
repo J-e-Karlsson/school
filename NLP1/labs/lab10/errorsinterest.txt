@@ -1,0 +1,855 @@
+There are 213 errors!
+----------------------------
+
+1) example number: 1
+    sentence: also , continued lively INTEREST from foreign investors hoping to capitalize on the strengthening mark added to the market 's climb .
+    guess: interest_2;  label: interest_1
+
+2) example number: 3
+    sentence: dealers said that even though fears of higher u . k . INTEREST rates are still prevalent , the market was underpinned by the pound 's firmness resulting from recent central bank support and by a late flurry of buying for technical reasons .
+    guess: interest_2;  label: interest_6
+
+3) example number: 6
+    sentence: at the same time , moves toward tighter air-quality standards are spurring INTEREST in lighter or alternative fuels that do n 't pollute as much as fuel refined from `` heavy '' crudes , generally high in sulfur .
+    guess: interest_6;  label: interest_1
+
+4) example number: 7
+    sentence: he was , in fact , taking an especially keen INTEREST in board matters even before he went to the treasury .
+    guess: interest_6;  label: interest_1
+
+5) example number: 8
+    sentence: `` if { chancellor of the exchequer nigel } lawson is going to use the high INTEREST rate medicine , he might as well make the tonic strong , '' one dealer said .
+    guess: interest_2;  label: interest_6
+
+6) example number: 11
+    sentence: it reflects values of a generation that wants more time for families and personal INTERESTS , says john h . moxley iii , who directs physician-executive searches for kornferry international .
+    guess: interest_5;  label: interest_3
+
+7) example number: 12
+    sentence: at a meeting sept . 1 to consider the labor-management bid , the board also was informed by its investment adviser , first boston corp . , of INTEREST expressed by buy-out funds including kohlberg kravis roberts & co . and forstmann little & co . , as well as by robert bass , morgan stanley 's buy-out fund , and pan am corp .
+    guess: interest_2;  label: interest_1
+
+8) example number: 13
+    sentence: although ramada will have to ask for an extension of the nov . 30 termination date for the agreement and other concessions , a prime official and others familiar with the transaction said the delay wo n 't affect the buyers ' INTEREST in the hotels .
+    guess: interest_5;  label: interest_1
+
+9) example number: 16
+    sentence: ( see : `` marketing brief -- viacom inc . : third-period loss widened ; INTEREST expense is cited '' -- wsj oct . 19 , 1989 .
+    guess: interest_5;  label: interest_6
+
+10) example number: 22
+    sentence: '' producer and founder aaron spelling , in a release , spoke of `` recent expressions of INTEREST in the company , '' and ronald lightstone , executive vice president , said several companies had inquired about a possible bid but would n 't specify if an offer is actually on the table .
+    guess: interest_2;  label: interest_1
+
+11) example number: 29
+    sentence: other losers included pharmaceutical and textile shares , but two issues attracted investor INTEREST because of strong earning prospects for new products .
+    guess: interest_2;  label: interest_1
+
+12) example number: 31
+    sentence: ) citibank 's confidence was bolstered as recently as 10 days ago when representatives of 120 banks that had expressed INTEREST in the ual transaction attended a meeting with citibank representatives .
+    guess: interest_2;  label: interest_1
+
+13) example number: 37
+    sentence: dallas-based amr indicated yesterday that it intends to remain independent , and , signaling that it may seek help from congress on public-policy grounds , warned that `` excess levels of debt in the airline industry are not in the public INTEREST .
+    guess: interest_2;  label: interest_4
+
+14) example number: 38
+    sentence: manufacturers hanover manufacturers hanover said that excluding the addition to its reserves , certain tax benefits , and a one-time $ 16 million gain on the sale of an INTEREST in a foreign leasing company , third-quarter earnings were $ 75 million .
+    guess: interest_6;  label: interest_5
+
+15) example number: 39
+    sentence: both the bush administration and the japanese would like to see the u . s . federal reserve lower INTEREST rates -- a move that would weaken the dollar by making u . s . investments less attractive .
+    guess: interest_2;  label: interest_6
+
+16) example number: 46
+    sentence: the purchases show the strong INTEREST of japanese investors in u . s . mortgage-based instruments , fannie mae 's chairman , david o . maxwell , said at a news conference .
+    guess: interest_2;  label: interest_1
+
+17) example number: 47
+    sentence: in addition , mrs . lidgerwood said , norfolk is likely to draw down its cash initially to finance the purchases and thus forfeit some INTEREST income .
+    guess: interest_2;  label: interest_6
+
+18) example number: 49
+    sentence: and many bitterly remember a major bond issue in stalin 's era shortly after world war ii , when people were forced to buy bonds but never received the promised INTEREST payments .
+    guess: interest_2;  label: interest_6
+
+19) example number: 53
+    sentence: buying INTEREST in du pont , which declared a stock split and a dividend boost , and certain other blue-chip issues gave the industrial average a better performance than broader indexes .
+    guess: interest_2;  label: interest_1
+
+20) example number: 54
+    sentence: national city corp . is having a strong profit year because of a wider-than-normal spread in INTEREST rates and good economic conditions in its ohio and kentucky service area , edward b . brandon , chairman and chief executive officer , said .
+    guess: interest_2;  label: interest_6
+
+21) example number: 55
+    sentence: the total short INTEREST in nasdaq stocks as of mid-october was 237 . 1 million shares , up from 223 . 7 million in september but well below the record level of 279 million shares established in july 1987 .
+    guess: interest_2;  label: interest_5
+
+22) example number: 57
+    sentence: the move , which other banks are likely to follow , could hurt mexico 's chances of getting enough new bank loans to bolster its economy and meet INTEREST payments .
+    guess: interest_2;  label: interest_6
+
+23) example number: 59
+    sentence: the florida session is of particular INTEREST because of a landmark florida supreme court ruling last week that struck down a law restricting abortions .
+    guess: interest_6;  label: interest_2
+
+24) example number: 60
+    sentence: a spokeswoman told dow jones professional investor report that a presentation by managers at an investment conference last week may have generated INTEREST in the stock .
+    guess: interest_2;  label: interest_1
+
+25) example number: 61
+    sentence: '' moreover , the INTEREST on asset-backed securities is fully taxable , while * interest on treasury issues is tax-free at the state and local level .
+    guess: interest_2;  label: interest_6
+
+26) example number: 62
+    sentence: younkers management is likely to buy a 10 % to 20 % INTEREST in the chain in january , said fred s . hubbell , equitable 's president and chief executive officer .
+    guess: interest_2;  label: interest_5
+
+27) example number: 64
+    sentence: the house version of the bill would make debt non-deductible if it pays five percentage points above treasury notes , has at least a five-year maturity and does n 't pay INTEREST for at least one year out of the first five .
+    guess: interest_2;  label: interest_6
+
+28) example number: 69
+    sentence: as long as we believe that all americans , of every race and ethnic background , have common INTERESTS and can live together cooperatively , our political map should reflect our belief .
+    guess: interest_4;  label: interest_3
+
+29) example number: 82
+    sentence: at the same time , the drop in INTEREST rates since the spring has failed to revive the residential construction industry .
+    guess: interest_2;  label: interest_6
+
+30) example number: 88
+    sentence: bond dealers in several countries said foreign bonds did n 't fall sharply because INTEREST rate hikes were widely expected and had been factored into the market .
+    guess: interest_2;  label: interest_6
+
+31) example number: 89
+    sentence: nbc 's INTEREST may revive the deal , which mgmua killed last week when the australian concern had trouble raising cash .
+    guess: interest_6;  label: interest_1
+
+32) example number: 90
+    sentence: control data corp . said it is offering to purchase the $ 154 . 2 million amount of its 12 34 % senior notes due june 15 , 1991 , at par , plus accrued INTEREST to the dec . 8 purchase date .
+    guess: interest_2;  label: interest_6
+
+33) example number: 91
+    sentence: that means if the notes continue trading below their $ 100 par value -- they are now trading below $ 80 ( excluding accrued INTEREST ) -- rjr must boost the bonds ' * interest rates as high as necessary to drive their market price to $ 100 .
+    guess: interest_2;  label: interest_6
+
+34) example number: 92
+    sentence: certainly , the chancellor has made it clear that he is prepared to increase INTEREST rates again if necessary to both ensure that a substantial slowdown does take place and that sterling does n 't decline further .
+    guess: interest_2;  label: interest_6
+
+35) example number: 93
+    sentence: the rating concern said the textile and clothing company 's INTEREST expense exceeds operating profit `` by a wide margin '' and it noted united 's estimated after-tax loss of $ 24 million for the year ended june 30 .
+    guess: interest_5;  label: interest_6
+
+36) example number: 94
+    sentence: the launch of the holding company by one of europe 's most flamboyant capitalists would be the most spectacular sign yet of a growing INTEREST by western businesses in hungary , the eastern european country that is regarded as having moved the furthest toward a market economy .
+    guess: interest_2;  label: interest_1
+
+37) example number: 98
+    sentence: when international business machines hit a 52-week low on tuesday , it stirred some INTEREST among bottom-fishers .
+    guess: interest_2;  label: interest_1
+
+38) example number: 99
+    sentence: but uncertainty regarding the direction of currencies and domestic * interest rates discouraged further buying INTEREST , traders said .
+    guess: interest_6;  label: interest_1
+
+39) example number: 100
+    sentence: the new reports of sluggishness , which were foreshadowed by an earlier labor department report that manufacturing payrolls dropped by 105 , 000 in september , give the fed another reason to further ease its grip on credit and lower INTEREST rates .
+    guess: interest_2;  label: interest_6
+
+40) example number: 102
+    sentence: guinness climbed 25 to 597 on followthrough buying after a strong interim earnings report thursday and on the growing perception that its 24 % beneficial INTEREST in french luxury goods maker louis vuitton moet hennessey will prove a good investment .
+    guess: interest_2;  label: interest_5
+
+41) example number: 104
+    sentence: west virginia parkways , economic development and tourism authority -- $ 143 million of parkway revenue bonds , series 1989 , with current INTEREST bonds due 1990-2002 and 2019 and capital appreciation bonds due 2003-2008 , tentatively priced by a painewebber inc . group to yield from 6 % in 1990 to 7 . 31 % in 2019 .
+    guess: interest_2;  label: interest_6
+
+42) example number: 105
+    sentence: its net INTEREST expenses were $ 238 million in the same period .
+    guess: interest_5;  label: interest_6
+
+43) example number: 109
+    sentence: INTEREST in the financial group extended to selected issues of insurance companies .
+    guess: interest_5;  label: interest_1
+
+44) example number: 110
+    sentence: and the treasury 's $ 17 . 6 billion auction of short-term bills , which generated strong buying INTEREST , helped to lift the bond market out of the doldrums .
+    guess: interest_2;  label: interest_1
+
+45) example number: 111
+    sentence: at the state and local level , the bonds are subject to surtaxes and estate , inheritance and gift taxes , but exempt from taxation as to principal and INTEREST .
+    guess: interest_2;  label: interest_6
+
+46) example number: 112
+    sentence: analysts say one point in tokyo 's favor this time is the fact that for the past several weeks the market has been in relatively low gear , driven by fundamental concerns about earnings and INTEREST rates rather than wild speculation .
+    guess: interest_2;  label: interest_6
+
+47) example number: 113
+    sentence: naomi bernhard levinson , a fine-arts appraiser at bernhard associates in san francisco , considers it `` definite conflict of INTEREST for an auction house to both advise a client on purchases and to set price estimates on the paintings to be purchased .
+    guess: interest_6;  label: interest_4
+
+48) example number: 115
+    sentence: hanson has INTERESTS in chemicals , restaurants , foods , building products , cookware , lighting and other products .
+    guess: interest_3;  label: interest_5
+
+49) example number: 117
+    sentence: the national economic INTERESTS are much better served allowing the private * interests of bankers and investors be the ultimate judges of the investment quality of various lbo deals and leveraged restructurings .
+    guess: interest_2;  label: interest_4
+
+50) example number: 122
+    sentence: '' rothschild sold its INTEREST as general partner to mr . rogers , the former trupin associate -- effectively walking out on its limited-partner investors despite a pledge in its offering memorandums not to sell out without investor approval .
+    guess: interest_2;  label: interest_5
+
+51) example number: 126
+    sentence: republicans have as much INTEREST as democrats in `` the way the system works , '' he notes .
+    guess: interest_6;  label: interest_1
+
+52) example number: 127
+    sentence: i read the exerpts of wayne angell 's exchange with a gosbank representative ( `` put the soviet economy on golden rails , '' editorial page , oct . 5 ) with great INTEREST , since the gold standard is one of my areas of research .
+    guess: interest_2;  label: interest_1
+
+53) example number: 128
+    sentence: western union had said two weeks ago that it might withdraw the pending offer , which would have replaced $ 500 million in so-called reset notes , now paying 19 . 25 % annual INTEREST and set to come due in 1992 , with two new issues paying lower * interest .
+    guess: interest_2;  label: interest_6
+
+54) example number: 130
+    sentence: in addition , a norfolk affiliate , york capital inc . , will purchase all of the INTERESTS of eagle 's secured lenders , which total $ 11 . 5 million , and guarantee as much as $ 8 . 2 million in payments to eagle 's unsecured creditors .
+    guess: interest_2;  label: interest_5
+
+55) example number: 131
+    sentence: for does it make sense for congress to transfer money -- in the face of a mounting $ 2 . 9 trillion gross federal debt and net INTEREST payments now at about $ 175 billion annually -- to states and localities that are themselves relatively debt-free .
+    guess: interest_2;  label: interest_6
+
+56) example number: 132
+    sentence: analysts immediately viewed the price data , the grimmest inflation news in months , as evidence that the federal reserve was unlikely to allow INTEREST rates to fall as many investors had hoped .
+    guess: interest_2;  label: interest_6
+
+57) example number: 133
+    sentence: unocal corp . 's decision to put its norwegian oil and gas INTERESTS up for sale earlier this week is another step in the company 's strategic review of its properties , and shows that few of them are sacred cows .
+    guess: interest_2;  label: interest_5
+
+58) example number: 134
+    sentence: '' but kamal kant tewary , minister for information and broadcasting , says : `` we are the elected representatives of the people , and we will do whatever we think is fit and in the INTERESTS of the people .
+    guess: interest_5;  label: interest_4
+
+59) example number: 137
+    sentence: integrated has been struggling to avoid a bankruptcy-law filing since june , when it failed to make INTEREST payments on nearly $ 1 billion of debt .
+    guess: interest_2;  label: interest_6
+
+60) example number: 142
+    sentence: `` INTEREST is a great deal higher than it was a year ago .
+    guess: interest_6;  label: interest_1
+
+61) example number: 143
+    sentence: the new publication comes at a time of increased INTEREST in family business among major accounting firms and investment houses .
+    guess: interest_2;  label: interest_1
+
+62) example number: 144
+    sentence: `` his { phelan 's } own INTERESTS are in building an electronic marketplace , '' said a market maker .
+    guess: interest_5;  label: interest_3
+
+63) example number: 146
+    sentence: and in a later scene , we see shirer chafing at the folly of being required by cbs to cover `` human INTEREST '' stories like the vienna boys ' choir at the very moment of the anschluss .
+    guess: interest_6;  label: interest_3
+
+64) example number: 148
+    sentence: blue-chip advertisers have plenty of complaints about the magazines they advertise in , ranging from inadequate consumer research to ad `` clutter '' and a seemingly unchecked proliferation of special INTEREST magazines .
+    guess: interest_6;  label: interest_3
+
+65) example number: 150
+    sentence: mr . spiotto said that he hoped the situation could be resolved among all creditors , and that a bankruptcy filing would n 't be in anybody 's INTEREST .
+    guess: interest_2;  label: interest_4
+
+66) example number: 151
+    sentence: raytheon , which used a 1939 british design to make radar equipment to detect enemy planes during world war ii , had purchased a one-third INTEREST in new japan radio in 1961 and made its tube designs available to the japanese concern .
+    guess: interest_2;  label: interest_5
+
+67) example number: 153
+    sentence: in a brief statement , mr . ankeny conceded he is n 't the best person to turn first bank around : `` given the challenges the organization faces , i 've determined that it is in the best INTEREST of shareholders and employees that i resign '' as chairman , president and chief executive .
+    guess: interest_2;  label: interest_4
+
+68) example number: 158
+    sentence: west germany 's allianz ag agreed to buy 50 % of the insurance INTEREST of france 's navigation mixte for about $ 1 billion .
+    guess: interest_2;  label: interest_5
+
+69) example number: 162
+    sentence: the economy 's unexpected sluggishness and the dollar 's continued strength are likely to force the federal reserve to cut INTEREST rates in coming weeks , analysts say .
+    guess: interest_2;  label: interest_6
+
+70) example number: 165
+    sentence: pound concerns aside , the lack of strong buying INTEREST in the yen is another boon for the dollar , many traders say .
+    guess: interest_2;  label: interest_1
+
+71) example number: 166
+    sentence: with INTEREST in emigration and investment abroad soaring since june 4 , that assumption no longer seems so safe .
+    guess: interest_2;  label: interest_1
+
+72) example number: 169
+    sentence: moreover , the number of people who spontaneously cited lower prices as the reason for their INTEREST in sears declined to 16 % in september from 33 % in march .
+    guess: interest_6;  label: interest_1
+
+73) example number: 173
+    sentence: in the mortgage market , traders said new york-based seaman 's bank for savings sold as much as $ 1 billion of derivative securities , sparking INTEREST in an otherwise quiet market .
+    guess: interest_6;  label: interest_1
+
+74) example number: 174
+    sentence: '' warner advisers friday said the company is prepared to take legal action to protect its INTERESTS and has already notified sony that it may consider a suit against the japanese electronics giant for inducing a breach of contract between mr . guber and warner .
+    guess: interest_2;  label: interest_4
+
+75) example number: 175
+    sentence: the sale price of mccall 's -- twice what mr . lang originally paid for it -- will finance lang communications ' buy-back of time warner 's 50 % INTEREST in working woman and working mother .
+    guess: interest_2;  label: interest_5
+
+76) example number: 178
+    sentence: mr . conway was executive vice president and chief investment officer of union central life insurance co . , of cincinnati , in 1987 , when union central bought a 54 % INTEREST in manhattan national corp .
+    guess: interest_2;  label: interest_5
+
+77) example number: 180
+    sentence: for the first six months of 1989 , the company reported revenue of $ 1 . 77 billion and earnings before INTEREST , taxes and depreciation of $ 365 million .
+    guess: interest_2;  label: interest_6
+
+78) example number: 186
+    sentence: the delay in getting its lenders ' approval of the o & y loan meant campeau 's allied stores unit missed the INTEREST payment due friday on one series of junk bonds .
+    guess: interest_2;  label: interest_6
+
+79) example number: 187
+    sentence: while mr . roman is a workaholic detailsman , mr . phillips would rather delegate , leaving him time for his INTERESTS outside the office .
+    guess: interest_4;  label: interest_3
+
+80) example number: 189
+    sentence: the nepalese have expressed an INTEREST in obtaining weapons for their 25 , 000-man army from china , rather than india .
+    guess: interest_6;  label: interest_1
+
+81) example number: 192
+    sentence: the food producer and real estate developer said the notes , which were sold at a discount , would be redeemed at 100 % of the principal amount plus accrued INTEREST of $ 20 per $ 1 , 000 note for the period sept . 1 to nov . 1 .
+    guess: interest_2;  label: interest_6
+
+82) example number: 193
+    sentence: INTEREST rates generally have been declining since last spring , despite a few upward blips in recent weeks .
+    guess: interest_2;  label: interest_6
+
+83) example number: 195
+    sentence: `` i would never allow any INTEREST i have to influence my thinking on an issue , '' he said .
+    guess: interest_6;  label: interest_4
+
+84) example number: 198
+    sentence: still , they cautioned that audi may need to shed about 100 of its 365 u . s . dealers who have lost INTEREST in the franchise .
+    guess: interest_2;  label: interest_1
+
+85) example number: 199
+    sentence: in may , the agency ordered the board of trade to return the fine to mr . malato with accrued INTEREST and to end his suspension .
+    guess: interest_2;  label: interest_6
+
+86) example number: 202
+    sentence: moody 's investors service inc . said it lowered the ratings on about $ 3 . 2 billion of houston lighting & power co . 's securities because of the company 's low levels of INTEREST coverage and internal cash generation .
+    guess: interest_2;  label: interest_6
+
+87) example number: 203
+    sentence: but would n 't you know , now that we are spending jillions of dollars , and have built those new divisions and new air wings , and have positioned all these ships and supplies to fight the russians in iran , the russians seem to have lost INTEREST in the whole subject .
+    guess: interest_6;  label: interest_1
+
+88) example number: 204
+    sentence: the department 's reaction to the northwest deal is of keen INTEREST to the aviation community and to congress , where concern is building about the implications of leveraged buy-outs and the involvement of foreign airlines in helping to finance the transactions .
+    guess: interest_6;  label: interest_2
+
+89) example number: 207
+    sentence: some economists contend that individual investors , who typically buy securities at treasury auctions through noncompetitive bids , will show strong INTEREST for the two-year notes , repeating the pattern seen at yesterday 's six-month bill sale .
+    guess: interest_2;  label: interest_1
+
+90) example number: 209
+    sentence: the loss also included about $ 5 . 6 million of INTEREST expenses .
+    guess: interest_5;  label: interest_6
+
+91) example number: 210
+    sentence: with uncertainty still hanging over INTEREST rates and the dollar , the market failed to find a focus that might lead to further investor commitments , they said .
+    guess: interest_2;  label: interest_6
+
+92) example number: 211
+    sentence: `` jane is supportive of the process , '' says one person involved in the show , `` which could lead to the development of a quality morning program that fills an important market need and is consistent with both her professional and personal INTERESTS .
+    guess: interest_5;  label: interest_3
+
+93) example number: 213
+    sentence: c . itoh was one of many companies that talked about buying at least an equity INTEREST in mgmnp ; jvcvictor co . of japan , which is 50 % owned by matsushita , recently agreed to invest more than $ 100 million in a joint venture with independent hollywood producer larry gordon to produce and finance motion pictures .
+    guess: interest_2;  label: interest_5
+
+94) example number: 215
+    sentence: on friday , central realty president john a . murphy said in a letter to major realty 's board of directors that central realty 's directors were `` dumbfounded '' at major realty 's `` lack of sensitivity to shareholder and employee INTERESTS .
+    guess: interest_2;  label: interest_4
+
+95) example number: 218
+    sentence: but INTEREST is rising fast : an additional 17 % said they would begin electronic document transmissions soon .
+    guess: interest_6;  label: interest_1
+
+96) example number: 219
+    sentence: mr . trump has often bought stock in companies and then sold after his buying was disclosed and the stocks rose in price on takeover speculation , so his INTEREST would n 't necessarily presage a bid by him .
+    guess: interest_2;  label: interest_1
+
+97) example number: 220
+    sentence: note : capital is defined as owner 's equity , reserves , minority INTEREST , preferred stock and long-term debt .
+    guess: interest_2;  label: interest_5
+
+98) example number: 223
+    sentence: national medical said in los angeles that all three of its operating groups -- general hospitals , specialty hospitals and nursing homes -- posted higher revenue and operating profits before INTEREST during the quarter .
+    guess: interest_2;  label: interest_6
+
+99) example number: 224
+    sentence: alpine would save some $ 2 million a year in INTEREST costs if 80 % of debentures are exchanged and $ 2 . 5 million if 100 % are exchanged , said steven s . elbaum , chairman and chief executive officer .
+    guess: interest_2;  label: interest_6
+
+100) example number: 225
+    sentence: both general motors and ford motor have expressed INTEREST in taking a stake in the company .
+    guess: interest_2;  label: interest_1
+
+101) example number: 226
+    sentence: but he traces his INTEREST in reforming the fed to complaints from constituents during the deep recession of the early 1980s .
+    guess: interest_6;  label: interest_1
+
+102) example number: 227
+    sentence: to say that the pentagon should act irresponsibly because acting responsibly will provoke congress into acting irresponsibly leads to the conclusion that the pentagon should deliberately exaggerate its needs in the national INTEREST ; in other words , that it is justified in committing a crime -- lying to congress -- because it is morally superior .
+    guess: interest_2;  label: interest_4
+
+103) example number: 233
+    sentence: he believes that investor INTEREST might broaden to the second-tier stocks in the sector , if such leading issues as microsoft and intel continue to do well .
+    guess: interest_2;  label: interest_1
+
+104) example number: 234
+    sentence: the cboe said in a statement that `` the INTERESTS of fair and orderly markets would n 't be served by a resumption of trading .
+    guess: interest_5;  label: interest_4
+
+105) example number: 236
+    sentence: open INTEREST is the number of outstanding contracts that remain to be settled either by an opposite trade or delivery .
+    guess: interest_2;  label: interest_5
+
+106) example number: 240
+    sentence: the central bank also unexpectedly raised the base rate by half a percentage point to 3 . 75 % oct . 11 as part of an inflation-fighting move that indirectly increases INTEREST rates charged on new home construction loans .
+    guess: interest_2;  label: interest_6
+
+107) example number: 242
+    sentence: '' mr . rosen said the quake will revive consumer INTEREST in a little-publicized 1972 state law that requires brokers to disclose to potential buyers how close a property sits to a fault line .
+    guess: interest_5;  label: interest_1
+
+108) example number: 245
+    sentence: but they will work together on energy - , environmental - and fair-trade-related issues and conduct seminars on topics of mutual INTEREST , said gibson gayle jr . of 585-lawyer fulbright & jaworski .
+    guess: interest_5;  label: interest_4
+
+109) example number: 247
+    sentence: a twa official told a lawyer representing gay rights groups , `` we are aware of the non-traditional lifestyles prevalent in our society and our sole INTEREST is the promotion of travel , not social commentary .
+    guess: interest_4;  label: interest_3
+
+110) example number: 249
+    sentence: the deutsche mark bond market often firms when the dollar falls , but dealers said monday that the lack of buying reflected concern that west germany 's central bank will raise INTEREST rates sometime next month .
+    guess: interest_2;  label: interest_6
+
+111) example number: 251
+    sentence: merrill lynch & co . withdrew as lead manager of a a $ 1 billion bond issue mr . holmes a court 's bell resources ltd . would have used to reduce its INTEREST bill .
+    guess: interest_2;  label: interest_6
+
+112) example number: 253
+    sentence: seattle 's license fees for adult peep shows vary from those for other coin-operated amusements without serving a substantial government INTEREST and are unconstitutional , the ninth-circuit appeals court holds for acorn investments inc .
+    guess: interest_3;  label: interest_4
+
+113) example number: 256
+    sentence: military buyers have shown INTEREST , national says , because ferroelectric chips resist atomic radiation .
+    guess: interest_4;  label: interest_1
+
+114) example number: 257
+    sentence: gary hoffman , a washington lawyer specializing in intellectual-property cases , said the threat of u . s . retaliation , combined with a growing recognition that protecting intellectual property is in a country 's own INTEREST , prompted the improvements made by south korea , taiwan and saudi arabia .
+    guess: interest_2;  label: interest_4
+
+115) example number: 259
+    sentence: still unresolved is the key question in the case : whether rates will be increased enough to satisfy the * interests of investors in the troubled utility , or whether increases will be held down in the INTERESTS of the utility 's customers .
+    guess: interest_2;  label: interest_4
+
+116) example number: 262
+    sentence: `` that and the INTEREST from the corporate sector .
+    guess: interest_6;  label: interest_1
+
+117) example number: 264
+    sentence: reflecting the new-found INTEREST , more than 140 u . s . companies are taking part in a moscow exhibition organized by mr . forrester 's trade group .
+    guess: interest_4;  label: interest_1
+
+118) example number: 267
+    sentence: brazil has so far failed to make a $ 1 . 6 billion INTEREST payment that was due to banks monday , bankers and brazilian officials said .
+    guess: interest_2;  label: interest_6
+
+119) example number: 268
+    sentence: `` this sale allows us to retain a sizable INTEREST in the northwest java contract area , while increasing our financial flexibility , '' said charles blackburn , chairman and chief executive of maxus .
+    guess: interest_2;  label: interest_5
+
+120) example number: 269
+    sentence: in panama , the u . s . INTERESTS at stake were happily minor ; the only people killed were foreigners hapless enough to trust american will .
+    guess: interest_5;  label: interest_4
+
+121) example number: 270
+    sentence: the prestigious awards , presented in new york , are widely believed to be an indicator of future nobel prize awards and thus are watched with great INTEREST in the medical and scientific communities .
+    guess: interest_5;  label: interest_1
+
+122) example number: 275
+    sentence: first , he said , domestic INTEREST rates are likely to stay at higher levels as increased anticipation of inflation followed rising consumer prices reported last week .
+    guess: interest_2;  label: interest_6
+
+123) example number: 282
+    sentence: for example , one might consider the following possible revenue sources , with their annual yields as estimated by the congressional budget office : -- eliminate deductibility of state and local taxes -- $ 32 . 1 billion ; -- tax employer-paid heath insurance as income -- $ 25 . 1 billion ; -- raise premiums to cover 50 % of the cost of medicare supplementary medical in surance -- $ 18 . 6 billion ; -- limit the value of the mortgage INTEREST deduction to 15 % of the * interest , the amount of the first-bracket tax rate -- $ 14 . 5 billion ; -- increase the motor fuel tax by 12 cents a gallon -- $ 11 . 7 billion ; -- tax 60 % of social security benefits as income -- $ 11 . 3 billion ; -- tax 30 % of capital gains from home sales -- $ 7 . 5 billion ; -- tax capital gains at death -- $ 5 . 8 billion ; -- raise the tax on distilled spirits by 20 % and raise beer and wine tax to the level of distilled spirits tax -- $ 4 . 4 billion ; -- double the cigarette tax -- $ 3 billion .
+    guess: interest_2;  label: interest_6
+
+124) example number: 284
+    sentence: officials at cbs inc . and capital citiesabc inc . said their stations have n 't expressed an INTEREST in moving prime time .
+    guess: interest_2;  label: interest_1
+
+125) example number: 292
+    sentence: the fed is resisting pressure to cut INTEREST rates , though analysts say a reduction is likely in coming weeks because of the economy 's unexpected sluggishness and the dollar 's continued strength .
+    guess: interest_2;  label: interest_6
+
+126) example number: 293
+    sentence: in last month 's survey , a number of currency analysts predicted the dollar would be pressured by a narrowing of INTEREST rate differentials between the u . s . and west germany .
+    guess: interest_2;  label: interest_6
+
+127) example number: 294
+    sentence: mr . yeres thinks the commodity-swap market is taking off fast in part because of trading sophistication that has built up in the past five years in the much bigger swap markets for INTEREST rates and currencies .
+    guess: interest_2;  label: interest_6
+
+128) example number: 297
+    sentence: but to say that local INTERESTS receive a hearing in congress is not to say that the states as policymaking governments receive a hearing there .
+    guess: interest_5;  label: interest_4
+
+129) example number: 300
+    sentence: the most recent otc short INTEREST statistics were compiled oct . 13 , the day the nasdaq composite index slid 3 % and the new york stock exchange tumbled 7 % .
+    guess: interest_2;  label: interest_5
+
+130) example number: 301
+    sentence: mr . mcavity , the toronto-based publisher and editor of the `` deliberations '' newsletter and president of mvp capital corp . , a mining finance concern with INTERESTS in 40 gold mining and exploration firms , said his attachment to gold is strong because `` gold is the only currency that has a 3 , 000-year history .
+    guess: interest_2;  label: interest_5
+
+131) example number: 310
+    sentence: he predicts a downward move in dollar-mark trade and a less dramatic slip in dollar-yen , noting that there continues to be a large pool of japanese investor INTEREST in u . s . securities , which could provide a solid base for the dollar at around 140 yen .
+    guess: interest_2;  label: interest_1
+
+132) example number: 311
+    sentence: `` with the decline in stock prices and continued low or stable INTEREST rates , stocks are representing a better value all the time , '' renaissance president frank w . terrizzi said yesterday .
+    guess: interest_2;  label: interest_6
+
+133) example number: 316
+    sentence: polaroid reported operating profit before taxes and INTEREST costs of $ 63 . 1 million for the third quarter , more than double the year-before $ 24 million .
+    guess: interest_2;  label: interest_6
+
+134) example number: 317
+    sentence: mr . lim says uic has been attracting INTEREST from overseas investors .
+    guess: interest_6;  label: interest_1
+
+135) example number: 319
+    sentence: london shares closed higher but overall the session was marked by modest volume and the continued absence of active institutional INTEREST .
+    guess: interest_6;  label: interest_1
+
+136) example number: 320
+    sentence: the advance in otc short INTEREST in the latest month compares with a 1 . 3 % decline in short * interest on the new york stock exchange and an increase of less than 1 % on the american stock exchange during the same period .
+    guess: interest_2;  label: interest_5
+
+137) example number: 327
+    sentence: news corp . sold its book-publishing INTERESTS , including harper & row publishers inc . and william collins plc , for about $ 1 . 3 billion to a joint-venture company owned by news corp . and a company associated with credit suisse first boston .
+    guess: interest_2;  label: interest_5
+
+138) example number: 328
+    sentence: market watchers also noted an absence of institutional INTEREST later in the session helped pave the way for broader declines when wall street opened weaker .
+    guess: interest_6;  label: interest_1
+
+139) example number: 329
+    sentence: the sharp rise in otc short INTEREST compares with the 4 . 2 % decline in short * interest on the new york stock exchange and the 3 % rise on the american stock exchange during the september-october period .
+    guess: interest_2;  label: interest_5
+
+140) example number: 334
+    sentence: earlier this month , van kampen merritt , an investment banking unit of xerox corp . , announced a bid to buy syncor 's for about $ 81 . 8 million , but it dropped the bid due to syncor 's lack of INTEREST .
+    guess: interest_2;  label: interest_1
+
+141) example number: 335
+    sentence: ) but market observers point out that long-term government bond INTEREST rates , currently at 7 . 85 % , are 2 . 5 percentage points lower than the level that prevailed in october 1987 , when * interest rates had been rising for most of the year .
+    guess: interest_2;  label: interest_6
+
+142) example number: 336
+    sentence: '' advertisers are showing INTEREST .
+    guess: interest_6;  label: interest_1
+
+143) example number: 341
+    sentence: speaking to u . s . and soviet officials in moscow , the fed chairman warned that in setting monetary policy , `` inordinate attention to some types of intermediate targets , '' such as the level of exchange rates or INTEREST rates , `` may not promote the attainment of long-term goals .
+    guess: interest_2;  label: interest_6
+
+144) example number: 343
+    sentence: analysts said they were impressed by the performance of the company 's newspaper group , which consists of the times , 35 regional newspapers and a one-third INTEREST in the international herald tribune ; group operating profit for the quarter increased slightly to $ 34 . 9 million from $ 34 . 5 million on flat revenue .
+    guess: interest_2;  label: interest_5
+
+145) example number: 344
+    sentence: u . s . security officials expect the colombian drug cartels to launch terrorist attacks against americans and american INTERESTS to scare the u . s . away from its anti-cartel stand .
+    guess: interest_4;  label: interest_5
+
+146) example number: 346
+    sentence: the gain resulted from the sale of grace equipment co . , the initial public offering of a one-sixth INTEREST in grace energy corp . and an adjustment in the carrying value of certain natural resource assets not part of grace energy .
+    guess: interest_2;  label: interest_5
+
+147) example number: 348
+    sentence: `` there 's no conflict of INTEREST , '' he says , referring to his involvement in china .
+    guess: interest_6;  label: interest_4
+
+148) example number: 349
+    sentence: '' secretary baker , an active outdoorsman , has a keen INTEREST in environmental issues .
+    guess: interest_6;  label: interest_1
+
+149) example number: 350
+    sentence: prosecutors , in an indictment based on the grand jury 's report , maintain that at various times since 1975 , he owned a secret and illegal * interest in a beer distributorship ; plotted hidden ownership * interests in real estate that presented an alleged conflict of INTEREST ; set up a dummy corporation to buy a car and obtain insurance for his former girlfriend ( now his second wife ) ; and maintained 54 accounts in six banks in cambria county .
+    guess: interest_2;  label: interest_4
+
+150) example number: 352
+    sentence: `` i have been watching his studies with great INTEREST and admiration , '' says victor mckusick , a johns hopkins geneticist who is recognized for , among other things , extensive research on the amish .
+    guess: interest_3;  label: interest_1
+
+151) example number: 353
+    sentence: occidental petroleum corp . , los angeles , said it will redeem nov . 1 its $ 207 million principal amount outstanding of floating-rate senior notes due may 1 , 1990 , at par plus INTEREST accrued to the redemption date .
+    guess: interest_2;  label: interest_6
+
+152) example number: 357
+    sentence: mr . reynolds also notes that since british banks have no reserve requirements , high INTEREST rates are less likely to curb inflation than to cause recession .
+    guess: interest_2;  label: interest_6
+
+153) example number: 358
+    sentence: therefore it does n 't surprise me that there 's considerable INTEREST in it , '' a first boston official said .
+    guess: interest_5;  label: interest_1
+
+154) example number: 360
+    sentence: despite renewed INTEREST by the public in such topics as the environment and the third world , it has n 't been able to shake its reputation as a magazine boys like to flip through in search of topless tribe women .
+    guess: interest_2;  label: interest_1
+
+155) example number: 361
+    sentence: overseas studies draw more INTEREST at colleges this fall .
+    guess: interest_6;  label: interest_1
+
+156) example number: 364
+    sentence: jean gandois , president of the state-controlled paris-based metals group , told a news conference that consolidated net , after payments to minority INTERESTS , jumped to 1 . 729 billion francs ( us $ 262 million ) from 744 million francs a year earlier .
+    guess: interest_2;  label: interest_5
+
+157) example number: 367
+    sentence: mr . kern 's gloom stems from a string of recent economic indicators showing that britain 's inflationary pressure has n 't lost potency despite 15 months of rising INTEREST rates .
+    guess: interest_2;  label: interest_6
+
+158) example number: 369
+    sentence: `` this has already dragged on a lot longer than expected , and we have { an INTEREST payment } coming dec . 15 , '' mr . ross added .
+    guess: interest_2;  label: interest_6
+
+159) example number: 370
+    sentence: the yen 's softness , she says , apparently stems from japanese investors ' INTEREST in buying dollars against the yen to purchase u . s . bond issues and persistent worries about this year 's upheaval in the japanese government .
+    guess: interest_2;  label: interest_1
+
+160) example number: 372
+    sentence: '' american express obviously has a big INTEREST in protecting that reputation .
+    guess: interest_5;  label: interest_4
+
+161) example number: 374
+    sentence: credit lyonnais reported 1988 consolidated profit of 2 . 06 billion francs after payments to minority INTERESTS .
+    guess: interest_2;  label: interest_5
+
+162) example number: 375
+    sentence: `` his sense is that you have to be restrained in intervening with the internal affairs of another country , and you also have to be aware of long-term geopolitical INTERESTS that may be at risk , '' says winston lord , a former kissinger protege who was ambassador to china from 1985 to 1989 .
+    guess: interest_2;  label: interest_4
+
+163) example number: 376
+    sentence: '' mr . gates , 46 years old , is a native kansan who developed a deep INTEREST in eastern europe and the soviet union in college .
+    guess: interest_6;  label: interest_1
+
+164) example number: 377
+    sentence: the annual INTEREST rate for each of the next 11 years will be set each fall , when details of a new series are released .
+    guess: interest_2;  label: interest_6
+
+165) example number: 378
+    sentence: even lobbyists for heavy industry , one of the INTERESTS hit hardest in the 1986 bill , are encouraged .
+    guess: interest_4;  label: interest_5
+
+166) example number: 379
+    sentence: mr . leber says he 's counting on the increasing INTEREST by americans in all things soviet to boost average weekly receipts this time to the $ 1 . 2 million level .
+    guess: interest_6;  label: interest_1
+
+167) example number: 380
+    sentence: a dollar that will slide into year end -- due to international INTEREST rate differentials and the choreographed trading techniques of certain oil importers -- which does not inspire foreign-investor * interest .
+    guess: interest_2;  label: interest_6
+
+168) example number: 385
+    sentence: for weeks the market has been rife with rumors about massive japanese INTEREST in the $ 140 million asset fund .
+    guess: interest_6;  label: interest_1
+
+169) example number: 386
+    sentence: a major depressant , according to william o 'neill , vice president of research for elders futures inc . , new york , could have been a decline in prices of short-term INTEREST rate futures .
+    guess: interest_2;  label: interest_6
+
+170) example number: 387
+    sentence: and , `` we further startled people by saying that gold would subsequently recover and could go as high as $ 3 , 750 an ounce in a few years if the then-rampant inflation and soaring INTEREST rates continued at the same pace , '' she said .
+    guess: interest_2;  label: interest_6
+
+171) example number: 388
+    sentence: the resulting decline in INTEREST rates and the value of the dollar could reinvigorate american business -- indeed , the entire economy .
+    guess: interest_2;  label: interest_6
+
+172) example number: 389
+    sentence: soon after he went public with his new-found INTEREST in capital gains , he closeted himself in a room on the second floor of the capitol to hear what the democratic majority on his committee had to say .
+    guess: interest_4;  label: interest_1
+
+173) example number: 391
+    sentence: the spokesman said unocal has had `` considerable INTEREST '' from prospective buyers .
+    guess: interest_6;  label: interest_1
+
+174) example number: 392
+    sentence: that figure does n 't include attorney 's fees and INTEREST costs .
+    guess: interest_2;  label: interest_6
+
+175) example number: 393
+    sentence: wells fargo wells fargo continued to generate one of the highest profit margins among major banks , minimizing a drop in net INTEREST margin with 13 % third-quarter growth in high-yielding business loans and similar growth in mortgages .
+    guess: interest_2;  label: interest_6
+
+176) example number: 394
+    sentence: the buy-back , at par plus accrued INTEREST , would occur within 12 months after the planned restructuring of campeau and its subsidiaries is completed .
+    guess: interest_2;  label: interest_6
+
+177) example number: 398
+    sentence: '' compound annual returns , including price changes and income from INTEREST and dividends \ * actual performance , not annualized source : ibbotson associates inc .
+    guess: interest_2;  label: interest_6
+
+178) example number: 399
+    sentence: the national association of securities dealers , which operates the nasdaq computer system on which 5 , 200 otc issues trade , compiles short INTEREST data in two categories : the approximately two-thirds , and generally biggest , nasdaq stocks that trade on the national market system ; and the one-third , and generally smaller , stocks that are n 't a part of the system .
+    guess: interest_2;  label: interest_5
+
+179) example number: 400
+    sentence: '' he added : `` there 's probably even a magazine for left-handed golfers . . . but the general INTEREST magazine is something we all miss , and it should come back .
+    guess: interest_2;  label: interest_3
+
+180) example number: 404
+    sentence: why all the INTEREST .
+    guess: interest_6;  label: interest_1
+
+181) example number: 405
+    sentence: '' some private economists suggested that another set of poor trade figures might prompt the government to raise INTEREST rates again .
+    guess: interest_2;  label: interest_6
+
+182) example number: 406
+    sentence: industry analysts say that if resolution trust issues notes that carry the full faith and credit of the u . s . government , which would allow it to pay the lowest possible INTEREST rate , the amount of the notes would count as federal outlays and deepen the budget deficit .
+    guess: interest_2;  label: interest_6
+
+183) example number: 407
+    sentence: in exchange for INTEREST on the smallest loan , senior lenders will receive series a convertible preferred stock equal to about 15 % of general homes ' equity .
+    guess: interest_2;  label: interest_6
+
+184) example number: 411
+    sentence: he said the banks may have lost a `` golden opportunity '' by not intervening more aggressively last week when many european nations raised key INTEREST rates .
+    guess: interest_2;  label: interest_6
+
+185) example number: 412
+    sentence: still unresolved is the key question in the case : whether rates will be increased enough to satisfy the INTERESTS of investors in the troubled utility , or whether increases will be held down in the * interests of the utility 's customers .
+    guess: interest_2;  label: interest_4
+
+186) example number: 415
+    sentence: does the risk of hostile takeovers force corporate officers to focus on the short term and ignore the corporation 's long-range INTERESTS .
+    guess: interest_5;  label: interest_4
+
+187) example number: 420
+    sentence: he conceded that he had n 't disclosed the transaction fully on personal financial reports and probably would have to pay back taxes and INTEREST because he had claimed favorable capital-gains treatment to which he was n 't entitled .
+    guess: interest_2;  label: interest_6
+
+188) example number: 422
+    sentence: mr . lord adds that although he does n 't fully share mr . kissinger 's sympathy for the deng regime , he is convinced that mr . kissinger 's views are n 't influenced by money : `` if he did n 't have a cent of commercial INTEREST in china , he would have taken the same position .
+    guess: interest_2;  label: interest_5
+
+189) example number: 425
+    sentence: `` INTEREST by japanese investors was limited , '' said michael moran , chief economist at daiwa securities america inc .
+    guess: interest_2;  label: interest_1
+
+190) example number: 426
+    sentence: whatever balance should be struck between consumers ' * interest in getting old drugs cheaply and their INTEREST in seeing new drugs invented , it can be struck through patent policy rather than by forcing generic makers to jump through needless paper-work hoops .
+    guess: interest_2;  label: interest_4
+
+191) example number: 427
+    sentence: in addition , the company said the growth in higher-cost deposits during the period offset net INTEREST income from strong growth in loans .
+    guess: interest_2;  label: interest_6
+
+192) example number: 428
+    sentence: if , as traders fear , stock baskets attract little customer INTEREST , that would leave market makers less room to get out of unwanted positions .
+    guess: interest_2;  label: interest_1
+
+193) example number: 430
+    sentence: '' tvsm 's venture is spurred by a rush of INTEREST from advertisers in and publishers of cable and tv magazines .
+    guess: interest_6;  label: interest_1
+
+194) example number: 432
+    sentence: `` it 's not all that clear it 's in the social INTEREST to stop this shifting around of assets .
+    guess: interest_6;  label: interest_4
+
+195) example number: 434
+    sentence: he and others cite friday 's plunge in u . s . stock prices and the narrowing difference between INTEREST rates in the u . s . and some of its major trading partners , particularly west germany and japan .
+    guess: interest_2;  label: interest_6
+
+196) example number: 437
+    sentence: and it retains an INTEREST in acquiring candies and other articles that might be sold in tobacco shops .
+    guess: interest_5;  label: interest_1
+
+197) example number: 439
+    sentence: instead of looking at INTEREST rates , inflation and earnings projections , the leveraged buy-out and merger offers that drove the stock market were based on how much cash a target company could generate to pay off the loans that financed the acquisition .
+    guess: interest_2;  label: interest_6
+
+198) example number: 443
+    sentence: `` she has taken an INTEREST in religion '' and reads the bible and buddhist works in the evenings .
+    guess: interest_6;  label: interest_1
+
+199) example number: 445
+    sentence: '' total return , including price changes and INTEREST income , for municipal bond mutual funds in periods ending sept . 30 .
+    guess: interest_2;  label: interest_6
+
+200) example number: 448
+    sentence: several companies and individuals have expressed INTEREST in purchasing the principal assets of the company , it said .
+    guess: interest_2;  label: interest_1
+
+201) example number: 451
+    sentence: this week 's revision of the european currency unit is n 't likely to alter INTEREST rates on ecu-denominated securities .
+    guess: interest_2;  label: interest_6
+
+202) example number: 454
+    sentence: diamond shamrock is the operator , with a 100 % INTEREST in the well .
+    guess: interest_6;  label: interest_5
+
+203) example number: 456
+    sentence: although takeover experts said they doubted mr . steinberg will make a bid by himself , the application by his reliance group holdings inc . could signal his INTEREST in helping revive a failed labor-management bid .
+    guess: interest_2;  label: interest_1
+
+204) example number: 457
+    sentence: the beauty of brazilian corporativism is that political alliances can be made among socialists and capitalists who share the mutual goal of maintaining their protected INTERESTS .
+    guess: interest_5;  label: interest_4
+
+205) example number: 458
+    sentence: growth stocks may underperform cyclical stocks next year if the federal reserve begins to let INTEREST rates drift sufficiently lower to boost the economy .
+    guess: interest_2;  label: interest_6
+
+206) example number: 459
+    sentence: the spread between national city 's INTEREST income on loans and its cost of funds was particularly favorable in the first half , officials said .
+    guess: interest_2;  label: interest_6
+
+207) example number: 461
+    sentence: other properties include the company 's entire oil-and-gas assets in dubai , gabon and italy plus certain INTERESTS in ecuador , columbia and indonesia .
+    guess: interest_3;  label: interest_5
+
+208) example number: 462
+    sentence: if lin does n 't exercise the option and mccaw does acquire metromedia 's INTEREST , `` the ironic thing is that mccaw could end up being lin 's controlling partner '' in the new york franchise , mr . grubman said .
+    guess: interest_2;  label: interest_5
+
+209) example number: 463
+    sentence: some buyers who apply for an ibm credit card may also be eligible for as much as $ 3 , 500 in credit , with the first payment deferred until february and no INTEREST charge during the promotion .
+    guess: interest_2;  label: interest_6
+
+210) example number: 464
+    sentence: in recent months , similar potentially tight supply vs . open INTEREST situations have been resolved without delivery problems .
+    guess: interest_6;  label: interest_5
+
+211) example number: 465
+    sentence: worse yet , mr . bush 's INTEREST in a cw ban prevented the reagan administration in 1987 from adopting a more honest and responsible position toward such an accord : as the u . s . binary modernization program got under way , the soviet union became ever more determined to conclude a cw ban quickly .
+    guess: interest_6;  label: interest_1
+
+212) example number: 466
+    sentence: the december open INTEREST declined by 1 , 597 contracts .
+    guess: interest_6;  label: interest_5
+
+213) example number: 472
+    sentence: `` i 'm starting to see more business transactions , '' says andrea west of american telephone & telegraph co . , noting growing INTEREST in use of 900 service for stock sales , software tutorials and even service contracts .
+    guess: interest_2;  label: interest_1
+

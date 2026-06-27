@@ -1,0 +1,99 @@
+# Grammar
+S -> S Punct
+S -> NP VP
+NP -> Pronoun | Det Noun | Noun | Noun Noun | Det Noun Noun | Adj Noun | Subj Det Noun Noun VP | Noun Conj Noun | Det Adj Noun |
+VP -> Verb PP PP | Adv Verb | Verb Verb NP PP PP | Adv Verb NP | Verb NP
+PP -> Prep NP
+# Lexicon
+Noun -> 'BBC' | 'decade' | 'experience' | 'CNN' | 'Style' | 'Global' | 'warming' | 'change' | 'pattern' | 'seasons' | 'Davis' | 'money' | 'Cup' | 'part' | 'scheme' | 'sponsorship' | 'advertising'
+Verb -> 'worked' | 'spoke' | 'has' | 'caused' | 'played' | 'makes' | 'wonder'
+Pronoun -> 'He' | 'She' | 'I' |
+Conj -> 'and' |
+Subj -> 'whether' |
+Adv -> 'also'
+Part -> 'warming'
+Det -> 'the' | 'a' | 'The' |
+Adj -> 'rainy' |
+Prep -> 'for' | 'to' | 'about' | 'in' | 'of' | 'through' |
+Punct -> '.'
+~                                                                                                                               ~                                     
+S -> S punct
+S -> NP VP
+
+NP -> Pronoun
+NP -> Det Noun
+NP -> Noun
+NP -> Noun Noun
+NP -> Det X1
+X1 -> Noun Noun
+NP -> Adj Noun
+NP -> Subj X2 #From here
+X2 -> Det X3
+X3 -> Noun X4
+X4 -> Noun VP #To here is Subj Det Noun Noun VP
+NP -> Noun X5 |X5 -> Conj Noun
+NP -> Det X6
+X6 -> Adj Noun
+
+VP -> Verb X7
+X7 -> PP PP
+VP -> Adv Verb #From here
+VP -> Verb X8
+X8 -> Verb X9
+X9 -> NP X7 #To here is Verb Verb NP PP PP
+VP -> Adv X10
+X10 -> Verb NP
+VP -> X10
+
+PP -> Prep NP
+
+# Lexicon                                                                   Noun -> 'BBC' | 'decade' | 'experience' | 'CNN' | 'Style' | 'Global' | 'warming' | 'change' | 'pattern' | 'seasons' | 'Davis' | 'money' | 'Cup' | 'part' | 'scheme' | 'sponsorship' | 'advertising'
+Verb -> 'worked' | 'spoke' | 'has' | 'caused' | 'played' | 'makes' | 'wonder'
+Pronoun -> 'He' | 'She' | 'I' |
+Conj -> 'and' |
+Subj -> 'whether' |
+Adv -> 'also'
+Part -> 'warming'
+Det -> 'the' | 'a' | 'The' |
+Adj -> 'rainy' |
+Prep -> 'for' | 'to' | 'about' | 'in' | 'of' | 'through' |
+Punct -> '.'                                                                ~                                                                                             
+
+
+------------------------------------------------
+S -> S punct
+S -> NP VP
+
+NP -> Pronoun
+NP -> Det X1
+Det -> 'the' | 'a' | 'The'
+X1 -> Noun
+Noun -> 'BBC' | 'decade' | 'experience' | 'CNN' | 'Style' | 'Global' | 'warming' | 'change' | 'pattern' | 'seasons' | 'Davis' | 'money' | 'Cup' | 'part' | 'scheme' | 'sponsorship' | 'advertising'
+
+PP -> Prep NP
+Prep -> 'for' | 'to' | 'about' | 'in' | 'of' | 'through' |
+
+VP -> Verb X2
+Verb -> 'worked' | 'spoke' | 'has' | 'caused' | 'played' | 'makes' | 'wonder'
+X2 -> PP PP
+------------------------------------------------------
+
+S -> S punct
+S -> NP VP
+
+NP -> Pronoun | "He"
+NP -> Det X1
+Det -> 'the' | 'a'
+X1 -> Noun
+Noun -> 'BBC' | 'decade'
+
+PP -> Prep NP
+Prep -> 'for'
+
+VP -> Verb X2
+Verb -> 'worked'
+X2 -> PP PP
+
+ 
+
+ 

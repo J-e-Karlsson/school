@@ -1,0 +1,136 @@
+>>> hard_dist = nltk.FreqDist([i.senses[0] for i in wc.senseval.instances('hard.pos')])
+>>> hard_dist
+FreqDist({'HARD1': 3455, 'HARD2': 502, 'HARD3': 376})
+>>> hard_baseline = hard_dist.freq('HARD1')
+>>> hard_baseline #BASELINE
+0.797369028386799
+
+>>> nb_hard = wc.wsd_classifier(nltk.NaiveBayesClassifier.train, 'hard.pos',
+ wc.wsd_word_features)
+Reading data...
+ Senses: HARD2 HARD1 HARD3
+Training classifier...
+Testing classifier...
+Accuracy: 0.8593 #FIRST CLASSIFIER
+
+>>> nb_hard = wc.wsd_classifier(nltk.NaiveBayesClassifier.train, 'hard.pos', wc.wsd_context_features)
+Reading data...
+ Senses: HARD2 HARD1 HARD3
+Training classifier...
+Testing classifier...
+Accuracy: 0.8950 #SECOND CLASSIFIER
+
+#Results using second classifier for Ass3:
+>>> nb_hard = wc.wsd_classifier(nltk.NaiveBayesClassifier.train, "hard.pos", wc.wsd_context_features, distance=3, confusion_matrix=True, log=True)
+Reading data...
+ Senses: HARD2 HARD3 HARD1
+Training classifier...
+Testing classifier...
+Accuracy: 0.8950
+Writing errors to errors.txt
+      |   H   H   H |
+      |   A   A   A |
+      |   R   R   R |
+      |   D   D   D |
+      |   1   2   3 |
+------+-------------+
+HARD1 |<643> 39  20 |
+HARD2 |   6 <73>  9 |
+HARD3 |   5  12 <60>|
+------+-------------+
+(row = reference; col = test)
+
+
+---------------------------------------------------------
+
+FreqDist({'interest_6': 1252, 'interest_5': 500, 'interest_1': 361, 'interest_4': 178, 'interest_3': 66, 'interest_2': 11})
+>>> interest_baseline = interest_dist.freq('interest_6')
+>>> interest_baseline
+0.5287162162162162 #BASELINE
+
+>>> nb_interest = wc.wsd_classifier(nltk.NaiveBayesClassifier.train, 'interest.pos', wc.wsd_word_features)
+Reading data...
+ Senses: interest_2 interest_5 interest_3 interest_1 interest_6 interest_4
+Training classifier...
+Testing classifier...
+Accuracy: 0.5506 #FIRST CLASSIFIER
+
+>>> nb_interest = wc.wsd_classifier(nltk.NaiveBayesClassifier.train, 'interest.pos', wc.wsd_context_features)
+Reading data...
+ Senses: interest_2 interest_5 interest_3 interest_1 interest_6 interest_4
+Training classifier...
+Testing classifier...
+Accuracy: 0.4283 #SECOND CLASSIFIER
+
+#results using first classifier:
+>>> nb_interest = wc.wsd_classifier(nltk.NaiveBayesClassifier.train, 'intere
+st.pos', wc.wsd_word_features, distance=3, confusion_matrix=True, log=True)
+Reading data...
+ Senses: interest_2 interest_5 interest_4 interest_6 interest_1 interest_3
+Training classifier...
+Testing classifier...
+Accuracy: 0.5506
+Writing errors to errors.txt
+           |   i   i   i   i   i   i |
+           |   n   n   n   n   n   n |
+           |   t   t   t   t   t   t |
+           |   e   e   e   e   e   e |
+           |   r   r   r   r   r   r |
+           |   e   e   e   e   e   e |
+           |   s   s   s   s   s   s |
+           |   t   t   t   t   t   t |
+           |   _   _   _   _   _   _ |
+           |   1   2   3   4   5   6 |
+-----------+-------------------------+
+interest_1 | <11> 30   1   3   6  27 |
+interest_2 |   .  <1>  .   .   .   2 |
+interest_3 |   .   1  <6>  3   3   2 |
+interest_4 |   .  13   1  <8>  8   4 |
+interest_5 |   .  26   2   2 <55>  4 |
+interest_6 |   .  71   .   .   4<180>|
+-----------+-------------------------+
+(row = reference; col = test)
+--------------------------------------------------------
+
+FreqDist({'SERVE10': 1814, 'SERVE12': 1272, 'SERVE2': 853, 'SERVE6': 439})
+>>> serve_baseline = serve_dist.freq('SERVE10')
+>>> serve_baseline
+0.4143444495203289 #BASELINE
+
+>>> nb_serve = wc.wsd_classifier(nltk.NaiveBayesClassifier.train, 'serve.pos
+', wc.wsd_word_features)
+Reading data...
+ Senses: SERVE12 SERVE10 SERVE6 SERVE2
+Training classifier...
+Testing classifier...
+Accuracy: 0.7352 #FIRST CLASSIFIER
+
+>>> nb_serve = wc.wsd_classifier(nltk.NaiveBayesClassifier.train, 'serve.pos', wc.wsd_context_features)
+Reading data...
+ Senses: SERVE12 SERVE10 SERVE6 SERVE2
+Training classifier...
+Testing classifier...
+Accuracy: 0.8345 #SECOND CLASSIFIER
+
+#results when using second classifier:
+>>> nb_serve = wc.wsd_classifier(nltk.NaiveBayesClassifier.train, 'serve.pos', wc.wsd_context_features, distance=3, confusion_matrix=True, log=True)
+Reading data...
+ Senses: SERVE2 SERVE12 SERVE10 SERVE6
+Training classifier...
+Testing classifier...
+Accuracy: 0.8345
+Writing errors to errors.txt
+        |   S   S         |
+        |   E   E   S   S |
+        |   R   R   E   E |
+        |   V   V   R   R |
+        |   E   E   V   V |
+        |   1   1   E   E |
+        |   0   2   2   6 |
+--------+-----------------+
+SERVE10 |<311> 19   9  32 |
+SERVE12 |  11<213> 19   4 |
+ SERVE2 |   2  28<134>  5 |
+ SERVE6 |   4   4   8 <73>|
+--------+-----------------+
+(row = reference; col = test)

@@ -1,0 +1,47 @@
+--- INSTRUKTIONER ---
+Din uppgift är att negera flervalsfrågor från högskoleprovet. Ditt mål är att negera frågeformuleringen "question".
+
+Du får inte göra något som inte står i instruktionerna.
+
+Följ dessa instruktioner noggrant:
+    1. Negera frågeformuleringen "question".
+    - Tillåtna negationer för steg 1 är:
+        "inte"
+        "ej"
+        prefixet "o"-
+    - Ändra inte ordningen på svarsalternativen.
+    - Se till så att alla meningar är grammatiskt korrekta efter negeringen.
+    - Skapa inga dubbelnegationer.
+    - Behåll den ursprungliga JSON-strukturen som frågorna har.
+
+Nedan följer ett exempel där "question" ändras så att "vara vanligt" blir "inte vara vanligt" genom att "inte" läggs till:
+
+ORIGINALFRÅGAN:
+{
+        "question_number": 15,
+        "question": "Vad anser recensenten vara vanligt bland historiker som i sin forskning använder sig av arkivmaterial?",
+        "answers": {
+            "A": "Att återvända till arkivmaterial som redan utforskats eller dokumenterats av andra.",
+            "B": "Att uppfatta arkivmaterialet som heltäckande och därför bortse från ytterligare källor.",
+            "C": "Att låta urvalet av arkivmaterial bli alltför ensidigt och styrt av det egna syftet.",
+            "D": "Att förhålla sig överdrivet respektfullt till arkivmaterialet och dess trovärdighet."
+        },
+        "question_type": "LAS"
+    }
+    
+NEGERAD VERSION:
+{
+        "question_number": 15,
+        "question": "Vad anser recensenten inte vara vanligt bland historiker som i sin forskning använder sig av arkivmaterial?",
+        "answers": {
+            "A": "Att återvända till arkivmaterial som redan utforskats eller dokumenterats av andra.",
+            "B": "Att uppfatta arkivmaterialet som heltäckande och därför bortse från ytterligare källor.",
+            "C": "Att låta urvalet av arkivmaterial bli alltför ensidigt och styrt av det egna syftet.",
+            "D": "Att förhålla sig överdrivet respektfullt till arkivmaterialet och dess trovärdighet."
+        },
+        "question_type": "LAS"
+    }
+
+Utför nu uppgiften på ORIGINALFRÅGAN som ges nedan.
+
+

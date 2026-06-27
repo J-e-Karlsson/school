@@ -1,0 +1,8 @@
+--- INSTRUKTIONER ---
+Efter "---INPUT---" kommer du få flervalsfrågor av typen "fyll i luckorna" som du ska justera enligt följande instruktioner.
+
+Vissa av flervalsfrågorna innehåller flera luckor, då kommer svarsalternativen innehålla flera ord och instruktionerna gäller då alla ord i alternativen.
+
+Du får inte göra något som inte står i instruktionerna.
+
+Ditt uppdrag är följande:

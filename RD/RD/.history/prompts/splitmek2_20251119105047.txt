@@ -1,0 +1,51 @@
+--- INSTRUKTIONER ---
+Efter "---INPUT---" kommer du få flervalsfrågor av typen "fyll i luckorna" som du ska justera enligt följande instruktioner.
+
+Vissa av flervalsfrågorna innehåller flera luckor, då kommer svarsalternativen innehålla flera ord och instruktionerna gäller då alla ord i alternativen.
+
+Du får inte göra något som inte står i instruktionerna.
+
+Varje fråga ska bli till en ny version, ditt uppdrag är följande:
+    1. Lägg till texten "Vilket av dessa alternativ passar inte in i följande mening?" i början av frågeformuleringen ("question").
+    2. Använd facit för att hitta frågans korrekta svarsalternativ. Siffrorna i facit överrensstämmer med "question_number".
+    3. Låt det korrekta svarsalternativet förbli oändrat. Byt exakt 2 av de 3 andra svarsalternativen mot synonymer till det korrekta alternativet. Det korrekta alternativet och de 2 ändrade alternativen ska passa in i meningen.
+    4. Lämna endast ett alternativ som inte passar in, detta blir det nya korrekta svaret till frågan.
+    5. Se till att alla ändringar är grammatiskt korrekta och passar in i meningen.
+    6. Printa alla resultat för Version 2 under rubriken "--- NEGERAT ---"
+    7. Printa alla nya korrekta svarsalternativ med frågenummer i slutet under rubriken "Nya korrekta svar": "frågenummer: svarsalternativ".
+
+Nedan följer ett exempel:
+
+Originalfrågan (korrekt svar är c):
+
+    {
+        "question_number": 27,
+        "question": "Nageltrång kan vålla en smärtsam inflammation som kan sprida sig in under tåns nagelplatta. Orsaken kan vara _____ nagelklippning i förening med för trånga skor.",
+        "answers": {
+            "a": "förfallen",
+            "b": "fördragen",
+            "c": "försummad",
+            "d": "förbehållen"
+        },
+        "question_type": "MEK"
+    },
+
+Version 2 (rätt svar är a):
+
+    {
+        "question_number": 27,
+        "question": "Vilket av dessa alternativ passar inte in i följande mening? Nageltrång kan vålla en smärtsam inflammation som kan sprida sig in under tåns nagelplatta. Orsaken kan vara _____ nagelklippning i förening med för trånga skor.",
+        "answers": {
+            "a": "förfallen",
+            "b": "missad",
+            "c": "försummad",
+            "d": "utebliven"
+        },
+        "question_type": "MEK"
+    }
+
+Nya korrekta svar:
+27: a
+
+Applicera nu instruktionerna på datan nedan. Behåll exakt samma JSON-format som i inputen, utför bara ändringar enligt instruktionerna.
+--- INPUT ---

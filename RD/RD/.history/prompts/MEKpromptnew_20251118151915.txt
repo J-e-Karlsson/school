@@ -1,0 +1,6 @@
+--- INSTRUKTIONER ---
+Du kommer få flervalsfrågor  (efter "--- INPUT ---") som du ska justera enligt följande instruktioner.
+
+Du får inte göra något som inte står i instruktionerna.
+
+Vissa av flervalsfrågorna

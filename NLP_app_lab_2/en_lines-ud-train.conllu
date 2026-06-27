@@ -1,0 +1,1939 @@
+# newdoc id = 1
+# sent_id = en_lines-ud-train-doc1-1
+# text = Show All
+1	Show	show	VERB	IMP	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	All	all	PRON	TOT-PL	Case=Nom	1	obj	_	_
+
+# sent_id = en_lines-ud-train-doc1-2
+# text = About ANSI SQL query mode
+1	About	about	ADP	_	_	5	case	_	_
+2	ANSI	ANSI	PROPN	SG-NOM	Number=Sing	5	compound	_	_
+3	SQL	SQL	PROPN	SG-NOM	Number=Sing	2	flat	_	_
+4	query	query	NOUN	SG-NOM	Number=Sing	5	compound	_	_
+5	mode	mode	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = en_lines-ud-train-doc1-3
+# text = Some of the content in this topic may not be applicable to some languages.
+1	Some	some	PRON	IND	Case=Nom	11	nsubj	_	_
+2	of	of	ADP	_	_	4	case	_	_
+3	the	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
+4	content	content	NOUN	SG-NOM	Number=Sing	1	nmod	_	_
+5	in	in	ADP	_	_	7	case	_	_
+6	this	this	DET	DEM-SG	Number=Sing|PronType=Dem	7	det	_	_
+7	topic	topic	NOUN	SG-NOM	Number=Sing	4	nmod	_	_
+8	may	may	AUX	PRES-AUX	VerbForm=Fin	11	aux	_	_
+9	not	not	PART	NEG	Polarity=Neg	11	advmod	_	_
+10	be	be	AUX	INF	VerbForm=Inf	11	cop	_	_
+11	applicable	applicable	ADJ	POS	Degree=Pos	0	root	_	_
+12	to	to	ADP	_	_	14	case	_	_
+13	some	some	DET	IND	PronType=Ind	14	det	_	_
+14	languages	language	NOUN	PL-NOM	Number=Plur	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	Period	_	11	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-4
+# text = You can create SQL queries in one of two ANSI SQL query modes:
+1	You	you	PRON	PERS-P2	_	3	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	3	aux	_	_
+3	create	create	VERB	INF	VerbForm=Inf	0	root	_	_
+4	SQL	SQL	PROPN	SG-NOM	Number=Sing	5	compound	_	_
+5	queries	query	NOUN	PL-NOM	Number=Plur	3	obj	_	_
+6	in	in	ADP	_	_	7	case	_	_
+7	one	one	NUM	CARD-SG	NumType=Card	3	obl	_	_
+8	of	of	ADP	_	_	13	case	_	_
+9	two	two	NUM	CARD-PL	NumType=Card	13	nummod	_	_
+10	ANSI	ANSI	PROPN	SG-NOM	Number=Sing	12	compound	_	_
+11	SQL	SQL	PROPN	SG-NOM	Number=Sing	10	flat	_	_
+12	query	query	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	modes	mode	NOUN	PL-NOM	Number=Plur	7	nmod	_	SpaceAfter=No
+14	:	:	PUNCT	Colon	_	3	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-5
+# text = ANSI-89 describes the traditional Jet SQL syntax.
+1	ANSI-89	ANSI-89	PROPN	SG-NOM	Number=Sing	2	nsubj	_	_
+2	describes	describe	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	the	the	DET	DEF	Definite=Def|PronType=Art	7	det	_	_
+4	traditional	traditional	ADJ	POS	Degree=Pos	5	amod	_	_
+5	Jet	Jet	PROPN	SG-NOM	Number=Sing	7	compound	_	_
+6	SQL	SQL	PROPN	SG-NOM	Number=Sing	5	flat	_	_
+7	syntax	syntax	NOUN	SG-NOM	Number=Sing	2	obj	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-6
+# text = This mode conforms closely to the ANSI-89 Level 1 specification, but is not ANSI-89 Level 1 compliant.
+1	This	this	DET	DEM-SG	Number=Sing|PronType=Dem	2	det	_	_
+2	mode	mode	NOUN	SG-NOM	Number=Sing	3	nsubj	_	_
+3	conforms	conform	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	closely	closely	ADV	_	_	3	advmod	_	_
+5	to	to	ADP	_	_	10	case	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
+7	ANSI-89	ANSI-89	PROPN	SG-NOM	Number=Sing	8	compound	_	_
+8	Level	level	NOUN	SG-NOM	Number=Sing	10	compound	_	_
+9	1	1	NUM	ID	NumType=Card	8	nummod	_	_
+10	specification	specification	NOUN	SG-NOM	Number=Sing	3	obl	_	SpaceAfter=No
+11	,	,	PUNCT	Comma	_	18	punct	_	_
+12	but	but	CCONJ	_	_	18	cc	_	_
+13	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+14	not	not	PART	NEG	Polarity=Neg	18	advmod	_	_
+15	ANSI-89	ANSI-89	PROPN	SG-NOM	Number=Sing	16	compound	_	_
+16	Level	level	NOUN	SG-NOM	Number=Sing	18	compound	_	_
+17	1	1	NUM	ID	NumType=Card	16	nummod	_	_
+18	compliant	compliant	ADJ	POS	Degree=Pos	3	conj	_	SpaceAfter=No
+19	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-7
+# text = Certain ANSI-89 SQL features are not implemented and the wildcard characters conform to the Visual Basic for Applications (VBA) specification, not SQL.
+1	Certain	certain	ADJ	POS	Degree=Pos	4	amod	_	_
+2	ANSI-89	ANSI-89	PROPN	SG-NOM	Number=Sing	4	compound	_	_
+3	SQL	SQL	PROPN	SG-NOM	Number=Sing	2	flat	_	_
+4	features	feature	NOUN	PL-NOM	Number=Plur	7	nsubj:pass	_	_
+5	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_
+6	not	not	PART	NEG	Polarity=Neg	7	advmod	_	_
+7	implemented	implement	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+8	and	and	CCONJ	_	_	12	cc	_	_
+9	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+10	wildcard	wildcard	NOUN	SG-NOM	Number=Sing	11	compound	_	_
+11	characters	character	NOUN	PL-NOM	Number=Plur	12	nsubj	_	_
+12	conform	conform	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	7	conj	_	_
+13	to	to	ADP	_	_	22	case	_	_
+14	the	the	DET	DEF	Definite=Def|PronType=Art	22	det	_	_
+15	Visual	visual	ADJ	POS	Degree=Pos	22	compound	_	_
+16	Basic	Basic	PROPN	SG-NOM	Number=Sing	15	flat	_	_
+17	for	for	ADP	_	_	15	flat	_	_
+18	Applications	application	NOUN	PL-NOM	Number=Plur	15	flat	_	_
+19	(	(	PUNCT	LeftParenthesis	_	20	punct	_	SpaceAfter=No
+20	VBA	VBA	X	NOM	_	15	appos	_	SpaceAfter=No
+21	)	)	PUNCT	RightParenthesis	_	20	punct	_	_
+22	specification	specification	NOUN	SG-NOM	Number=Sing	12	obl	_	SpaceAfter=No
+23	,	,	PUNCT	Comma	_	25	punct	_	_
+24	not	not	PART	NEG	Polarity=Neg	25	advmod	_	_
+25	SQL	SQL	PROPN	SG-NOM	Number=Sing	22	conj	_	SpaceAfter=No
+26	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-8
+# text = ANSI-92 provides new reserved words, syntax rules, and wildcard characters that enhance your ability to create queries, filters, and SQL statements.
+1	ANSI-92	ANSI-92	PROPN	SG-NOM	Number=Sing	2	nsubj	_	_
+2	provides	provide	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	new	new	ADJ	POS	Degree=Pos	5	amod	_	_
+4	reserved	reserved	ADJ	POS	_	5	amod	_	_
+5	words	word	NOUN	PL-NOM	Number=Plur	2	obj	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	8	punct	_	_
+7	syntax	syntax	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+8	rules	rule	NOUN	PL-NOM	Number=Plur	5	conj	_	SpaceAfter=No
+9	,	,	PUNCT	Comma	_	12	punct	_	_
+10	and	and	CCONJ	_	_	12	cc	_	_
+11	wildcard	wildcard	NOUN	SG-NOM	Number=Sing	12	compound	_	_
+12	characters	character	NOUN	PL-NOM	Number=Plur	5	conj	_	_
+13	that	that	SCONJ	_	_	14	mark	_	_
+14	enhance	enhance	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	12	acl	_	_
+15	your	your	PRON	P2-GEN	Case=Gen|Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	_	_
+16	ability	ability	NOUN	SG-NOM	Number=Sing	14	obj	_	_
+17	to	to	PART	_	_	18	mark	_	_
+18	create	create	VERB	INF	VerbForm=Inf	16	acl	_	_
+19	queries	query	NOUN	PL-NOM	Number=Plur	18	obj	_	SpaceAfter=No
+20	,	,	PUNCT	Comma	_	21	punct	_	_
+21	filters	filter	NOUN	PL-NOM	Number=Plur	19	conj	_	SpaceAfter=No
+22	,	,	PUNCT	Comma	_	25	punct	_	_
+23	and	and	CCONJ	_	_	25	cc	_	_
+24	SQL	SQL	PROPN	SG-NOM	Number=Sing	25	compound	_	_
+25	statements	statement	NOUN	PL-NOM	Number=Plur	19	conj	_	SpaceAfter=No
+26	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-9
+# text = This mode conforms closely to the ANSI-92 Level 1 specification, but is not ANSI-92 Level 1 compliant.
+1	This	this	DET	DEM-SG	Number=Sing|PronType=Dem	2	det	_	_
+2	mode	mode	NOUN	SG-NOM	Number=Sing	3	nsubj	_	_
+3	conforms	conform	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	closely	closely	ADV	_	_	3	advmod	_	_
+5	to	to	ADP	_	_	10	case	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
+7	ANSI-92	ANSI-92	PROPN	SG-NOM	Number=Sing	8	compound	_	_
+8	Level	level	NOUN	SG-NOM	Number=Sing	10	compound	_	_
+9	1	1	NUM	ID	NumType=Card	8	nummod	_	_
+10	specification	specification	NOUN	SG-NOM	Number=Sing	3	obl	_	SpaceAfter=No
+11	,	,	PUNCT	Comma	_	18	punct	_	_
+12	but	but	CCONJ	_	_	18	cc	_	_
+13	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+14	not	not	PART	NEG	Polarity=Neg	18	advmod	_	_
+15	ANSI-92	ANSI-92	PROPN	SG-NOM	Number=Sing	16	compound	_	_
+16	Level	level	NOUN	SG-NOM	Number=Sing	18	compound	_	_
+17	1	1	NUM	ID	NumType=Card	16	nummod	_	_
+18	compliant	compliant	ADJ	POS	Degree=Pos	3	conj	_	SpaceAfter=No
+19	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-10
+# text = This query mode has more of the ANSI syntax, and the wildcard characters conform to the SQL specification.
+1	This	this	DET	DEM-SG	Number=Sing|PronType=Dem	3	det	_	_
+2	query	query	NOUN	SG-NOM	Number=Sing	3	compound	_	_
+3	mode	mode	NOUN	SG-NOM	Number=Sing	4	nsubj	_	_
+4	has	have	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	more	much	ADJ	CMP	Degree=Cmp	4	xcomp	_	_
+6	of	of	ADP	_	_	9	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	ANSI	ANSI	PROPN	SG-NOM	Number=Sing	9	compound	_	_
+9	syntax	syntax	NOUN	SG-NOM	Number=Sing	5	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	Comma	_	15	punct	_	_
+11	and	and	CCONJ	_	_	15	cc	_	_
+12	the	the	DET	DEF	Definite=Def|PronType=Art	14	det	_	_
+13	wildcard	wildcard	NOUN	SG-NOM	Number=Sing	14	compound	_	_
+14	characters	character	NOUN	PL-NOM	Number=Plur	15	nsubj	_	_
+15	conform	conform	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	_
+16	to	to	ADP	_	_	19	case	_	_
+17	the	the	DET	DEF	Definite=Def|PronType=Art	19	det	_	_
+18	SQL	SQL	PROPN	SG-NOM	Number=Sing	19	compound	_	_
+19	specification	specification	NOUN	SG-NOM	Number=Sing	15	obl	_	SpaceAfter=No
+20	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-11
+# text = In Microsoft Access 2000 using ADOX, you could programmatically create queries that used ANSI-92 SQL syntax.
+1	In	in	ADP	_	_	2	case	_	_
+2	Microsoft	Microsoft	PROPN	SG-NOM	Number=Sing	11	obl	_	_
+3	Access	Access	PROPN	SG-NOM	Number=Sing	2	flat	_	_
+4	2000	2000	NUM	ID	NumType=Card	2	nummod	_	_
+5	using	use	VERB	ING	Tense=Pres|VerbForm=Part	11	advcl	_	_
+6	ADOX	ADOX	PROPN	SG-NOM	Number=Sing	5	obj	_	SpaceAfter=No
+7	,	,	PUNCT	Comma	_	5	punct	_	_
+8	you	you	PRON	PERS-P2	_	11	nsubj	_	_
+9	could	could	AUX	PAST-AUX	VerbForm=Fin	11	aux	_	_
+10	programmatically	programmatically	ADV	_	_	11	advmod	_	_
+11	create	create	VERB	INF	VerbForm=Inf	0	root	_	_
+12	queries	query	NOUN	PL-NOM	Number=Plur	11	obj	_	_
+13	that	that	SCONJ	_	_	14	mark	_	_
+14	used	use	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	12	acl	_	_
+15	ANSI-92	ANSI-92	PROPN	SG-NOM	Number=Sing	17	compound	_	_
+16	SQL	SQL	PROPN	SG-NOM	Number=Sing	15	flat	_	_
+17	syntax	syntax	NOUN	SG-NOM	Number=Sing	14	obj	_	SpaceAfter=No
+18	.	.	PUNCT	Period	_	11	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-12
+# text = However, any queries you created were not visible in the Database window because there was no option to set this mode in the user interface.
+1	However	however	ADV	_	_	9	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	Comma	_	1	punct	_	_
+3	any	any	DET	IND	PronType=Ind	4	det	_	_
+4	queries	query	NOUN	PL-NOM	Number=Plur	9	nsubj	_	_
+5	you	you	PRON	PERS-P2	_	6	nsubj	_	_
+6	created	create	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_
+7	were	be	AUX	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	_	_
+8	not	not	PART	NEG	Polarity=Neg	9	advmod	_	_
+9	visible	visible	ADJ	POS	Degree=Pos	0	root	_	_
+10	in	in	ADP	_	_	13	case	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	Database	database	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	window	window	NOUN	SG-NOM	Number=Sing	9	nmod	_	_
+14	because	because	SCONJ	_	_	16	mark	_	_
+15	there	there	PRON	EX	_	16	expl	_	_
+16	was	be	VERB	PAST	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	advcl	_	_
+17	no	no	DET	NEG	PronType=Neg	18	det	_	_
+18	option	option	NOUN	SG-NOM	Number=Sing	16	nsubj	_	_
+19	to	to	PART	_	_	20	mark	_	_
+20	set	set	VERB	INF	VerbForm=Inf	18	acl	_	_
+21	this	this	DET	DEM-SG	Number=Sing|PronType=Dem	22	det	_	_
+22	mode	mode	NOUN	SG-NOM	Number=Sing	20	obj	_	_
+23	in	in	ADP	_	_	26	case	_	_
+24	the	the	DET	DEF	Definite=Def|PronType=Art	26	det	_	_
+25	user	user	NOUN	SG-NOM	Number=Sing	26	compound	_	_
+26	interface	interface	NOUN	SG-NOM	Number=Sing	20	obl	_	SpaceAfter=No
+27	.	.	PUNCT	Period	_	9	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-13
+# text = Now in Access 2002, you can set the ANSI SQL query mode through the user interface for the current database and as the default setting for new databases.
+1	Now	now	ADV	_	PronType=Dem	8	discourse	_	_
+2	in	in	ADP	_	_	3	case	_	_
+3	Access	Access	PROPN	SG-NOM	Number=Sing	8	obl	_	_
+4	2002	2002	NUM	ID	NumType=Card	3	nummod	_	SpaceAfter=No
+5	,	,	PUNCT	Comma	_	3	punct	_	_
+6	you	you	PRON	PERS-P2	_	8	nsubj	_	_
+7	can	can	AUX	PRES-AUX	VerbForm=Fin	8	aux	_	_
+8	set	set	VERB	INF	VerbForm=Inf	0	root	_	_
+9	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+10	ANSI	ANSI	PROPN	SG-NOM	Number=Sing	13	compound	_	_
+11	SQL	SQL	PROPN	SG-NOM	Number=Sing	10	flat	_	_
+12	query	query	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	mode	mode	NOUN	SG-NOM	Number=Sing	8	obj	_	_
+14	through	through	ADP	_	_	17	case	_	_
+15	the	the	DET	DEF	Definite=Def|PronType=Art	17	det	_	_
+16	user	user	NOUN	SG-NOM	Number=Sing	17	compound	_	_
+17	interface	interface	NOUN	SG-NOM	Number=Sing	8	obl	_	_
+18	for	for	ADP	_	_	21	case	_	_
+19	the	the	DET	DEF	Definite=Def|PronType=Art	21	det	_	_
+20	current	current	ADJ	POS	Degree=Pos	21	amod	_	_
+21	database	database	NOUN	SG-NOM	Number=Sing	17	nmod	_	_
+22	and	and	CCONJ	_	_	26	cc	_	_
+23	as	as	ADP	_	_	26	case	_	_
+24	the	the	DET	DEF	Definite=Def|PronType=Art	26	det	_	_
+25	default	default	NOUN	SG-NOM	Number=Sing	26	compound	_	_
+26	setting	setting	NOUN	SG-NOM	_	21	conj	_	_
+27	for	for	ADP	_	_	29	case	_	_
+28	new	new	ADJ	POS	Degree=Pos	29	amod	_	_
+29	databases	database	NOUN	PL-NOM	Number=Plur	26	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	Period	_	8	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-14
+# text = Why use ANSI-92 SQL?
+1	Why	why	ADV	WH	PronType=Int	2	advmod	_	_
+2	use	use	VERB	INF	VerbForm=Inf	0	root	_	_
+3	ANSI-92	ANSI-92	PROPN	SG-NOM	Number=Sing	2	obj	_	_
+4	SQL	SQL	PROPN	SG-NOM	Number=Sing	3	flat	_	SpaceAfter=No
+5	?	?	PUNCT	QuestionMark	_	2	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-15
+# text = You may want to use ANSI-92 SQL for the following reasons:
+1	You	you	PRON	PERS-P2	_	3	nsubj	_	_
+2	may	may	AUX	PRES-AUX	VerbForm=Fin	3	aux	_	_
+3	want	want	VERB	INF	VerbForm=Inf	0	root	_	_
+4	to	to	PART	_	_	5	mark	_	_
+5	use	use	VERB	INF	VerbForm=Inf	3	xcomp	_	_
+6	ANSI-92	ANSI-92	PROPN	SG-NOM	Number=Sing	5	obj	_	_
+7	SQL	SQL	PROPN	SG-NOM	Number=Sing	6	flat	_	_
+8	for	for	ADP	_	_	11	case	_	_
+9	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+10	following	follow	ADJ	ING	_	11	amod	_	_
+11	reasons	reason	NOUN	PL-NOM	Number=Plur	3	obl	_	SpaceAfter=No
+12	:	:	PUNCT	Colon	_	3	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-16
+# text = You anticipate upsizing your application in the future to an Access project and want to create queries that will run with minimal changes in a Microsoft SQL Server database.
+1	You	you	PRON	PERS-P2	_	2	nsubj	_	_
+2	anticipate	anticipate	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	upsizing	upsizing	VERB	ING	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	your	your	PRON	P2-GEN	Case=Gen|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+5	application	application	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+6	in	in	ADP	_	_	8	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+8	future	future	NOUN	SG-NOM	Number=Sing	2	obl	_	_
+9	to	to	ADP	_	_	12	case	_	_
+10	an	an	DET	IND-SG	Definite=Ind|PronType=Art	12	det	_	_
+11	Access	Access	PROPN	SG-NOM	Number=Sing	3	compound	_	_
+12	project	project	NOUN	SG-NOM	Number=Sing	3	obl	_	_
+13	and	and	CCONJ	_	_	14	cc	_	_
+14	want	want	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	_
+15	to	to	PART	_	_	16	mark	_	_
+16	create	create	VERB	INF	VerbForm=Inf	14	xcomp	_	_
+17	queries	query	NOUN	PL-NOM	Number=Plur	16	obj	_	_
+18	that	that	SCONJ	_	_	20	mark	_	_
+19	will	will	AUX	PRES-AUX	VerbForm=Fin	20	aux	_	_
+20	run	run	VERB	INF	VerbForm=Inf	17	acl	_	_
+21	with	with	ADP	_	_	23	case	_	_
+22	minimal	minimal	ADJ	POS	Degree=Pos	23	amod	_	_
+23	changes	change	NOUN	PL-NOM	Number=Plur	20	obl	_	_
+24	in	in	ADP	_	_	29	case	_	_
+25	a	a	DET	IND-SG	Definite=Ind|PronType=Art	29	det	_	_
+26	Microsoft	Microsoft	PROPN	SG-NOM	Number=Sing	29	compound	_	_
+27	SQL	SQL	PROPN	SG-NOM	Number=Sing	26	flat	_	_
+28	Server	server	NOUN	SG-NOM	Number=Sing	26	flat	_	_
+29	database	database	NOUN	SG-NOM	Number=Sing	23	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-17
+# text = You want to take advantage of the new features not found in ANSI-89 SQL, such as:
+1	You	you	PRON	PERS-P2	_	2	nsubj	_	_
+2	want	want	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	to	to	PART	_	_	4	mark	_	_
+4	take	take	VERB	INF	VerbForm=Inf	2	xcomp	_	_
+5	advantage	advantage	NOUN	SG-NOM	Number=Sing	4	obj	_	_
+6	of	of	ADP	_	_	9	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	new	new	ADJ	POS	Degree=Pos	9	amod	_	_
+9	features	feature	NOUN	PL-NOM	Number=Plur	5	nmod	_	_
+10	not	not	PART	NEG	Polarity=Neg	11	advmod	_	_
+11	found	find	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	_
+12	in	in	ADP	_	_	13	case	_	_
+13	ANSI-89	ANSI-89	PROPN	SG-NOM	Number=Sing	11	obl	_	_
+14	SQL	SQL	PROPN	SG-NOM	Number=Sing	13	flat	_	SpaceAfter=No
+15	,	,	PUNCT	Comma	_	16	punct	_	_
+16	such	such	ADJ	ADJ	_	9	amod	_	_
+17	as	as	ADP	_	_	16	obl	_	SpaceAfter=No
+18	:	:	PUNCT	Colon	_	2	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-18
+# text = Changing security settings by using the GRANT and REVOKE SQL statements
+1	Changing	change	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	security	security	NOUN	SG-NOM	Number=Sing	3	compound	_	_
+3	settings	setting	NOUN	PL-NOM	Number=Plur	1	obj	_	_
+4	by	by	ADP	_	_	5	mark	_	_
+5	using	use	VERB	ING	Tense=Pres|VerbForm=Part	1	advcl	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+7	GRANT	Grant	PROPN	SG-NOM	Number=Sing	11	compound	_	_
+8	and	and	CCONJ	_	_	9	cc	_	_
+9	REVOKE	Revoke	PROPN	SG-NOM	Number=Sing	7	conj	_	_
+10	SQL	SQL	PROPN	SG-NOM	Number=Sing	11	compound	_	_
+11	statements	statement	NOUN	PL-NOM	Number=Plur	5	obj	_	_
+
+# sent_id = en_lines-ud-train-doc1-19
+# text = Using DISTINCT in an aggregate function reference, for example, SUM-DISTINCT-Price
+1	Using	use	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	DISTINCT	Distinct	PROPN	SG-NOM	Number=Sing	1	obj	_	_
+3	in	in	ADP	_	_	7	case	_	_
+4	an	an	DET	IND-SG	Definite=Ind|PronType=Art	7	det	_	_
+5	aggregate	aggregate	NOUN	SG-NOM	Number=Sing	7	compound	_	_
+6	function	function	NOUN	SG-NOM	Number=Sing	7	compound	_	_
+7	reference	reference	NOUN	SG-NOM	Number=Sing	1	obl	_	SpaceAfter=No
+8	,	,	PUNCT	Comma	_	9	punct	_	_
+9	for	for	ADV	_	_	12	advmod	_	_
+10	example	example	NOUN	_	Number=Sing	9	fixed	_	SpaceAfter=No
+11	,	,	PUNCT	Comma	_	9	punct	_	_
+12	SUM-DISTINCT-Price	Sum-distinct-price	PROPN	SG-NOM	Number=Sing	7	appos	_	_
+
+# sent_id = en_lines-ud-train-doc1-20
+# text = Using the LIMIT TO nn ROWS clause to limit the number of rows returned by a query
+1	Using	use	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	7	det	_	_
+3	LIMIT	limit	VERB	INF	VerbForm=Inf	7	compound	_	_
+4	TO	to	ADP	_	_	6	case	_	_
+5	nn	nn	NUM	CARD-PL	_	6	nummod	_	_
+6	ROWS	row	NOUN	PL-NOM	Number=Plur	3	obl	_	_
+7	clause	clause	NOUN	SG-NOM	Number=Sing	1	obj	_	_
+8	to	to	PART	_	_	9	mark	_	_
+9	limit	limit	VERB	INF	VerbForm=Inf	1	advcl	_	_
+10	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+11	number	number	NOUN	SG-NOM	Number=Sing	9	obj	_	_
+12	of	of	ADP	_	_	13	case	_	_
+13	rows	row	NOUN	PL-NOM	Number=Plur	11	nmod	_	_
+14	returned	return	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	_
+15	by	by	ADP	_	_	17	case	_	_
+16	a	a	DET	IND-SG	Definite=Ind|PronType=Art	17	det	_	_
+17	query	query	NOUN	SG-NOM	Number=Sing	14	obl	_	_
+
+# sent_id = en_lines-ud-train-doc1-21
+# text = Why you should avoid mixing queries created under different ANSI SQL query modes
+1	Why	why	ADV	WH	PronType=Int	4	advmod	_	_
+2	you	you	PRON	PERS-P2	_	4	nsubj	_	_
+3	should	should	AUX	PAST-AUX	VerbForm=Fin	4	aux	_	_
+4	avoid	avoid	VERB	INF	VerbForm=Inf	0	root	_	_
+5	mixing	mix	VERB	ING	Tense=Pres|VerbForm=Part	4	xcomp	_	_
+6	queries	query	NOUN	PL-NOM	Number=Plur	5	obj	_	_
+7	created	create	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+8	under	under	ADP	_	_	13	case	_	_
+9	different	different	ADJ	POS	Degree=Pos	13	amod	_	_
+10	ANSI	ANSI	PROPN	SG-NOM	Number=Sing	13	compound	_	_
+11	SQL	SQL	PROPN	SG-NOM	Number=Sing	10	flat	_	_
+12	query	query	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	modes	mode	NOUN	PL-NOM	Number=Plur	7	obl	_	_
+
+# sent_id = en_lines-ud-train-doc1-22
+# text = The ANSI SQL query mode default for new Access databases in 2002 and 2000 file formats
+1	The	the	DET	DEF	Definite=Def|PronType=Art	6	det	_	_
+2	ANSI	ANSI	PROPN	SG-NOM	Number=Sing	5	compound	_	_
+3	SQL	SQL	PROPN	SG-NOM	Number=Sing	2	flat	_	_
+4	query	query	NOUN	SG-NOM	Number=Sing	5	compound	_	_
+5	mode	mode	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	default	default	NOUN	SG-NOM	Number=Sing	0	root	_	_
+7	for	for	ADP	_	_	10	case	_	_
+8	new	new	ADJ	POS	Degree=Pos	9	amod	_	_
+9	Access	Access	PROPN	SG-NOM	Number=Sing	10	compound	_	_
+10	databases	database	NOUN	PL-NOM	Number=Plur	6	nmod	_	_
+11	in	in	ADP	_	_	16	case	_	_
+12	2002	2002	NUM	ID	NumType=Card	16	nummod	_	_
+13	and	and	CCONJ	_	_	14	cc	_	_
+14	2000	2000	NUM	ID	NumType=Card	12	conj	_	_
+15	file	file	NOUN	SG-NOM	Number=Sing	16	compound	_	_
+16	formats	format	NOUN	PL-NOM	Number=Plur	10	nmod	_	_
+
+# sent_id = en_lines-ud-train-doc1-23
+# text = ANSI-89 is the default setting for a new Access database in 2002 and 2000 file format.
+1	ANSI-89	ANSI-89	PROPN	SG-NOM	Number=Sing	5	nsubj	_	_
+2	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+4	default	default	NOUN	SG-NOM	Number=Sing	5	compound	_	_
+5	setting	setting	NOUN	SG-NOM	_	0	root	_	_
+6	for	for	ADP	_	_	10	case	_	_
+7	a	a	DET	IND-SG	Definite=Ind|PronType=Art	10	det	_	_
+8	new	new	ADJ	POS	Degree=Pos	10	amod	_	_
+9	Access	Access	PROPN	SG-NOM	Number=Sing	10	compound	_	_
+10	database	database	NOUN	SG-NOM	Number=Sing	5	nmod	_	_
+11	in	in	ADP	_	_	16	case	_	_
+12	2002	2002	NUM	ID	NumType=Card	16	nummod	_	_
+13	and	and	CCONJ	_	_	14	cc	_	_
+14	2000	2000	NUM	ID	NumType=Card	12	conj	_	_
+15	file	file	NOUN	SG-NOM	Number=Sing	16	compound	_	_
+16	format	format	NOUN	SG-NOM	Number=Sing	5	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	Period	_	5	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-24
+# text = You can not set the SQL query mode new database default to ANSI-92 in 2000 file format because the option is disabled;
+1	You	you	PRON	PERS-P2	_	4	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	4	aux	_	_
+3	not	not	PART	NEG	Polarity=Neg	4	advmod	_	_
+4	set	set	VERB	INF	VerbForm=Inf	0	root	_	_
+5	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+6	SQL	SQL	PROPN	SG-NOM	Number=Sing	8	compound	_	_
+7	query	query	NOUN	SG-NOM	Number=Sing	6	flat	_	_
+8	mode	mode	NOUN	SG-NOM	Number=Sing	11	compound	_	_
+9	new	new	ADJ	POS	Degree=Pos	11	amod	_	_
+10	database	database	NOUN	SG-NOM	Number=Sing	11	compound	_	_
+11	default	default	NOUN	SG-NOM	Number=Sing	4	obj	_	_
+12	to	to	ADP	_	_	13	case	_	_
+13	ANSI-92	ANSI-92	PROPN	SG-NOM	Number=Sing	4	obl	_	_
+14	in	in	ADP	_	_	17	case	_	_
+15	2000	2000	NUM	ID	NumType=Card	17	nummod	_	_
+16	file	file	NOUN	SG-NOM	Number=Sing	17	compound	_	_
+17	format	format	NOUN	SG-NOM	Number=Sing	4	obl	_	_
+18	because	because	SCONJ	_	_	22	mark	_	_
+19	the	the	DET	DEF	Definite=Def|PronType=Art	20	det	_	_
+20	option	option	NOUN	SG-NOM	Number=Sing	22	nsubj:pass	_	_
+21	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux:pass	_	_
+22	disabled	disable	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	4	advcl	_	SpaceAfter=No
+23	;	;	PUNCT	SemiColon	_	4	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-25
+# text = ANSI-89 is the only query mode setting available for a database in Access 2000 file format.
+1	ANSI-89	ANSI-89	PROPN	SG-NOM	Number=Sing	7	nsubj	_	_
+2	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+3	the	the	DET	DEF	Definite=Def|PronType=Art	7	det	_	_
+4	only	only	ADJ	POS	Degree=Pos	7	amod	_	_
+5	query	query	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	mode	mode	NOUN	SG-NOM	Number=Sing	7	compound	_	_
+7	setting	setting	NOUN	SG-NOM	_	0	root	_	_
+8	available	available	ADJ	POS	Degree=Pos	7	amod	_	_
+9	for	for	ADP	_	_	11	case	_	_
+10	a	a	DET	IND-SG	Definite=Ind|PronType=Art	11	det	_	_
+11	database	database	NOUN	SG-NOM	Number=Sing	8	nmod	_	_
+12	in	in	ADP	_	_	16	case	_	_
+13	Access	Access	PROPN	SG-NOM	Number=Sing	16	compound	_	_
+14	2000	2000	NUM	ID	NumType=Card	13	flat	_	_
+15	file	file	NOUN	SG-NOM	Number=Sing	16	compound	_	_
+16	format	format	NOUN	SG-NOM	Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-26
+# text = About using connection files
+1	About	about	ADP	_	_	2	mark	_	_
+2	using	use	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+3	connection	connection	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	files	file	VERB	PRES	_	2	obj	_	_
+
+# sent_id = en_lines-ud-train-doc1-27
+# text = A connection file stores information about a connection to a data source (such as an OLE DB data source) and the data associated with the connection.
+1	A	a	DET	IND-SG	Definite=Ind|PronType=Art	3	det	_	_
+2	connection	connection	NOUN	SG-NOM	Number=Sing	3	compound	_	_
+3	file	file	NOUN	SG-NOM	Number=Sing	4	nsubj	_	_
+4	stores	store	VERB	PRES	_	0	root	_	_
+5	information	information	NOUN	SG-NOM	Number=Sing	4	obj	_	_
+6	about	about	ADP	_	_	8	case	_	_
+7	a	a	DET	IND-SG	Definite=Ind|PronType=Art	8	det	_	_
+8	connection	connection	NOUN	SG-NOM	Number=Sing	5	nmod	_	_
+9	to	to	ADP	_	_	12	case	_	_
+10	a	a	DET	IND-SG	Definite=Ind|PronType=Art	12	det	_	_
+11	data	data	NOUN	PL-NOM	Number=Sing	12	compound	_	_
+12	source	source	NOUN	SG-NOM	Number=Sing	8	nmod	_	_
+13	(	(	PUNCT	LeftParenthesis	_	14	punct	_	SpaceAfter=No
+14	such	such	ADJ	ADJ	_	12	amod	_	_
+15	as	as	ADP	_	_	20	case	_	_
+16	an	an	DET	IND-SG	Definite=Ind|PronType=Art	20	det	_	_
+17	OLE	OLE	PROPN	NOM	Number=Sing	20	compound	_	_
+18	DB	db	X	NOM	_	17	flat	_	_
+19	data	data	NOUN	PL-NOM	Number=Sing	20	compound	_	_
+20	source	source	NOUN	SG-NOM	Number=Sing	14	nmod	_	SpaceAfter=No
+21	)	)	PUNCT	RightParenthesis	_	14	punct	_	_
+22	and	and	CCONJ	_	_	24	cc	_	_
+23	the	the	DET	DEF	Definite=Def|PronType=Art	24	det	_	_
+24	data	data	NOUN	PL-NOM	Number=Sing	8	conj	_	_
+25	associated	associate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	24	acl	_	_
+26	with	with	ADP	_	_	28	case	_	_
+27	the	the	DET	DEF	Definite=Def|PronType=Art	28	det	_	_
+28	connection	connection	NOUN	SG-NOM	Number=Sing	25	obl	_	SpaceAfter=No
+29	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-28
+# text = In Microsoft Access, you can use a connection file to bind one or more data access pages to a data source.
+1	In	in	ADP	_	_	2	case	_	_
+2	Microsoft	Microsoft	PROPN	SG-NOM	Number=Sing	7	obl	_	_
+3	Access	Access	PROPN	SG-NOM	Number=Sing	2	flat	_	SpaceAfter=No
+4	,	,	PUNCT	Comma	_	2	punct	_	_
+5	you	you	PRON	PERS-P2	_	7	nsubj	_	_
+6	can	can	AUX	PRES-AUX	VerbForm=Fin	7	aux	_	_
+7	use	use	VERB	INF	VerbForm=Inf	0	root	_	_
+8	a	a	DET	IND-SG	Definite=Ind|PronType=Art	10	det	_	_
+9	connection	connection	NOUN	SG-NOM	Number=Sing	10	compound	_	_
+10	file	file	NOUN	SG-NOM	Number=Sing	7	obj	_	_
+11	to	to	PART	_	_	12	mark	_	_
+12	bind	bind	VERB	INF	VerbForm=Inf	7	advcl	_	_
+13	one	one	NUM	CARD-PL	NumType=Card	18	nummod	_	_
+14	or	or	CCONJ	CARD-PL	_	13	fixed	_	_
+15	more	very	ADV	CARD-PL	_	13	fixed	_	_
+16	data	data	NOUN	PL-NOM	Number=Sing	17	compound	_	_
+17	access	access	NOUN	SG-NOM	Number=Sing	18	compound	_	_
+18	pages	page	NOUN	PL-NOM	Number=Plur	12	obj	_	_
+19	to	to	ADP	_	_	22	case	_	_
+20	a	a	DET	IND-SG	Definite=Ind|PronType=Art	22	det	_	_
+21	data	data	NOUN	PL-NOM	Number=Sing	22	compound	_	_
+22	source	source	NOUN	SG-NOM	Number=Sing	12	obl	_	SpaceAfter=No
+23	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-29
+# text = When you open a page, Access reads the connection file that is linked to the page, and based on the contents of the connection file, connects the page to the appropriate data source.
+1	When	when	SCONJ	_	_	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	open	open	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	page	page	NOUN	SG-NOM	Number=Sing	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	3	punct	_	_
+7	Access	Access	PROPN	SG-NOM	Number=Sing	8	nsubj	_	_
+8	reads	read	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+10	connection	connection	NOUN	SG-NOM	Number=Sing	11	compound	_	_
+11	file	file	NOUN	SG-NOM	Number=Sing	8	obj	_	_
+12	that	that	PRON	REL	PronType=Rel	14	nsubj:pass	_	_
+13	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	_
+14	linked	link	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	11	acl:relcl	_	_
+15	to	to	ADP	_	_	17	case	_	_
+16	the	the	DET	DEF	Definite=Def|PronType=Art	17	det	_	_
+17	page	page	NOUN	SG-NOM	Number=Sing	14	obl	_	SpaceAfter=No
+18	,	,	PUNCT	Comma	_	29	punct	_	_
+19	and	and	CCONJ	_	_	29	cc	_	_
+20	based	base	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	29	advcl	_	_
+21	on	on	ADP	_	_	23	case	_	_
+22	the	the	DET	DEF	Definite=Def|PronType=Art	23	det	_	_
+23	contents	content	NOUN	PL-NOM	Number=Plur	20	obl	_	_
+24	of	of	ADP	_	_	27	case	_	_
+25	the	the	DET	DEF	Definite=Def|PronType=Art	27	det	_	_
+26	connection	connection	NOUN	SG-NOM	Number=Sing	27	compound	_	_
+27	file	file	NOUN	SG-NOM	Number=Sing	23	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	Comma	_	20	punct	_	_
+29	connects	connect	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+30	the	the	DET	DEF	Definite=Def|PronType=Art	31	det	_	_
+31	page	page	NOUN	SG-NOM	Number=Sing	29	obj	_	_
+32	to	to	ADP	_	_	36	case	_	_
+33	the	the	DET	DEF	Definite=Def|PronType=Art	36	det	_	_
+34	appropriate	appropriate	ADJ	POS	Degree=Pos	35	amod	_	_
+35	data	data	NOUN	PL-NOM	Number=Sing	36	compound	_	_
+36	source	source	NOUN	SG-NOM	Number=Sing	29	obl	_	SpaceAfter=No
+37	.	.	PUNCT	Period	_	8	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-30
+# text = A connection file uses one of the following file formats:
+1	A	a	DET	IND-SG	Definite=Ind|PronType=Art	3	det	_	_
+2	connection	connection	NOUN	SG-NOM	Number=Sing	3	compound	_	_
+3	file	file	NOUN	SG-NOM	Number=Sing	4	nsubj	_	_
+4	uses	use	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	one	one	NUM	CARD-SG	NumType=Card	4	obj	_	_
+6	of	of	ADP	_	_	10	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
+8	following	follow	ADJ	ING	_	9	amod	_	_
+9	file	file	NOUN	SG-NOM	Number=Sing	10	compound	_	_
+10	formats	format	NOUN	PL-NOM	Number=Plur	5	nmod	_	SpaceAfter=No
+11	:	:	PUNCT	Colon	_	4	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-31
+# text = Office Data Connection (.odc)
+1	Office	Office	PROPN	SG-NOM	Number=Sing	0	root	_	_
+2	Data	data	NOUN	PL-NOM	Number=Sing	1	flat	_	_
+3	Connection	connection	NOUN	SG-NOM	Number=Sing	1	flat	_	_
+4	(	(	PUNCT	LeftParenthesis	_	5	punct	_	SpaceAfter=No
+5	.odc	odc	X	NOM	_	1	appos	_	SpaceAfter=No
+6	)	)	PUNCT	RightParenthesis	_	5	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-32
+# text = A file format that uses HTML and XML to store the connection information.
+1	A	a	DET	IND-SG	Definite=Ind|PronType=Art	3	det	_	_
+2	file	file	NOUN	SG-NOM	Number=Sing	3	compound	_	_
+3	format	format	NOUN	SG-NOM	Number=Sing	0	root	_	_
+4	that	that	SCONJ	_	_	5	mark	_	_
+5	uses	use	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl	_	_
+6	HTML	HTML	PROPN	SG-NOM	Number=Sing	5	obj	_	_
+7	and	and	CCONJ	_	_	8	cc	_	_
+8	XML	Xml	PROPN	SG-NOM	Number=Sing	6	conj	_	_
+9	to	to	PART	_	_	10	mark	_	_
+10	store	store	VERB	INF	_	5	advcl	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	connection	connection	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	information	information	NOUN	SG-NOM	Number=Sing	10	obj	_	SpaceAfter=No
+14	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-33
+# text = You can view or edit the contents of the file in any text editor.
+1	You	you	PRON	PERS-P2	_	3	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	3	aux	_	_
+3	view	view	VERB	INF	VerbForm=Inf	0	root	_	_
+4	or	or	CCONJ	_	_	5	cc	_	_
+5	edit	edit	VERB	INF	_	3	conj	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	7	det	_	_
+7	contents	content	NOUN	PL-NOM	Number=Plur	5	obj	_	_
+8	of	of	ADP	_	_	10	case	_	_
+9	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
+10	file	file	NOUN	SG-NOM	Number=Sing	7	nmod	_	_
+11	in	in	ADP	_	_	14	case	_	_
+12	any	any	DET	IND	PronType=Ind	14	det	_	_
+13	text	text	NOUN	SG-NOM	Number=Sing	14	compound	_	_
+14	editor	editor	NOUN	SG-NOM	Number=Sing	10	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-34
+# text = Universal Data Link (.udl)
+1	Universal	universal	ADJ	POS	Degree=Pos	0	root	_	_
+2	Data	data	NOUN	PL-NOM	Number=Sing	1	flat	_	_
+3	Link	link	NOUN	SG-NOM	Number=Sing	1	flat	_	_
+4	(	(	PUNCT	LeftParenthesis	_	5	punct	_	SpaceAfter=No
+5	.udl	udl	X	NOM	_	1	appos	_	SpaceAfter=No
+6	)	)	PUNCT	RightParenthesis	_	5	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-35
+# text = A standard file format provided by Microsoft Data Links to create file-persistent OLE DB data source object definitions.
+1	A	a	DET	IND-SG	Definite=Ind|PronType=Art	4	det	_	_
+2	standard	standard	ADJ	POS	Degree=Pos	4	amod	_	_
+3	file	file	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	format	format	NOUN	SG-NOM	Number=Sing	0	root	_	_
+5	provided	provide	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+6	by	by	ADP	_	_	7	case	_	_
+7	Microsoft	Microsoft	PROPN	SG-NOM	Number=Sing	5	obl	_	_
+8	Data	data	NOUN	PL-NOM	Number=Sing	7	flat	_	_
+9	Links	link	NOUN	PL-NOM	Number=Plur	7	flat	_	_
+10	to	to	PART	_	_	11	mark	_	_
+11	create	create	VERB	INF	VerbForm=Inf	5	xcomp	_	_
+12	file-persistent	file-persistent	ADJ	POS	Degree=Pos	18	amod	_	_
+13	OLE	OLE	PROPN	NOM	Number=Sing	16	compound	_	_
+14	DB	db	X	NOM	_	13	flat	_	_
+15	data	data	NOUN	PL-NOM	Number=Sing	16	compound	_	_
+16	source	source	NOUN	SG-NOM	Number=Sing	18	compound	_	_
+17	object	object	NOUN	SG-NOM	Number=Sing	18	compound	_	_
+18	definitions	definition	NOUN	PL-NOM	Number=Plur	11	obj	_	SpaceAfter=No
+19	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-36
+# text = Benefits of using a connection file
+1	Benefits	benefit	NOUN	PL-NOM	Number=Plur	0	root	_	_
+2	of	of	ADP	_	_	3	mark	_	_
+3	using	use	VERB	ING	Tense=Pres|VerbForm=Part	1	acl	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	6	det	_	_
+5	connection	connection	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	file	file	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+
+# sent_id = en_lines-ud-train-doc1-37
+# text = Using a connection file simplifies the task of deploying related data access pages.
+1	Using	use	VERB	ING	Tense=Pres|VerbForm=Part	5	csubj	_	_
+2	a	a	DET	IND-SG	Definite=Ind|PronType=Art	4	det	_	_
+3	connection	connection	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	file	file	NOUN	SG-NOM	Number=Sing	1	obj	_	_
+5	simplifies	simplify	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	7	det	_	_
+7	task	task	NOUN	SG-NOM	Number=Sing	5	obj	_	_
+8	of	of	ADP	_	_	9	mark	_	_
+9	deploying	deploying	VERB	ING	Tense=Pres|VerbForm=Part	7	acl	_	_
+10	related	relate	ADJ	PASS	Degree=Pos	13	amod	_	_
+11	data	data	NOUN	PL-NOM	Number=Sing	12	compound	_	_
+12	access	access	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	pages	page	NOUN	PL-NOM	Number=Plur	9	obj	_	SpaceAfter=No
+14	.	.	PUNCT	Period	_	5	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-38
+# text = Pages that connect to a common data source can share a single connection file.
+1	Pages	page	NOUN	PL-NOM	Number=Plur	10	nsubj	_	_
+2	that	that	SCONJ	_	_	3	mark	_	_
+3	connect	connect	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl	_	_
+4	to	to	ADP	_	_	8	case	_	_
+5	a	a	DET	IND-SG	Definite=Ind|PronType=Art	8	det	_	_
+6	common	common	ADJ	POS	Degree=Pos	7	amod	_	_
+7	data	data	NOUN	PL-NOM	Number=Sing	8	compound	_	_
+8	source	source	NOUN	SG-NOM	Number=Sing	3	obl	_	_
+9	can	can	AUX	PRES-AUX	VerbForm=Fin	10	aux	_	_
+10	share	share	VERB	INF	VerbForm=Inf	0	root	_	_
+11	a	a	DET	IND-SG	Definite=Ind|PronType=Art	14	det	_	_
+12	single	single	ADJ	POS	Degree=Pos	13	amod	_	_
+13	connection	connection	NOUN	SG-NOM	Number=Sing	14	compound	_	_
+14	file	file	NOUN	SG-NOM	Number=Sing	10	obj	_	SpaceAfter=No
+15	.	.	PUNCT	Period	_	10	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-39
+# text = If you move or copy the data source, instead of updating the ConnectionString property of each dependent page, you only need to edit the connection information in the connection file to make the pages point to the right location or database.
+1	If	if	SCONJ	_	_	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	23	advcl	_	_
+4	or	or	CCONJ	_	_	5	cc	_	_
+5	copy	copy	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+7	data	data	NOUN	PL-NOM	Number=Sing	8	compound	_	_
+8	source	source	NOUN	SG-NOM	Number=Sing	5	obj	_	SpaceAfter=No
+9	,	,	PUNCT	Comma	_	3	punct	_	_
+10	instead	instead	SCONJ	_	_	12	mark	_	_
+11	of	of	ADP	_	_	10	fixed	_	_
+12	updating	update	VERB	ING	Tense=Pres|VerbForm=Part	23	advcl	_	_
+13	the	the	DET	DEF	Definite=Def|PronType=Art	15	det	_	_
+14	ConnectionString	ConnectionString	PROPN	SG-NOM	Number=Sing	15	compound	_	_
+15	property	property	NOUN	SG-NOM	Number=Sing	12	obj	_	_
+16	of	of	ADP	_	_	19	case	_	_
+17	each	each	DET	TOT-SG	PronType=Tot	19	det	_	_
+18	dependent	dependent	ADJ	POS	Degree=Pos	19	amod	_	_
+19	page	page	NOUN	SG-NOM	Number=Sing	15	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	Comma	_	12	punct	_	_
+21	you	you	PRON	PERS-P2	_	23	nsubj	_	_
+22	only	only	ADV	_	_	23	advmod	_	_
+23	need	need	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+24	to	to	PART	_	_	25	mark	_	_
+25	edit	edit	VERB	INF	_	23	xcomp	_	_
+26	the	the	DET	DEF	Definite=Def|PronType=Art	28	det	_	_
+27	connection	connection	NOUN	SG-NOM	Number=Sing	28	compound	_	_
+28	information	information	NOUN	SG-NOM	Number=Sing	25	obj	_	_
+29	in	in	ADP	_	_	32	case	_	_
+30	the	the	DET	DEF	Definite=Def|PronType=Art	32	det	_	_
+31	connection	connection	NOUN	SG-NOM	Number=Sing	32	compound	_	_
+32	file	file	NOUN	SG-NOM	Number=Sing	28	nmod	_	_
+33	to	to	PART	_	_	34	mark	_	_
+34	make	make	VERB	INF	VerbForm=Inf	25	advcl	_	_
+35	the	the	DET	DEF	Definite=Def|PronType=Art	36	det	_	_
+36	pages	page	NOUN	PL-NOM	Number=Plur	34	obj	_	_
+37	point	point	VERB	INF	VerbForm=Inf	34	xcomp	_	_
+38	to	to	ADP	_	_	41	case	_	_
+39	the	the	DET	DEF	Definite=Def|PronType=Art	41	det	_	_
+40	right	right	ADJ	POS	Degree=Pos	41	amod	_	_
+41	location	location	NOUN	SG-NOM	Number=Sing	37	obl	_	_
+42	or	or	CCONJ	_	_	43	cc	_	_
+43	database	database	NOUN	SG-NOM	Number=Sing	41	conj	_	SpaceAfter=No
+44	.	.	PUNCT	Period	_	23	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-40
+# text = Linking a page to a connection file
+1	Linking	link	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	a	a	DET	IND-SG	Definite=Ind|PronType=Art	3	det	_	_
+3	page	page	NOUN	SG-NOM	Number=Sing	1	obj	_	_
+4	to	to	ADP	_	_	7	case	_	_
+5	a	a	DET	IND-SG	Definite=Ind|PronType=Art	7	det	_	_
+6	connection	connection	NOUN	SG-NOM	Number=Sing	7	compound	_	_
+7	file	file	NOUN	SG-NOM	Number=Sing	1	obl	_	_
+
+# sent_id = en_lines-ud-train-doc1-41
+# text = When creating a data access page, you can choose whether you want to link the page to a connection file or simply use a connection file without creating a link.
+1	When	when	SCONJ	_	_	2	mark	_	_
+2	creating	create	VERB	ING	Tense=Pres|VerbForm=Part	10	advcl	_	_
+3	a	a	DET	IND-SG	Definite=Ind|PronType=Art	6	det	_	_
+4	data	data	NOUN	PL-NOM	Number=Sing	5	compound	_	_
+5	access	access	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	page	page	NOUN	SG-NOM	Number=Sing	2	obj	_	SpaceAfter=No
+7	,	,	PUNCT	Comma	_	2	punct	_	_
+8	you	you	PRON	PERS-P2	_	10	nsubj	_	_
+9	can	can	AUX	PRES-AUX	VerbForm=Fin	10	aux	_	_
+10	choose	choose	VERB	INF	VerbForm=Inf	0	root	_	_
+11	whether	whether	SCONJ	WH	_	13	mark	_	_
+12	you	you	PRON	PERS-P2	_	13	nsubj	_	_
+13	want	want	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+14	to	to	PART	_	_	15	mark	_	_
+15	link	link	VERB	INF	VerbForm=Inf	13	xcomp	_	_
+16	the	the	DET	DEF	Definite=Def|PronType=Art	17	det	_	_
+17	page	page	NOUN	SG-NOM	Number=Sing	15	obj	_	_
+18	to	to	ADP	_	_	21	case	_	_
+19	a	a	DET	IND-SG	Definite=Ind|PronType=Art	21	det	_	_
+20	connection	connection	NOUN	SG-NOM	Number=Sing	21	compound	_	_
+21	file	file	NOUN	SG-NOM	Number=Sing	15	obl	_	_
+22	or	or	CCONJ	_	_	24	cc	_	_
+23	simply	simply	ADV	_	_	24	advmod	_	_
+24	use	use	VERB	INF	VerbForm=Inf	15	conj	_	_
+25	a	a	DET	IND-SG	Definite=Ind|PronType=Art	26	det	_	_
+26	connection	connection	NOUN	SG-NOM	Number=Sing	27	compound	_	_
+27	file	file	NOUN	SG-NOM	Number=Sing	24	obj	_	_
+28	without	without	ADP	_	_	29	mark	_	_
+29	creating	create	VERB	ING	Tense=Pres|VerbForm=Part	24	advcl	_	_
+30	a	a	DET	IND-SG	Definite=Ind|PronType=Art	31	det	_	_
+31	link	link	NOUN	SG-NOM	Number=Sing	29	obj	_	SpaceAfter=No
+32	.	.	PUNCT	Period	_	10	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-42
+# text = You can also choose whether you want to use an existing connection file or create a new one.
+1	You	you	PRON	PERS-P2	_	4	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	4	aux	_	_
+3	also	also	ADV	_	_	4	advmod	_	_
+4	choose	choose	VERB	INF	VerbForm=Inf	0	root	_	_
+5	whether	whether	SCONJ	WH	_	7	mark	_	_
+6	you	you	PRON	PERS-P2	_	7	nsubj	_	_
+7	want	want	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+8	to	to	PART	_	_	9	mark	_	_
+9	use	use	VERB	INF	VerbForm=Inf	7	xcomp	_	_
+10	an	an	DET	IND-SG	Definite=Ind|PronType=Art	13	det	_	_
+11	existing	exist	ADJ	ING	_	12	amod	_	_
+12	connection	connection	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	file	file	NOUN	SG-NOM	Number=Sing	9	obj	_	_
+14	or	or	CCONJ	_	_	15	cc	_	_
+15	create	create	VERB	INF	VerbForm=Inf	9	conj	_	_
+16	a	a	DET	IND-SG	Definite=Ind|PronType=Art	18	det	_	_
+17	new	new	ADJ	POS	Degree=Pos	18	amod	_	_
+18	one	one	PRON	IND-SG-NOM	_	15	obj	_	SpaceAfter=No
+19	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-43
+# text = Linking to a connection file
+1	Linking	link	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	to	to	ADP	_	_	5	case	_	_
+3	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+4	connection	connection	NOUN	SG-NOM	Number=Sing	5	compound	_	_
+5	file	file	NOUN	SG-NOM	Number=Sing	1	obl	_	_
+
+# sent_id = en_lines-ud-train-doc1-44
+# text = When you establish a link between the connection file and a page, the page's ConnectionFile property is set to the name of the file.
+1	When	when	SCONJ	_	_	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	establish	establish	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	link	link	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+6	between	between	ADP	_	_	9	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	connection	connection	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	file	file	NOUN	SG-NOM	Number=Sing	5	nmod	_	_
+10	and	and	CCONJ	_	_	12	cc	_	_
+11	a	a	DET	IND-SG	Definite=Ind|PronType=Art	12	det	_	_
+12	page	page	NOUN	SG-NOM	Number=Sing	9	conj	_	SpaceAfter=No
+13	,	,	PUNCT	Comma	_	3	punct	_	_
+14	the	the	DET	DEF	Definite=Def|PronType=Art	18	det	_	_
+15-16	page's	_	_	_	_	_	_	_	_
+15	page	page	NOUN	SG	Number=Sing	17	nmod:poss	_	_
+16	's	's	PART	GEN	_	15	case	_	_
+17	ConnectionFile	connectionfile	NOUN	SG-NOM	Number=Sing	18	compound	_	_
+18	property	property	NOUN	SG-NOM	Number=Sing	20	nsubj:pass	_	_
+19	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux:pass	_	_
+20	set	set	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+21	to	to	ADP	_	_	23	case	_	_
+22	the	the	DET	DEF	Definite=Def|PronType=Art	23	det	_	_
+23	name	name	NOUN	SG-NOM	Number=Sing	20	obl	_	_
+24	of	of	ADP	_	_	26	case	_	_
+25	the	the	DET	DEF	Definite=Def|PronType=Art	26	det	_	_
+26	file	file	NOUN	SG-NOM	Number=Sing	23	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	Period	_	20	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-45
+# text = Each time you open the page, Access will read the connection file, extract the connection information, and set the ConnectionString property of the page.
+1	Each	each	DET	TOT-SG	PronType=Tot	2	det	_	_
+2	time	time	NOUN	SG-NOM	Number=Sing	4	obl:unmarked	_	_
+3	you	you	PRON	PERS-P2	_	4	nsubj	_	_
+4	open	open	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	the	the	DET	DEF	Definite=Def|PronType=Art	6	det	_	_
+6	page	page	NOUN	SG-NOM	Number=Sing	4	obj	_	SpaceAfter=No
+7	,	,	PUNCT	Comma	_	10	punct	_	_
+8	Access	Access	PROPN	SG-NOM	Number=Sing	10	nsubj	_	_
+9	will	will	AUX	PRES-AUX	VerbForm=Fin	10	aux	_	_
+10	read	read	VERB	INF	VerbForm=Inf	4	conj	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	connection	connection	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	file	file	NOUN	SG-NOM	Number=Sing	10	obj	_	SpaceAfter=No
+14	,	,	PUNCT	Comma	_	15	punct	_	_
+15	extract	extract	VERB	INF	VerbForm=Inf	4	conj	_	_
+16	the	the	DET	DEF	Definite=Def|PronType=Art	18	det	_	_
+17	connection	connection	NOUN	SG-NOM	Number=Sing	18	compound	_	_
+18	information	information	NOUN	SG-NOM	Number=Sing	15	obj	_	SpaceAfter=No
+19	,	,	PUNCT	Comma	_	21	punct	_	_
+20	and	and	CCONJ	_	_	21	cc	_	_
+21	set	set	VERB	INF	VerbForm=Inf	4	conj	_	_
+22	the	the	DET	DEF	Definite=Def|PronType=Art	24	det	_	_
+23	ConnectionString	ConnectionString	PROPN	SG-NOM	Number=Sing	24	compound	_	_
+24	property	property	NOUN	SG-NOM	Number=Sing	21	obj	_	_
+25	of	of	ADP	_	_	27	case	_	_
+26	the	the	DET	DEF	Definite=Def|PronType=Art	27	det	_	_
+27	page	page	NOUN	SG-NOM	Number=Sing	24	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-46
+# text = Using a connection file without creating a link
+1	Using	use	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	a	a	DET	IND-SG	Definite=Ind|PronType=Art	4	det	_	_
+3	connection	connection	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	file	file	NOUN	SG-NOM	Number=Sing	1	obj	_	_
+5	without	without	ADP	_	_	6	mark	_	_
+6	creating	create	VERB	ING	Tense=Pres|VerbForm=Part	1	advcl	_	_
+7	a	a	DET	IND-SG	Definite=Ind|PronType=Art	8	det	_	_
+8	link	link	NOUN	SG-NOM	Number=Sing	6	obj	_	_
+
+# sent_id = en_lines-ud-train-doc1-47
+# text = When creating a page, you can use the contents of a connection file to set the ConnectionString property of the page, but choose not to create a link between the page and the connection file.
+1	When	when	SCONJ	_	_	2	mark	_	_
+2	creating	create	VERB	ING	Tense=Pres|VerbForm=Part	8	advcl	_	_
+3	a	a	DET	IND-SG	Definite=Ind|PronType=Art	4	det	_	_
+4	page	page	NOUN	SG-NOM	Number=Sing	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	Comma	_	2	punct	_	_
+6	you	you	PRON	PERS-P2	_	8	nsubj	_	_
+7	can	can	AUX	PRES-AUX	VerbForm=Fin	8	aux	_	_
+8	use	use	VERB	INF	VerbForm=Inf	0	root	_	_
+9	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
+10	contents	content	NOUN	PL-NOM	Number=Plur	8	obj	_	_
+11	of	of	ADP	_	_	14	case	_	_
+12	a	a	DET	IND-SG	Definite=Ind|PronType=Art	14	det	_	_
+13	connection	connection	NOUN	SG-NOM	Number=Sing	14	compound	_	_
+14	file	file	NOUN	SG-NOM	Number=Sing	10	nmod	_	_
+15	to	to	PART	_	_	16	mark	_	_
+16	set	set	VERB	INF	VerbForm=Inf	8	advcl	_	_
+17	the	the	DET	DEF	Definite=Def|PronType=Art	19	det	_	_
+18	ConnectionString	ConnectionString	PROPN	SG-NOM	Number=Sing	19	compound	_	_
+19	property	property	NOUN	SG-NOM	Number=Sing	16	obj	_	_
+20	of	of	ADP	_	_	22	case	_	_
+21	the	the	DET	DEF	Definite=Def|PronType=Art	22	det	_	_
+22	page	page	NOUN	SG-NOM	Number=Sing	19	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	Comma	_	25	punct	_	_
+24	but	but	CCONJ	_	_	25	cc	_	_
+25	choose	choose	VERB	INF	VerbForm=Inf	16	conj	_	_
+26	not	not	PART	NEG	Polarity=Neg	28	advmod	_	_
+27	to	to	PART	_	_	28	mark	_	_
+28	create	create	VERB	INF	VerbForm=Inf	25	advcl	_	_
+29	a	a	DET	IND-SG	Definite=Ind|PronType=Art	30	det	_	_
+30	link	link	NOUN	SG-NOM	Number=Sing	28	obj	_	_
+31	between	between	ADP	_	_	33	case	_	_
+32	the	the	DET	DEF	Definite=Def|PronType=Art	33	det	_	_
+33	page	page	NOUN	SG-NOM	Number=Sing	30	nmod	_	_
+34	and	and	CCONJ	_	_	37	cc	_	_
+35	the	the	DET	DEF	Definite=Def|PronType=Art	36	det	_	_
+36	connection	connection	NOUN	SG-NOM	Number=Sing	37	compound	_	_
+37	file	file	NOUN	SG-NOM	Number=Sing	33	conj	_	SpaceAfter=No
+38	.	.	PUNCT	Period	_	8	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-48
+# text = Changing the connection information of a page
+1	Changing	change	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
+3	connection	connection	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	information	information	NOUN	SG-NOM	Number=Sing	1	obj	_	_
+5	of	of	ADP	_	_	7	case	_	_
+6	a	a	DET	IND-SG	Definite=Ind|PronType=Art	7	det	_	_
+7	page	page	NOUN	SG-NOM	Number=Sing	4	nmod	_	_
+
+# sent_id = en_lines-ud-train-doc1-49
+# text = When a connection file is used
+1	When	when	SCONJ	_	_	6	mark	_	_
+2	a	a	DET	IND-SG	Definite=Ind|PronType=Art	4	det	_	_
+3	connection	connection	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	file	file	NOUN	SG-NOM	Number=Sing	6	nsubj:pass	_	_
+5	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
+6	used	use	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+
+# sent_id = en_lines-ud-train-doc1-50
+# text = Either change the ConnectionFile property of the page to point to a different connection file, or edit the connection file in a text editor.
+1	Either	either	CCONJ	_	_	2	cc	_	_
+2	change	change	VERB	IMP	Mood=Imp|VerbForm=Fin	0	root	_	_
+3	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+4	ConnectionFile	connectionfile	NOUN	SG-NOM	Number=Sing	5	compound	_	_
+5	property	property	NOUN	SG-NOM	Number=Sing	2	obj	_	_
+6	of	of	ADP	_	_	8	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+8	page	page	NOUN	SG-NOM	Number=Sing	5	nmod	_	_
+9	to	to	PART	_	_	10	mark	_	_
+10	point	point	VERB	INF	VerbForm=Inf	2	advcl	_	_
+11	to	to	ADP	_	_	15	case	_	_
+12	a	a	DET	IND-SG	Definite=Ind|PronType=Art	15	det	_	_
+13	different	different	ADJ	POS	Degree=Pos	14	amod	_	_
+14	connection	connection	NOUN	SG-NOM	Number=Sing	15	compound	_	_
+15	file	file	NOUN	SG-NOM	Number=Sing	10	obl	_	SpaceAfter=No
+16	,	,	PUNCT	Comma	_	18	punct	_	_
+17	or	or	CCONJ	_	_	18	cc	_	_
+18	edit	edit	VERB	IMP	_	2	conj	_	_
+19	the	the	DET	DEF	Definite=Def|PronType=Art	21	det	_	_
+20	connection	connection	NOUN	SG-NOM	Number=Sing	21	compound	_	_
+21	file	file	NOUN	SG-NOM	Number=Sing	18	obj	_	_
+22	in	in	ADP	_	_	25	case	_	_
+23	a	a	DET	IND-SG	Definite=Ind|PronType=Art	25	det	_	_
+24	text	text	NOUN	SG-NOM	Number=Sing	25	compound	_	_
+25	editor	editor	NOUN	SG-NOM	Number=Sing	18	obl	_	SpaceAfter=No
+26	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-51
+# text = If you choose to edit the connection file, remember that all other pages that use the connection file will also be affected by the changes you make.
+1	If	if	SCONJ	_	_	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	choose	choose	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+4	to	to	PART	_	_	5	mark	_	_
+5	edit	edit	VERB	INF	_	3	xcomp	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+7	connection	connection	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+8	file	file	NOUN	SG-NOM	Number=Sing	5	obj	_	SpaceAfter=No
+9	,	,	PUNCT	Comma	_	3	punct	_	_
+10	remember	remember	VERB	IMP	Mood=Imp|VerbForm=Fin	0	root	_	_
+11	that	that	SCONJ	_	_	23	mark	_	_
+12	all	all	DET	TOT-PL	PronType=Tot	14	det	_	_
+13	other	other	ADJ	POS	Degree=Pos	14	amod	_	_
+14	pages	page	NOUN	PL-NOM	Number=Plur	23	nsubj:pass	_	_
+15	that	that	SCONJ	_	_	16	mark	_	_
+16	use	use	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	14	acl	_	_
+17	the	the	DET	DEF	Definite=Def|PronType=Art	19	det	_	_
+18	connection	connection	NOUN	SG-NOM	Number=Sing	19	compound	_	_
+19	file	file	NOUN	SG-NOM	Number=Sing	16	obj	_	_
+20	will	will	AUX	PRES-AUX	VerbForm=Fin	23	aux:pass	_	_
+21	also	also	ADV	_	_	23	advmod	_	_
+22	be	be	AUX	INF	VerbForm=Inf	23	aux:pass	_	_
+23	affected	affect	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	10	ccomp	_	_
+24	by	by	ADP	_	_	26	case	_	_
+25	the	the	DET	DEF	Definite=Def|PronType=Art	26	det	_	_
+26	changes	change	NOUN	PL-NOM	Number=Plur	23	obl	_	_
+27	you	you	PRON	PERS-P2	_	28	nsubj	_	_
+28	make	make	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	26	acl:relcl	_	SpaceAfter=No
+29	.	.	PUNCT	Period	_	10	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-52
+# text = If you edit the ConnectionString property of a page that is linked to a connection file, the link will be broken and the ConnectionFile property will be set to null.
+1	If	if	SCONJ	_	_	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	edit	edit	VERB	PRES	_	22	advcl	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	6	det	_	_
+5	ConnectionString	ConnectionString	PROPN	SG-NOM	Number=Sing	6	compound	_	_
+6	property	property	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+7	of	of	ADP	_	_	9	case	_	_
+8	a	a	DET	IND-SG	Definite=Ind|PronType=Art	9	det	_	_
+9	page	page	NOUN	SG-NOM	Number=Sing	6	nmod	_	_
+10	that	that	PRON	REL	PronType=Rel	12	nsubj:pass	_	_
+11	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	_
+12	linked	link	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	9	acl:relcl	_	_
+13	to	to	ADP	_	_	16	case	_	_
+14	a	a	DET	IND-SG	Definite=Ind|PronType=Art	16	det	_	_
+15	connection	connection	NOUN	SG-NOM	Number=Sing	16	compound	_	_
+16	file	file	NOUN	SG-NOM	Number=Sing	12	obl	_	SpaceAfter=No
+17	,	,	PUNCT	Comma	_	3	punct	_	_
+18	the	the	DET	DEF	Definite=Def|PronType=Art	19	det	_	_
+19	link	link	NOUN	SG-NOM	Number=Sing	22	nsubj:pass	_	_
+20	will	will	AUX	PRES-AUX	VerbForm=Fin	22	aux:pass	_	_
+21	be	be	AUX	INF	VerbForm=Inf	22	aux:pass	_	_
+22	broken	break	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+23	and	and	CCONJ	_	_	29	cc	_	_
+24	the	the	DET	DEF	Definite=Def|PronType=Art	26	det	_	_
+25	ConnectionFile	connectionfile	NOUN	SG-NOM	Number=Sing	26	compound	_	_
+26	property	property	NOUN	SG-NOM	Number=Sing	29	nsubj:pass	_	_
+27	will	will	AUX	PRES-AUX	VerbForm=Fin	29	aux:pass	_	_
+28	be	be	AUX	INF	VerbForm=Inf	29	aux:pass	_	_
+29	set	set	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	22	conj	_	_
+30	to	to	ADP	_	_	31	case	_	_
+31	null	null	NOUN	SG-NOM	Number=Sing	29	obl	_	SpaceAfter=No
+32	.	.	PUNCT	Period	_	22	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-53
+# text = When a connection file is not used
+1	When	when	SCONJ	_	_	7	mark	_	_
+2	a	a	DET	IND-SG	Definite=Ind|PronType=Art	4	det	_	_
+3	connection	connection	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	file	file	NOUN	SG-NOM	Number=Sing	7	nsubj:pass	_	_
+5	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_
+6	not	not	PART	NEG	Polarity=Neg	7	advmod	_	_
+7	used	use	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+
+# sent_id = en_lines-ud-train-doc1-54
+# text = Either create a link between the page and a connection file by setting the ConnectionFile property, or edit the ConnectionString property.
+1	Either	either	CCONJ	_	_	2	cc	_	_
+2	create	create	VERB	IMP	VerbForm=Inf	0	root	_	_
+3	a	a	DET	IND-SG	Definite=Ind|PronType=Art	4	det	_	_
+4	link	link	NOUN	SG-NOM	Number=Sing	2	obj	_	_
+5	between	between	ADP	_	_	7	case	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	7	det	_	_
+7	page	page	NOUN	SG-NOM	Number=Sing	4	nmod	_	_
+8	and	and	CCONJ	_	_	11	cc	_	_
+9	a	a	DET	IND-SG	Definite=Ind|PronType=Art	10	det	_	_
+10	connection	connection	NOUN	SG-NOM	Number=Sing	11	compound	_	_
+11	file	file	NOUN	SG-NOM	Number=Sing	7	conj	_	_
+12	by	by	ADP	_	_	13	mark	_	_
+13	setting	set	VERB	ING	Tense=Pres|VerbForm=Part	11	advcl	_	_
+14	the	the	DET	DEF	Definite=Def|PronType=Art	16	det	_	_
+15	ConnectionFile	connectionfile	NOUN	SG-NOM	Number=Sing	16	compound	_	_
+16	property	property	NOUN	SG-NOM	Number=Sing	13	obj	_	SpaceAfter=No
+17	,	,	PUNCT	Comma	_	19	punct	_	_
+18	or	or	CCONJ	_	_	19	cc	_	_
+19	edit	edit	VERB	IMP	_	2	conj	_	_
+20	the	the	DET	DEF	Definite=Def|PronType=Art	22	det	_	_
+21	ConnectionString	ConnectionString	PROPN	SG-NOM	Number=Sing	22	compound	_	_
+22	property	property	NOUN	SG-NOM	Number=Sing	19	obj	_	SpaceAfter=No
+23	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-55
+# text = When you create a link, Access will automatically set the ConnectionString property based on the contents of the connection file.
+1	When	when	SCONJ	_	_	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	create	create	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	link	link	NOUN	SG-NOM	Number=Sing	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	3	punct	_	_
+7	Access	Access	PROPN	SG-NOM	Number=Sing	10	nsubj	_	_
+8	will	will	AUX	PRES-AUX	VerbForm=Fin	10	aux	_	_
+9	automatically	automatically	ADV	_	_	10	advmod	_	_
+10	set	set	VERB	INF	VerbForm=Inf	0	root	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	14	det	_	_
+12	ConnectionString	ConnectionString	PROPN	SG-NOM	Number=Sing	14	compound	_	_
+13	property	property	NOUN	SG-NOM	Number=Sing	12	flat	_	_
+14	based	base	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	10	advcl	_	_
+15	on	on	ADP	_	_	17	case	_	_
+16	the	the	DET	DEF	Definite=Def|PronType=Art	17	det	_	_
+17	contents	content	NOUN	PL-NOM	Number=Plur	10	obl	_	_
+18	of	of	ADP	_	_	21	case	_	_
+19	the	the	DET	DEF	Definite=Def|PronType=Art	21	det	_	_
+20	connection	connection	NOUN	SG-NOM	Number=Sing	21	compound	_	_
+21	file	file	NOUN	SG-NOM	Number=Sing	17	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	Period	_	10	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-56
+# text = Convert a previous-version data access page
+1	Convert	convert	VERB	INF	VerbForm=Inf	0	root	_	_
+2	a	a	DET	IND-SG	Definite=Ind|PronType=Art	6	det	_	_
+3	previous-version	previous-version	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+4	data	data	NOUN	PL-NOM	Number=Sing	5	compound	_	_
+5	access	access	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	page	page	NOUN	SG-NOM	Number=Sing	1	obj	_	_
+
+# sent_id = en_lines-ud-train-doc1-57
+# text = A page created using Microsoft Access 2000 must be converted before it can be used with Access 2002.
+1	A	a	DET	IND-SG	Definite=Ind|PronType=Art	2	det	_	_
+2	page	page	NOUN	SG-NOM	Number=Sing	10	nsubj:pass	_	_
+3	created	create	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+4	using	use	VERB	ING	Tense=Pres|VerbForm=Part	3	advcl	_	_
+5	Microsoft	Microsoft	PROPN	SG-NOM	Number=Sing	4	obj	_	_
+6	Access	Access	PROPN	SG-NOM	Number=Sing	5	flat	_	_
+7	2000	2000	NUM	ID	NumType=Card	6	nummod	_	_
+8	must	must	AUX	PRES-AUX	VerbForm=Fin	10	aux:pass	_	_
+9	be	be	AUX	INF	VerbForm=Inf	10	aux:pass	_	_
+10	converted	convert	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+11	before	before	SCONJ	_	_	15	mark	_	_
+12	it	it	PRON	PERS-SG	_	15	nsubj:pass	_	_
+13	can	can	AUX	PRES-AUX	VerbForm=Fin	15	aux:pass	_	_
+14	be	be	AUX	INF	VerbForm=Inf	15	aux:pass	_	_
+15	used	use	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	10	advcl	_	_
+16	with	with	ADP	_	_	17	case	_	_
+17	Access	Access	PROPN	SG-NOM	Number=Sing	15	obl	_	_
+18	2002	2002	NUM	ID	NumType=Card	17	nummod	_	SpaceAfter=No
+19	.	.	PUNCT	Period	_	10	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-58
+# text = Open the page in Access 2002 Design view.
+1	Open	open	VERB	IMP	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+3	page	page	NOUN	SG-NOM	Number=Sing	1	obj	_	_
+4	in	in	ADP	_	_	8	case	_	_
+5	Access	Access	PROPN	SG-NOM	Number=Sing	8	compound	_	_
+6	2002	2002	NUM	ID	NumType=Card	5	flat	_	_
+7	Design	design	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+8	view	view	NOUN	SG-NOM	Number=Sing	1	obl	_	SpaceAfter=No
+9	.	.	PUNCT	Period	_	1	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-59
+# text = Access will create a backup copy of the page (pagefilename.bak.htm) at the same location as the original data access page file.
+1	Access	Access	PROPN	SG-NOM	Number=Sing	3	nsubj	_	_
+2	will	will	AUX	PRES-AUX	VerbForm=Fin	3	aux	_	_
+3	create	create	VERB	INF	VerbForm=Inf	0	root	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	6	det	_	_
+5	backup	backup	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	copy	copy	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+7	of	of	ADP	_	_	9	case	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+9	page	page	NOUN	SG-NOM	Number=Sing	6	nmod	_	_
+10	(	(	PUNCT	LeftParenthesis	_	11	punct	_	SpaceAfter=No
+11	pagefilename.bak.htm	pagefilename	NOUN	SG-NOM	Number=Sing	9	appos	_	SpaceAfter=No
+12	)	)	PUNCT	RightParenthesis	_	11	punct	_	_
+13	at	at	ADP	_	_	16	case	_	_
+14	the	the	DET	DEF	Definite=Def|PronType=Art	16	det	_	_
+15	same	same	ADJ	POS	Degree=Pos	16	amod	_	_
+16	location	location	NOUN	SG-NOM	Number=Sing	3	obl	_	_
+17	as	as	ADP	_	_	23	case	_	_
+18	the	the	DET	DEF	Definite=Def|PronType=Art	23	det	_	_
+19	original	original	ADJ	POS	Degree=Pos	20	amod	_	_
+20	data	data	NOUN	PL-NOM	Number=Sing	21	compound	_	_
+21	access	access	NOUN	SG-NOM	Number=Sing	22	compound	_	_
+22	page	page	NOUN	SG-NOM	Number=Sing	23	compound	_	_
+23	file	file	NOUN	SG-NOM	Number=Sing	16	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-60
+# text = If you want to revert to the Access 2000 version of the page, delete the converted file, rename the backup copy, and then connect the page to the database.
+1	If	if	SCONJ	_	_	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	want	want	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+4	to	to	PART	_	_	5	mark	_	_
+5	revert	revert	VERB	INF	VerbForm=Inf	3	xcomp	_	_
+6	to	to	ADP	_	_	10	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
+8	Access	Access	PROPN	SG-NOM	Number=Sing	10	compound	_	_
+9	2000	2000	NUM	ID	NumType=Card	8	nummod	_	_
+10	version	version	NOUN	SG-NOM	Number=Sing	5	obl	_	_
+11	of	of	ADP	_	_	13	case	_	_
+12	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+13	page	page	NOUN	SG-NOM	Number=Sing	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	Comma	_	3	punct	_	_
+15	delete	delete	VERB	IMP	Mood=Imp|VerbForm=Fin	0	root	_	_
+16	the	the	DET	DEF	Definite=Def|PronType=Art	18	det	_	_
+17	converted	converted	ADJ	PASS	Degree=Pos	18	amod	_	_
+18	file	file	NOUN	SG-NOM	Number=Sing	15	obj	_	SpaceAfter=No
+19	,	,	PUNCT	Comma	_	20	punct	_	_
+20	rename	rename	VERB	IMP	Mood=Imp|VerbForm=Fin	15	conj	_	_
+21	the	the	DET	DEF	Definite=Def|PronType=Art	23	det	_	_
+22	backup	backup	NOUN	SG-NOM	Number=Sing	23	compound	_	_
+23	copy	copy	NOUN	SG-NOM	Number=Sing	20	obj	_	SpaceAfter=No
+24	,	,	PUNCT	Comma	_	27	punct	_	_
+25	and	and	CCONJ	_	_	27	cc	_	_
+26	then	then	ADV	_	PronType=Dem	27	advmod	_	_
+27	connect	connect	VERB	IMP	Mood=Imp|VerbForm=Fin	15	conj	_	_
+28	the	the	DET	DEF	Definite=Def|PronType=Art	29	det	_	_
+29	page	page	NOUN	SG-NOM	Number=Sing	27	obj	_	_
+30	to	to	ADP	_	_	32	case	_	_
+31	the	the	DET	DEF	Definite=Def|PronType=Art	32	det	_	_
+32	database	database	NOUN	SG-NOM	Number=Sing	27	obl	_	SpaceAfter=No
+33	.	.	PUNCT	Period	_	15	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-61
+# text = If the data access page includes any Microsoft Office Web Components (a PivotTable list, chart, or spreadsheet), only users with a valid Microsoft Office 2002 license will be able to use those components.
+1	If	if	SCONJ	_	_	6	mark	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+3	data	data	NOUN	PL-NOM	Number=Sing	4	compound	_	_
+4	access	access	NOUN	SG-NOM	Number=Sing	5	compound	_	_
+5	page	page	NOUN	SG-NOM	Number=Sing	6	nsubj	_	_
+6	includes	include	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	advcl	_	_
+7	any	any	DET	IND	PronType=Ind	11	det	_	_
+8	Microsoft	Microsoft	PROPN	SG-NOM	Number=Sing	11	compound	_	_
+9	Office	Office	PROPN	SG-NOM	Number=Sing	8	flat	_	_
+10	Web	web	NOUN	SG-NOM	Number=Sing	8	flat	_	_
+11	Components	component	NOUN	PL-NOM	Number=Plur	6	obj	_	_
+12	(	(	PUNCT	LeftParenthesis	_	15	punct	_	SpaceAfter=No
+13	a	a	DET	IND-SG	Definite=Ind|PronType=Art	15	det	_	_
+14	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	15	compound	_	_
+15	list	list	NOUN	SG-NOM	Number=Sing	11	appos	_	SpaceAfter=No
+16	,	,	PUNCT	Comma	_	17	punct	_	_
+17	chart	chart	NOUN	SG-NOM	Number=Sing	15	conj	_	SpaceAfter=No
+18	,	,	PUNCT	Comma	_	20	punct	_	_
+19	or	or	CCONJ	_	_	20	cc	_	_
+20	spreadsheet	spreadsheet	NOUN	SG-NOM	Number=Sing	15	conj	_	SpaceAfter=No
+21	)	)	PUNCT	RightParenthesis	_	15	punct	_	SpaceAfter=No
+22	,	,	PUNCT	Comma	_	15	punct	_	_
+23	only	only	ADV	_	_	24	advmod	_	_
+24	users	user	NOUN	PL-NOM	Number=Plur	34	nsubj	_	_
+25	with	with	ADP	_	_	31	case	_	_
+26	a	a	DET	IND-SG	Definite=Ind|PronType=Art	31	det	_	_
+27	valid	valid	ADJ	POS	Degree=Pos	31	amod	_	_
+28	Microsoft	Microsoft	PROPN	SG-NOM	Number=Sing	31	compound	_	_
+29	Office	Office	PROPN	SG-NOM	Number=Sing	28	flat	_	_
+30	2002	2002	NUM	ID	NumType=Card	28	flat	_	_
+31	license	license	NOUN	SG-NOM	Number=Sing	24	nmod	_	_
+32	will	will	AUX	PRES-AUX	VerbForm=Fin	34	aux	_	_
+33	be	be	AUX	INF	VerbForm=Inf	34	cop	_	_
+34	able	able	ADJ	POS	Degree=Pos	0	root	_	_
+35	to	to	PART	_	_	36	mark	_	_
+36	use	use	VERB	INF	VerbForm=Inf	34	xcomp	_	_
+37	those	that	DET	DEM-PL	Number=Plur|PronType=Dem	38	det	_	_
+38	components	component	NOUN	PL-NOM	Number=Plur	36	obj	_	SpaceAfter=No
+39	.	.	PUNCT	Period	_	34	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-62
+# text = About analyzing data
+1	About	about	ADP	_	_	2	mark	_	_
+2	analyzing	analyze	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+3	data	data	NOUN	PL-NOM	Number=Sing	2	obj	_	_
+
+# sent_id = en_lines-ud-train-doc1-63
+# text = Microsoft Access provides several techniques to help you analyze data.
+1	Microsoft	Microsoft	PROPN	SG-NOM	Number=Sing	3	nsubj	_	_
+2	Access	Access	PROPN	SG-NOM	Number=Sing	1	flat	_	_
+3	provides	provide	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	several	several	ADJ	POS	Degree=Pos	5	amod	_	_
+5	techniques	technique	NOUN	PL-NOM	Number=Plur	7	nsubj	_	_
+6	to	to	PART	_	_	7	mark	_	_
+7	help	help	VERB	INF	VerbForm=Inf	3	ccomp	_	_
+8	you	you	PRON	PERS-P2	_	9	nsubj	_	_
+9	analyze	analyze	VERB	INF	VerbForm=Inf	7	xcomp	_	_
+10	data	data	NOUN	PL-NOM	Number=Sing	9	obj	_	SpaceAfter=No
+11	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-64
+# text = Create a crosstab query
+1	Create	create	VERB	IMP	VerbForm=Inf	0	root	_	_
+2	a	a	DET	IND-SG	Definite=Ind|PronType=Art	4	det	_	_
+3	crosstab	crosstab	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	query	query	NOUN	SG-NOM	Number=Sing	1	obj	_	_
+
+# sent_id = en_lines-ud-train-doc1-65
+# text = You can use a crosstab query to calculate and restructure data for easier analysis.
+1	You	you	PRON	PERS-P2	_	3	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	3	aux	_	_
+3	use	use	VERB	INF	VerbForm=Inf	0	root	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	6	det	_	_
+5	crosstab	crosstab	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	query	query	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+7	to	to	PART	_	_	8	mark	_	_
+8	calculate	calculate	VERB	INF	VerbForm=Inf	6	acl	_	_
+9	and	and	CCONJ	_	_	10	cc	_	_
+10	restructure	restructure	VERB	INF	VerbForm=Inf	8	conj	_	_
+11	data	data	NOUN	PL-NOM	Number=Sing	10	obj	_	_
+12	for	for	ADP	_	_	14	case	_	_
+13	easier	easy	ADJ	CMP	Degree=Cmp	14	amod	_	_
+14	analysis	analysis	NOUN	SG-NOM	Number=Sing	10	obl	_	SpaceAfter=No
+15	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-66
+# text = Crosstab queries calculate a sum, average, count, or other type of total for data that is grouped by two types of information – one down the left side of the datasheet and another across the top.
+1	Crosstab	crosstab	NOUN	SG-NOM	Number=Sing	2	compound	_	_
+2	queries	query	NOUN	PL-NOM	Number=Plur	3	nsubj	_	_
+3	calculate	calculate	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	sum	sum	NOUN	SG-NOM	Number=Sing	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	Comma	_	7	punct	_	_
+7	average	average	NOUN	SG-NOM	Number=Sing	5	conj	_	SpaceAfter=No
+8	,	,	PUNCT	Comma	_	7	punct	_	_
+9	count	count	NOUN	SG-NOM	Number=Sing	5	conj	_	SpaceAfter=No
+10	,	,	PUNCT	Comma	_	13	punct	_	_
+11	or	or	CCONJ	_	_	13	cc	_	_
+12	other	other	ADJ	POS	Degree=Pos	13	amod	_	_
+13	type	type	NOUN	SG-NOM	Number=Sing	5	conj	_	_
+14	of	of	ADP	_	_	15	case	_	_
+15	total	total	ADJ	POS	Degree=Pos	13	amod	_	_
+16	for	for	ADP	_	_	17	case	_	_
+17	data	data	NOUN	PL-NOM	Number=Sing	15	nmod	_	_
+18	that	that	PRON	REL	PronType=Rel	20	nsubj	_	_
+19	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux:pass	_	_
+20	grouped	group	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	17	acl:relcl	_	_
+21	by	by	ADP	_	_	23	case	_	_
+22	two	two	NUM	CARD-PL	NumType=Card	23	nummod	_	_
+23	types	type	NOUN	PL-NOM	Number=Plur	20	obl	_	_
+24	of	of	ADP	_	_	25	case	_	_
+25	information	information	NOUN	SG-NOM	Number=Sing	23	nmod	_	_
+26	–	–	PUNCT	Dash	_	27	punct	_	_
+27	one	one	PRON	IND-SG-NOM	_	31	nsubj	_	_
+28	down	down	ADP	_	_	31	case	_	_
+29	the	the	DET	DEF	Definite=Def|PronType=Art	31	det	_	_
+30	left	left	ADJ	POS	Degree=Pos	31	amod	_	_
+31	side	side	NOUN	SG-NOM	Number=Sing	23	parataxis	_	_
+32	of	of	ADP	_	_	34	case	_	_
+33	the	the	DET	DEF	Definite=Def|PronType=Art	34	det	_	_
+34	datasheet	datasheet	NOUN	SG-NOM	Number=Sing	31	nmod	_	_
+35	and	and	CCONJ	_	_	39	cc	_	_
+36	another	another	PRON	ADJ-SG	Case=Nom	39	nsubj	_	_
+37	across	across	ADP	_	_	39	case	_	_
+38	the	the	DET	DEF	Definite=Def|PronType=Art	39	det	_	_
+39	top	top	NOUN	SG-NOM	Number=Sing	31	conj	_	SpaceAfter=No
+40	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-67
+# text = Comparison of a crosstab and a select query
+1	Comparison	comparison	NOUN	SG-NOM	Number=Sing	0	root	_	_
+2	of	of	ADP	_	_	4	case	_	_
+3	a	a	DET	IND-SG	Definite=Ind|PronType=Art	4	det	_	_
+4	crosstab	crosstab	NOUN	SG-NOM	Number=Sing	1	nmod	_	_
+5	and	and	CCONJ	_	_	8	cc	_	_
+6	a	a	DET	IND-SG	Definite=Ind|PronType=Art	8	det	_	_
+7	select	select	ADJ	POS	Degree=Pos	8	amod	_	_
+8	query	query	NOUN	SG-NOM	Number=Sing	4	conj	_	_
+
+# sent_id = en_lines-ud-train-doc1-68
+# text = 1 A select query
+1	1	1	NUM	ID	NumType=Card	4	discourse	_	_
+2	A	a	DET	IND-SG	Definite=Ind|PronType=Art	4	det	_	_
+3	select	select	ADJ	POS	Degree=Pos	4	amod	_	_
+4	query	query	NOUN	SG-NOM	Number=Sing	0	root	_	_
+
+# sent_id = en_lines-ud-train-doc1-69
+# text = 2 A crosstab query based on the select query
+1	2	2	NUM	ID	NumType=Card	4	discourse	_	_
+2	A	a	DET	IND-SG	Definite=Ind|PronType=Art	4	det	_	_
+3	crosstab	crosstab	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	query	query	NOUN	SG-NOM	Number=Sing	0	root	_	_
+5	based	base	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+6	on	on	ADP	_	_	9	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	select	select	ADJ	POS	Degree=Pos	9	amod	_	_
+9	query	query	NOUN	SG-NOM	Number=Sing	5	obl	_	_
+
+# sent_id = en_lines-ud-train-doc1-70
+# text = Add a PivotTable list to a data access page
+1	Add	add	VERB	INF	VerbForm=Inf	0	root	_	_
+2	a	a	DET	IND-SG	Definite=Ind|PronType=Art	4	det	_	_
+3	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	list	list	NOUN	SG-NOM	Number=Sing	1	obj	_	_
+5	to	to	ADP	_	_	9	case	_	_
+6	a	a	DET	IND-SG	Definite=Ind|PronType=Art	9	det	_	_
+7	data	data	NOUN	PL-NOM	Number=Sing	8	compound	_	_
+8	access	access	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	page	page	NOUN	SG-NOM	Number=Sing	1	obl	_	_
+
+# sent_id = en_lines-ud-train-doc1-71
+# text = A PivotTable list is an interactive table that you can use to analyze data dynamically from within a Web browser.
+1	A	a	DET	IND-SG	Definite=Ind|PronType=Art	3	det	_	_
+2	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	3	compound	_	_
+3	list	list	NOUN	SG-NOM	Number=Sing	7	nsubj	_	_
+4	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	an	an	DET	IND-SG	Definite=Ind|PronType=Art	7	det	_	_
+6	interactive	interactive	ADJ	POS	Degree=Pos	7	amod	_	_
+7	table	table	NOUN	SG-NOM	Number=Sing	0	root	_	_
+8	that	that	SCONJ	_	_	13	obj	_	_
+9	you	you	PRON	PERS-P2	_	11	nsubj	_	_
+10	can	can	AUX	PRES-AUX	VerbForm=Fin	11	aux	_	_
+11	use	use	VERB	INF	VerbForm=Inf	7	acl:relcl	_	_
+12	to	to	PART	_	_	13	mark	_	_
+13	analyze	analyze	VERB	INF	VerbForm=Inf	11	xcomp	_	_
+14	data	data	NOUN	PL-NOM	Number=Sing	13	obj	_	_
+15	dynamically	dynamically	ADV	_	_	13	advmod	_	_
+16	from	from	ADP	_	_	20	case	_	_
+17	within	within	ADP	_	_	20	case	_	_
+18	a	a	DET	IND-SG	Definite=Ind|PronType=Art	20	det	_	_
+19	Web	web	NOUN	SG-NOM	Number=Sing	20	compound	_	_
+20	browser	browser	NOUN	SG-NOM	Number=Sing	13	obl	_	SpaceAfter=No
+21	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-72
+# text = At run time, users can change the layout of the PivotTable list.
+1	At	at	ADP	_	_	3	case	_	_
+2	run	run	NOUN	SG-NOM	Number=Sing	3	compound	_	_
+3	time	time	NOUN	SG-NOM	Number=Sing	7	obl	_	SpaceAfter=No
+4	,	,	PUNCT	Comma	_	3	punct	_	_
+5	users	user	NOUN	PL-NOM	Number=Plur	7	nsubj	_	_
+6	can	can	AUX	PRES-AUX	VerbForm=Fin	7	aux	_	_
+7	change	change	VERB	INF	VerbForm=Inf	0	root	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+9	layout	layout	NOUN	SG-NOM	Number=Sing	7	obj	_	_
+10	of	of	ADP	_	_	13	case	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	list	list	NOUN	SG-NOM	Number=Sing	9	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-73
+# text = They can move the fields that are displayed in the row, column, and data area of the PivotTable list, or add or remove fields from the list.
+1	They	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	3	aux	_	_
+3	move	move	VERB	INF	VerbForm=Inf	0	root	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
+5	fields	field	NOUN	PL-NOM	Number=Plur	3	obj	_	_
+6	that	that	PRON	REL	PronType=Rel	8	nsubj:pass	_	_
+7	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
+8	displayed	display	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	5	acl:relcl	_	_
+9	in	in	ADP	_	_	17	case	_	_
+10	the	the	DET	DEF	Definite=Def|PronType=Art	17	det	_	_
+11	row	row	NOUN	SG-NOM	Number=Sing	17	compound	_	SpaceAfter=No
+12	,	,	PUNCT	Comma	_	13	punct	_	_
+13	column	column	NOUN	SG-NOM	Number=Sing	11	conj	_	SpaceAfter=No
+14	,	,	PUNCT	Comma	_	13	punct	_	_
+15	and	and	CCONJ	_	_	24	cc	_	_
+16	data	data	NOUN	PL-NOM	Number=Sing	17	compound	_	_
+17	area	area	NOUN	SG-NOM	Number=Sing	8	obl	_	_
+18	of	of	ADP	_	_	21	case	_	_
+19	the	the	DET	DEF	Definite=Def|PronType=Art	21	det	_	_
+20	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	21	compound	_	_
+21	list	list	NOUN	SG-NOM	Number=Sing	17	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	Comma	_	24	punct	_	_
+23	or	or	CCONJ	_	_	24	cc	_	_
+24	add	add	VERB	INF	VerbForm=Inf	3	conj	_	_
+25	or	or	CCONJ	_	_	26	cc	_	_
+26	remove	remove	VERB	INF	VerbForm=Inf	3	conj	_	_
+27	fields	field	NOUN	PL-NOM	Number=Plur	26	obj	_	_
+28	from	from	ADP	_	_	30	case	_	_
+29	the	the	DET	DEF	Definite=Def|PronType=Art	30	det	_	_
+30	list	list	NOUN	SG-NOM	Number=Sing	26	obl	_	SpaceAfter=No
+31	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-74
+# text = Users can also filter, sort, and group data.
+1	Users	user	NOUN	PL-NOM	Number=Plur	4	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	4	aux	_	_
+3	also	also	ADV	_	_	4	advmod	_	_
+4	filter	filter	VERB	INF	_	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	Comma	_	6	punct	_	_
+6	sort	sort	VERB	INF	_	4	conj	_	SpaceAfter=No
+7	,	,	PUNCT	Comma	_	9	punct	_	_
+8	and	and	CCONJ	_	_	9	cc	_	_
+9	group	group	VERB	INF	_	4	conj	_	_
+10	data	data	NOUN	PL-NOM	Number=Sing	9	obj	_	SpaceAfter=No
+11	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-75
+# text = The following illustration shows a PivotTable list on the Orders data access page.
+1	The	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+2	following	follow	ADJ	ING	_	3	amod	_	_
+3	illustration	illustration	NOUN	SG-NOM	Number=Sing	4	nsubj	_	_
+4	shows	show	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	DET	IND-SG	Definite=Ind|PronType=Art	7	det	_	_
+6	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	7	compound	_	_
+7	list	list	NOUN	SG-NOM	Number=Sing	4	obj	_	_
+8	on	on	ADP	_	_	13	case	_	_
+9	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+10	Orders	Order	PROPN	PL-NOM	Number=Sing	13	compound	_	_
+11	data	data	NOUN	PL-NOM	Number=Sing	10	flat	_	_
+12	access	access	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	page	page	NOUN	SG-NOM	Number=Sing	4	obl	_	SpaceAfter=No
+14	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-76
+# text = PivotTable list on a data access page
+1	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	2	compound	_	_
+2	list	list	NOUN	SG-NOM	Number=Sing	0	root	_	_
+3	on	on	ADP	_	_	7	case	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	7	det	_	_
+5	data	data	NOUN	PL-NOM	Number=Sing	6	compound	_	_
+6	access	access	NOUN	SG-NOM	Number=Sing	7	compound	_	_
+7	page	page	NOUN	SG-NOM	Number=Sing	2	nmod	_	_
+
+# sent_id = en_lines-ud-train-doc1-77
+# text = View a datasheet or form in PivotTable view
+1	View	view	VERB	IMP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	DET	IND-SG	Definite=Ind|PronType=Art	3	det	_	_
+3	datasheet	datasheet	NOUN	SG-NOM	Number=Sing	1	obj	_	_
+4	or	or	CCONJ	_	_	5	cc	_	_
+5	form	form	VERB	IMP	VerbForm=Inf	1	conj	_	_
+6	in	in	ADP	_	_	8	case	_	_
+7	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+8	view	view	NOUN	SG-NOM	Number=Sing	5	obl	_	_
+
+# sent_id = en_lines-ud-train-doc1-78
+# text = Access 2002 provides a PivotTable view for datasheets and forms.
+1	Access	Access	PROPN	SG-NOM	Number=Sing	3	nsubj	_	_
+2	2002	2002	NUM	ID	NumType=Card	1	nummod	_	_
+3	provides	provide	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	6	det	_	_
+5	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	view	view	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+7	for	for	ADP	_	_	8	case	_	_
+8	datasheets	datasheet	NOUN	PL-NOM	Number=Plur	3	obl	_	_
+9	and	and	CCONJ	_	_	10	cc	_	_
+10	forms	form	NOUN	PL-NOM	Number=Plur	8	conj	_	SpaceAfter=No
+11	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-79
+# text = In this view, you can build an interactive report using the fields underlying the datasheet or form.
+1	In	in	ADP	_	_	3	case	_	_
+2	this	this	DET	DEM-SG	Number=Sing|PronType=Dem	3	det	_	_
+3	view	view	NOUN	SG-NOM	Number=Sing	7	obl	_	SpaceAfter=No
+4	,	,	PUNCT	Comma	_	3	punct	_	_
+5	you	you	PRON	PERS-P2	_	7	nsubj	_	_
+6	can	can	AUX	PRES-AUX	VerbForm=Fin	7	aux	_	_
+7	build	build	VERB	INF	VerbForm=Inf	0	root	_	_
+8	an	an	DET	IND-SG	Definite=Ind|PronType=Art	10	det	_	_
+9	interactive	interactive	ADJ	POS	Degree=Pos	10	amod	_	_
+10	report	report	NOUN	SG-NOM	Number=Sing	7	obj	_	_
+11	using	use	VERB	ING	Tense=Pres|VerbForm=Part	7	advcl	_	_
+12	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+13	fields	field	NOUN	PL-NOM	Number=Plur	11	obj	_	_
+14	underlying	underlie	VERB	ING	Tense=Pres|VerbForm=Part	13	acl	_	_
+15	the	the	DET	DEF	Definite=Def|PronType=Art	16	det	_	_
+16	datasheet	datasheet	NOUN	SG-NOM	Number=Sing	14	obj	_	_
+17	or	or	CCONJ	_	_	18	cc	_	_
+18	form	form	NOUN	SG-NOM	Number=Sing	16	conj	_	SpaceAfter=No
+19	.	.	PUNCT	Period	_	7	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-80
+# text = The view uses a Microsoft Office PivotTable Component, so you can do all the things that you can do on a PivotTable list.
+1	The	the	DET	DEF	Definite=Def|PronType=Art	2	det	_	_
+2	view	view	NOUN	SG-NOM	Number=Sing	3	nsubj	_	_
+3	uses	use	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	8	det	_	_
+5	Microsoft	Microsoft	PROPN	SG-NOM	Number=Sing	8	compound	_	_
+6	Office	Office	PROPN	SG-NOM	Number=Sing	5	flat	_	_
+7	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	5	flat	_	_
+8	Component	component	NOUN	SG-NOM	Number=Sing	3	obj	_	SpaceAfter=No
+9	,	,	PUNCT	Comma	_	13	punct	_	_
+10	so	so	SCONJ	_	_	13	mark	_	_
+11	you	you	PRON	PERS-P2	_	13	nsubj	_	_
+12	can	can	AUX	PRES-AUX	VerbForm=Fin	13	aux	_	_
+13	do	do	VERB	INF	VerbForm=Inf	3	advcl	_	_
+14	all	all	DET	TOT-PL	PronType=Tot	15	det	_	_
+15	the	the	DET	DEF	Definite=Def|PronType=Art	16	det	_	_
+16	things	thing	NOUN	PL-NOM	Number=Plur	13	obj	_	_
+17	that	that	SCONJ	_	_	20	obj	_	_
+18	you	you	PRON	PERS-P2	_	20	nsubj	_	_
+19	can	can	AUX	PRES-AUX	VerbForm=Fin	20	aux	_	_
+20	do	do	VERB	INF	VerbForm=Inf	16	acl:relcl	_	_
+21	on	on	ADP	_	_	24	case	_	_
+22	a	a	DET	IND-SG	Definite=Ind|PronType=Art	24	det	_	_
+23	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	24	compound	_	_
+24	list	list	NOUN	SG-NOM	Number=Sing	20	obl	_	SpaceAfter=No
+25	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-81
+# text = You can add fields to the view, move or remove fields, and filter, sort, and group data.
+1	You	you	PRON	PERS-P2	_	3	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	3	aux	_	_
+3	add	add	VERB	INF	VerbForm=Inf	0	root	_	_
+4	fields	field	NOUN	PL-NOM	Number=Plur	3	obj	_	_
+5	to	to	ADP	_	_	7	case	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	7	det	_	_
+7	view	view	NOUN	SG-NOM	Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	Comma	_	9	punct	_	_
+9	move	move	VERB	INF	VerbForm=Inf	3	conj	_	_
+10	or	or	CCONJ	_	_	11	cc	_	_
+11	remove	remove	VERB	INF	VerbForm=Inf	3	conj	_	_
+12	fields	field	NOUN	PL-NOM	Number=Plur	11	obj	_	SpaceAfter=No
+13	,	,	PUNCT	Comma	_	15	punct	_	_
+14	and	and	CCONJ	_	_	15	cc	_	_
+15	filter	filter	VERB	INF	_	3	conj	_	SpaceAfter=No
+16	,	,	PUNCT	Comma	_	15	punct	_	_
+17	sort	sort	VERB	INF	_	3	conj	_	SpaceAfter=No
+18	,	,	PUNCT	Comma	_	20	punct	_	_
+19	and	and	CCONJ	_	_	20	cc	_	_
+20	group	group	VERB	INF	_	3	conj	_	_
+21	data	data	NOUN	PL-NOM	Number=Sing	20	obj	_	SpaceAfter=No
+22	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-82
+# text = The following illustration shows the Employees table in PivotTable view.
+1	The	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+2	following	follow	ADJ	ING	_	3	amod	_	_
+3	illustration	illustration	NOUN	SG-NOM	Number=Sing	4	nsubj	_	_
+4	shows	show	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	the	the	DET	DEF	Definite=Def|PronType=Art	7	det	_	_
+6	Employees	employee	NOUN	PL-NOM	Number=Plur	7	compound	_	_
+7	table	table	NOUN	SG-NOM	Number=Sing	4	obj	_	_
+8	in	in	ADP	_	_	10	case	_	_
+9	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	10	compound	_	_
+10	view	view	NOUN	SG-NOM	Number=Sing	4	obl	_	SpaceAfter=No
+11	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-83
+# text = Datasheet in PivotTable view
+1	Datasheet	datasheet	NOUN	SG-NOM	Number=Sing	0	root	_	_
+2	in	in	ADP	_	_	4	case	_	_
+3	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	view	view	NOUN	SG-NOM	Number=Sing	1	nmod	_	_
+
+# sent_id = en_lines-ud-train-doc1-84
+# text = About customizing the layout of a PivotTable or PivotChart view
+1	About	about	ADP	_	_	2	mark	_	_
+2	customizing	customize	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+3	the	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
+4	layout	layout	NOUN	SG-NOM	Number=Sing	2	obj	_	_
+5	of	of	ADP	_	_	7	case	_	_
+6	a	a	DET	IND-SG	Definite=Ind|PronType=Art	7	det	_	_
+7	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	4	nmod	_	_
+8	or	or	CCONJ	_	_	10	cc	_	_
+9	PivotChart	pivotchart	NOUN	SG-NOM	Number=Sing	10	compound	_	_
+10	view	view	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	7	conj	_	_
+
+# sent_id = en_lines-ud-train-doc1-85
+# text = Customizing the layout of a PivotTable view
+1	Customizing	customize	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+3	layout	layout	NOUN	SG-NOM	Number=Sing	1	obj	_	_
+4	of	of	ADP	_	_	7	case	_	_
+5	a	a	DET	IND-SG	Definite=Ind|PronType=Art	7	det	_	_
+6	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	7	compound	_	_
+7	view	view	NOUN	SG-NOM	Number=Sing	3	nmod	_	_
+
+# sent_id = en_lines-ud-train-doc1-86
+# text = You can control how the data is presented in a PivotTable view by customizing the layout.
+1	You	you	PRON	PERS-P2	_	3	nsubj	_	_
+2	can	can	AUX	PRES-AUX	VerbForm=Fin	3	aux	_	_
+3	control	control	VERB	INF	VerbForm=Inf	0	root	_	_
+4	how	how	ADV	WH	PronType=Int	8	advmod	_	_
+5	the	the	DET	DEF	Definite=Def|PronType=Art	6	det	_	_
+6	data	data	NOUN	PL-NOM	Number=Sing	8	nsubj:pass	_	_
+7	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
+8	presented	present	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	_	_
+9	in	in	ADP	_	_	12	case	_	_
+10	a	a	DET	IND-SG	Definite=Ind|PronType=Art	12	det	_	_
+11	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	12	compound	_	_
+12	view	view	NOUN	SG-NOM	Number=Sing	8	obl	_	_
+13	by	by	ADP	_	_	14	mark	_	_
+14	customizing	customize	VERB	ING	Tense=Pres|VerbForm=Part	3	advcl	_	_
+15	the	the	DET	DEF	Definite=Def|PronType=Art	16	det	_	_
+16	layout	layout	NOUN	SG-NOM	Number=Sing	14	obj	_	SpaceAfter=No
+17	.	.	PUNCT	Period	_	3	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-87
+# text = A different layout lets you calculate and compare summarized values for different elements in your data, or display summaries for a subset of the data.
+1	A	a	DET	IND-SG	Definite=Ind|PronType=Art	3	det	_	_
+2	different	different	ADJ	POS	Degree=Pos	3	amod	_	_
+3	layout	layout	NOUN	SG-NOM	Number=Sing	4	nsubj	_	_
+4	lets	let	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	you	you	PRON	PERS-P2	_	6	nsubj	_	_
+6	calculate	calculate	VERB	INF	VerbForm=Inf	4	xcomp	_	_
+7	and	and	CCONJ	_	_	8	cc	_	_
+8	compare	compare	VERB	INF	VerbForm=Inf	6	conj	_	_
+9	summarized	summarize	ADJ	PASS	Degree=Pos	10	amod	_	_
+10	values	value	NOUN	PL-NOM	Number=Plur	8	obj	_	_
+11	for	for	ADP	_	_	13	case	_	_
+12	different	different	ADJ	POS	Degree=Pos	13	amod	_	_
+13	elements	element	NOUN	PL-NOM	Number=Plur	10	nmod	_	_
+14	in	in	ADP	_	_	16	case	_	_
+15	your	your	PRON	P2-GEN	Case=Gen|Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	_	_
+16	data	data	NOUN	PL-NOM	Number=Sing	13	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	Comma	_	19	punct	_	_
+18	or	or	CCONJ	_	_	19	cc	_	_
+19	display	display	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	16	conj	_	_
+20	summaries	summary	NOUN	PL-NOM	Number=Plur	19	obj	_	_
+21	for	for	ADP	_	_	23	case	_	_
+22	a	a	DET	IND-SG	Definite=Ind|PronType=Art	23	det	_	_
+23	subset	subset	NOUN	SG-NOM	Number=Sing	20	nmod	_	_
+24	of	of	ADP	_	_	26	case	_	_
+25	the	the	DET	DEF	Definite=Def|PronType=Art	26	det	_	_
+26	data	data	NOUN	PL-NOM	Number=Sing	23	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	Period	_	4	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-88
+# text = Using the drop areas
+1	Using	use	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	the	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
+3	drop	drop	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+4	areas	area	NOUN	PL-NOM	Number=Plur	1	obj	_	_
+
+# sent_id = en_lines-ud-train-doc1-89
+# text = You change the layout by moving the fields to predefined drop areas within the PivotTable view workspace.
+1	You	you	PRON	PERS-P2	_	2	nsubj	_	_
+2	change	change	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	the	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
+4	layout	layout	NOUN	SG-NOM	Number=Sing	2	obj	_	_
+5	by	by	ADP	_	_	6	mark	_	_
+6	moving	move	VERB	ING	Tense=Pres|VerbForm=Part	2	advcl	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+8	fields	field	NOUN	PL-NOM	Number=Plur	6	obj	_	_
+9	to	to	ADP	_	_	12	case	_	_
+10	predefined	predefined	ADJ	POS	Degree=Pos	11	amod	_	_
+11	drop	drop	NOUN	SG-NOM	Number=Sing	12	compound	_	_
+12	areas	area	NOUN	PL-NOM	Number=Plur	6	obl	_	_
+13	within	within	ADP	_	_	17	case	_	_
+14	the	the	DET	DEF	Definite=Def|PronType=Art	17	det	_	_
+15	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	16	compound	_	_
+16	view	view	NOUN	SG-NOM	Number=Sing	17	compound	_	_
+17	workspace	workspace	NOUN	SG-NOM	Number=Sing	12	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	Period	_	2	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-90
+# text = Drop areas in PivotTable view
+1	Drop	drop	VERB	IMP	VerbForm=Inf	0	root	_	_
+2	areas	area	NOUN	PL-NOM	Number=Plur	1	obj	_	_
+3	in	in	ADP	_	_	5	case	_	_
+4	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	5	compound	_	_
+5	view	view	NOUN	SG-NOM	Number=Sing	2	nmod	_	_
+
+# sent_id = en_lines-ud-train-doc1-91
+# text = 1 Drop areas
+1	1	1	NUM	ID	NumType=Card	3	discourse	_	_
+2	Drop	drop	NOUN	SG-NOM	Number=Sing	3	compound	_	_
+3	areas	area	NOUN	PL-NOM	Number=Plur	0	root	_	_
+
+# sent_id = en_lines-ud-train-doc1-92
+# text = 2 Detail area
+1	2	2	NUM	ID	NumType=Card	3	discourse	_	_
+2	Detail	detail	NOUN	SG-NOM	Number=Sing	3	compound	_	_
+3	area	area	NOUN	SG-NOM	Number=Sing	0	root	_	_
+
+# sent_id = en_lines-ud-train-doc1-93
+# text = After you move fields to the drop areas so that the drop area captions are covered up, you can still drag additional fields to the areas.
+1	After	after	SCONJ	_	_	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	22	advcl	_	_
+4	fields	field	NOUN	PL-NOM	Number=Plur	3	obj	_	_
+5	to	to	ADP	_	_	8	case	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+7	drop	drop	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+8	areas	area	NOUN	PL-NOM	Number=Plur	3	obl	_	_
+9	so	so	SCONJ	_	_	16	mark	_	_
+10	that	that	SCONJ	_	_	9	fixed	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	14	det	_	_
+12	drop	drop	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	area	area	NOUN	SG-NOM	Number=Sing	14	compound	_	_
+14	captions	caption	NOUN	PL-NOM	Number=Plur	16	nsubj:pass	_	_
+15	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux:pass	_	_
+16	covered	cover	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	3	advcl	_	_
+17	up	up	ADV	_	_	16	compound:prt	_	SpaceAfter=No
+18	,	,	PUNCT	Comma	_	3	punct	_	_
+19	you	you	PRON	PERS-P2	_	22	nsubj	_	_
+20	can	can	AUX	PRES-AUX	VerbForm=Fin	22	aux	_	_
+21	still	still	ADV	_	_	22	advmod	_	_
+22	drag	drag	VERB	INF	VerbForm=Inf	0	root	_	_
+23	additional	additional	ADJ	POS	Degree=Pos	24	amod	_	_
+24	fields	field	NOUN	PL-NOM	Number=Plur	22	obj	_	_
+25	to	to	ADP	_	_	27	case	_	_
+26	the	the	DET	DEF	Definite=Def|PronType=Art	27	det	_	_
+27	areas	area	NOUN	PL-NOM	Number=Plur	22	obl	_	SpaceAfter=No
+28	.	.	PUNCT	Period	_	22	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-94
+# text = Moving fields to the row or column areas
+1	Moving	move	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	fields	field	NOUN	PL-NOM	Number=Plur	1	obj	_	_
+3	to	to	ADP	_	_	8	case	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+5	row	row	NOUN	SG-NOM	Number=Sing	8	compound	_	_
+6	or	or	CCONJ	_	_	7	cc	_	_
+7	column	column	NOUN	SG-NOM	Number=Sing	5	conj	_	_
+8	areas	area	NOUN	PL-NOM	Number=Plur	1	obl	_	_
+
+# sent_id = en_lines-ud-train-doc1-95
+# text = When you move a field to the row area, the unique items of data within the field are displayed down the rows of the PivotTable view.
+1	When	when	SCONJ	_	_	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	field	field	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+6	to	to	ADP	_	_	9	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	row	row	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	area	area	NOUN	SG-NOM	Number=Sing	3	obl	_	SpaceAfter=No
+10	,	,	PUNCT	Comma	_	3	punct	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	unique	unique	ADJ	POS	Degree=Pos	13	amod	_	_
+13	items	item	NOUN	PL-NOM	Number=Plur	20	nsubj:pass	_	_
+14	of	of	ADP	_	_	15	case	_	_
+15	data	data	NOUN	PL-NOM	Number=Sing	13	nmod	_	_
+16	within	within	ADP	_	_	18	case	_	_
+17	the	the	DET	DEF	Definite=Def|PronType=Art	18	det	_	_
+18	field	field	NOUN	SG-NOM	Number=Sing	15	nmod	_	_
+19	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	20	aux:pass	_	_
+20	displayed	display	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+21	down	down	ADP	_	_	23	case	_	_
+22	the	the	DET	DEF	Definite=Def|PronType=Art	23	det	_	_
+23	rows	row	NOUN	PL-NOM	Number=Plur	20	obl	_	_
+24	of	of	ADP	_	_	27	case	_	_
+25	the	the	DET	DEF	Definite=Def|PronType=Art	27	det	_	_
+26	PivotTable	PivotTable	NOUN	SG-NOM	Number=Sing	27	compound	_	_
+27	view	view	NOUN	SG-NOM	Number=Sing	23	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	Period	_	20	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-96
+# text = When you move a field to the column area, the unique items of data are displayed across the columns.
+1	When	when	SCONJ	_	_	3	mark	_	_
+2	you	you	PRON	PERS-P2	_	3	nsubj	_	_
+3	move	move	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	field	field	NOUN	SG-NOM	Number=Sing	3	obj	_	_
+6	to	to	ADP	_	_	9	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	column	column	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	area	area	NOUN	SG-NOM	Number=Sing	3	obl	_	SpaceAfter=No
+10	,	,	PUNCT	Comma	_	3	punct	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	unique	unique	ADJ	POS	Degree=Pos	13	amod	_	_
+13	items	item	NOUN	PL-NOM	Number=Plur	17	nsubj:pass	_	_
+14	of	of	ADP	_	_	15	case	_	_
+15	data	data	NOUN	PL-NOM	Number=Sing	13	nmod	_	_
+16	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	17	aux:pass	_	_
+17	displayed	display	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+18	across	across	ADP	_	_	20	case	_	_
+19	the	the	DET	DEF	Definite=Def|PronType=Art	20	det	_	_
+20	columns	column	NOUN	PL-NOM	Number=Plur	17	obl	_	SpaceAfter=No
+21	.	.	PUNCT	Period	_	17	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-97
+# text = Moving fields to the detail area
+1	Moving	move	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	fields	field	NOUN	PL-NOM	Number=Plur	1	obj	_	_
+3	to	to	ADP	_	_	6	case	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	6	det	_	_
+5	detail	detail	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	area	area	NOUN	SG-NOM	Number=Sing	1	obl	_	_
+
+# sent_id = en_lines-ud-train-doc1-98
+# text = To view total or detail data from the underlying record source, move fields to the detail area.
+1	To	to	PART	_	_	2	mark	_	_
+2	view	view	VERB	INF	VerbForm=Inf	13	advcl	_	_
+3	total	total	ADJ	POS	Degree=Pos	6	amod	_	_
+4	or	or	CCONJ	_	_	3	cc	_	_
+5	detail	detail	NOUN	SG-NOM	Number=Sing	3	compound	_	_
+6	data	data	NOUN	PL-NOM	Number=Sing	2	obj	_	_
+7	from	from	ADP	_	_	11	case	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	11	det	_	_
+9	underlying	underlie	ADJ	ING	Degree=Pos	10	amod	_	_
+10	record	record	NOUN	SG-NOM	Number=Sing	11	compound	_	_
+11	source	source	NOUN	SG-NOM	Number=Sing	6	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	Comma	_	2	punct	_	_
+13	move	move	VERB	IMP	Mood=Imp|VerbForm=Fin	0	root	_	_
+14	fields	field	NOUN	PL-NOM	Number=Plur	13	obj	_	_
+15	to	to	ADP	_	_	18	case	_	_
+16	the	the	DET	DEF	Definite=Def|PronType=Art	18	det	_	_
+17	detail	detail	NOUN	SG-NOM	Number=Sing	18	compound	_	_
+18	area	area	NOUN	SG-NOM	Number=Sing	13	obl	_	SpaceAfter=No
+19	.	.	PUNCT	Period	_	13	punct	_	_
+
+# sent_id = en_lines-ud-train-doc1-99
+# text = Moving fields to the filter area
+1	Moving	move	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+2	fields	field	NOUN	PL-NOM	Number=Plur	1	obj	_	_
+3	to	to	ADP	_	_	6	case	_	_
+4	the	the	DET	DEF	Definite=Def|PronType=Art	6	det	_	_
+5	filter	filter	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	area	area	NOUN	SG-NOM	Number=Sing	1	obl	_	_
+
+# sent_id = en_lines-ud-train-doc1-100
+# text = Filter fields allow you to confine the view to a particular part of the available data.
+1	Filter	filter	NOUN	SG-NOM	Number=Sing	2	compound	_	_
+2	fields	field	NOUN	PL-NOM	Number=Plur	3	nsubj	_	_
+3	allow	allow	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	you	you	PRON	PERS-P2	_	6	nsubj	_	_
+5	to	to	PART	_	_	6	mark	_	_
+6	confine	confine	VERB	INF	VerbForm=Inf	3	ccomp	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+8	view	view	NOUN	SG-NOM	Number=Sing	6	obj	_	_
+9	to	to	ADP	_	_	12	case	_	_
+10	a	a	DET	IND-SG	Definite=Ind|PronType=Art	12	det	_	_
+11	particular	particular	ADJ	POS	Degree=Pos	12	amod	_	_
+12	part	part	NOUN	SG-NOM	Number=Sing	6	obl	_	_
+13	of	of	ADP	_	_	16	case	_	_
+14	the	the	DET	DEF	Definite=Def|PronType=Art	16	det	_	_
+15	available	available	ADJ	POS	Degree=Pos	16	amod	_	_
+16	data	data	NOUN	PL-NOM	Number=Sing	12	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	Period	_	3	punct	_	_
+

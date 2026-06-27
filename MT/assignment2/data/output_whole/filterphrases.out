@@ -1,0 +1,2 @@
+To run the decoder, please call:
+  moses -f /home/jaka6039/MT/assignment2/data/output_whole/filtered/moses.ini -i /home/jaka6039/MT/assignment2/data/output_whole/filtered/input.508444

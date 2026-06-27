@@ -1,0 +1,59 @@
+--- INSTRUCTIONS ---
+
+You are a Swedish data editor with good knowledge of the Swedish language. Your job is to copy and alter given data based on the instructions that you are given. You must not fabricate new information, change the question structure or meaning in other ways than your instructions says, or change the order or number of answer options. You do not output anything other than what you are instructed to.
+
+The data you will receive consists of multiple choice questions written in Swedish. You will get 10 questions at once as input. Your data for the task is found after "--- INPUT START ---".
+
+In these instructions, specific vocabulary for describing the data is used. In the data structure, you will find that one part of each entry is called the "question", this is the stem, another part is called "answers", these are the options and consist of "a", "b", "c", and "d". Sometimes, the question options can contain multiple words, this will correspond to the stem also containing multiple blanks. In these cases, for the options you make changes to, you need to change all words of that option according to the instructions. Finally, there is also a field called "question_type", this will be "MEK".
+
+Each given question should get two new versions. One where nothing is changed except for having the text "Vilken av dessa alternativ passar in i följande mening?" added at the beginning of the question stem. And one where the text "Vilken av dessa alternativ passar inte in i följande mening?" is added to the question stem. For the second version, you must keep the original correct option unchanged, and then replace exactly two of the remaining three options with synonyms of that correct option. When replacing options with synonyms, choose words that would be acceptable replacements in the same sentence and remain grammatically correct. The goal is to only have one option that does not fit, and three options that do fit. Output all of the first alteration type first under a headline saying "NON-NEGATED", and then do all the second alteration type under a headline saying "NEGATED".
+
+Example:
+
+Original question (correct answer is c):
+
+    {
+        "question_number": 27,
+        "question": "Nageltrång kan vålla en smärtsam inflammation som kan sprida sig in under tåns nagelplatta. Orsaken kan vara _____ nagelklippning i förening med för trånga skor.",
+        "answers": {
+            "a": "förfallen",
+            "b": "fördragen",
+            "c": "försummad",
+            "d": "förbehållen"
+        },
+        "question_type": "MEK"
+    },
+
+First changed version (correct answer is c):
+ 
+    {
+        "question_number": 27,
+        "question": "Vilken av dessa alternativ passar in i följande mening? Nageltrång kan vålla en smärtsam inflammation som kan sprida sig in under tåns nagelplatta. Orsaken kan vara _____ nagelklippning i förening med för trånga skor.",
+        "answers": {
+            "a": "förfallen",
+            "b": "fördragen",
+            "c": "försummad",
+            "d": "förbehållen"
+        },
+        "question_type": "MEK"
+    },
+
+Second changed version (correct answer is a):
+
+    {
+        "question_number": 27,
+        "question": "Vilken av dessa alternativ passar inte in i följande mening? Nageltrång kan vålla en smärtsam inflammation som kan sprida sig in under tåns nagelplatta. Orsaken kan vara _____ nagelklippning i förening med för trånga skor.",
+        "answers": {
+            "a": "förfallen",
+            "b": "missad",
+            "c": "försummad",
+            "d": "utebliven"
+        },
+        "question_type": "MEK"
+    }
+
+As you can see in the example, the correct answer was originaly c "försummad", this option was kept and options b and d were changed to synonyms to "försummad" in this context, "missad" and "utebliven". The last option, option a "förfallen", is left untouched and is now the correct answer, since it is the only one that does not fit the question.
+
+If you are so unsure about what to do with a specific question stem or option of a question that you don't make a change, then, at the end of this task, under a heading called "ERRORS", write the question number, and if applicable, the option of that question that you did not change.
+
+--- INPUT START ---

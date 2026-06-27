@@ -1,0 +1,1502 @@
+SENTENCE BREAK
+
+Also ADV 
+
+if SCONJ 
+
+any DET 
+
+man NOUN 
+
+bi NOUN 
+
+cause NOUN 
+
+of ADP 
+
+seruyce NOUN 
+
+or CCONJ 
+
+other ADJ 
+
+leueful ADJ 
+
+comaundement NOUN 
+
+approched VERB 
+
+a DET 
+
+lorde NOUN 
+
+to ADP 
+
+which PRON 
+
+lorde VERB 
+
+he PRON 
+
+Nichol PROPN 
+
+dradde VERB 
+
+his PRON 
+
+falshede NOUN 
+
+to PART 
+
+be AUX 
+
+knowe NOUN 
+
+to ADP 
+
+anon PROPN 
+
+was AUX 
+
+apeched ADJ 
+
+that SCONJ 
+
+he PRON 
+
+was AUX 
+
+false ADJ 
+
+to ADP 
+
+the DET 
+
+conseille NOUN 
+
+of ADP 
+
+the DET 
+
+Citee PROPN 
+
+& CCONJ 
+
+so ADV 
+
+to ADP 
+
+the DET 
+
+kyng NOUN 
+
+SENTENCE BREAK
+
+For SCONJ 
+
+thy ADJ 
+
+graciouse NOUN 
+
+lordes NOUN 
+
+lyke VERB 
+
+it PRON 
+
+to PART 
+
+yow VERB 
+
+to PART 
+
+take VERB 
+
+hede NOUN 
+
+in ADP 
+
+what PRON 
+
+manere PROPN 
+
+& CCONJ 
+
+where SCONJ 
+
+owre PROPN 
+
+lige VERB 
+
+lordes NOUN 
+
+power NOUN 
+
+hath PROPN 
+
+ben PROPN 
+
+mysused VERB 
+
+by ADP 
+
+the DET 
+
+forsaid PROPN 
+
+Nichol PROPN 
+
+& CCONJ 
+
+his PRON 
+
+vpberers NOUN 
+
+for ADP 
+
+sithen ADJ 
+
+thise NOUN 
+
+wronges NOUN 
+
+bifore PROPN 
+
+saide PROPN 
+
+han PROPN 
+
+ben PROPN 
+
+vsed VERB 
+
+as ADP 
+
+accidental ADJ 
+
+or CCONJ 
+
+comune PROPN 
+
+braunches NOUN 
+
+outward ADV 
+
+it PRON 
+
+sheweth PROPN 
+
+wel PROPN 
+
+the DET 
+
+rote NOUN 
+
+of ADP 
+
+hem PROPN 
+
+is AUX 
+
+a DET 
+
+ragged ADJ 
+
+subiect NOUN 
+
+or CCONJ 
+
+stok NOUN 
+
+inward ADV 
+
+that PRON 
+
+is AUX 
+
+the DET 
+
+forsaid ADJ 
+
+Brere PROPN 
+
+or CCONJ 
+
+brembre NOUN 
+
+the DET 
+
+whiche PROPN 
+
+comune PROPN 
+
+wronge PROPN 
+
+vses NOUN 
+
+& CCONJ 
+
+many ADJ 
+
+other ADJ 
+
+if SCONJ 
+
+it PRON 
+
+lyke VERB 
+
+to ADP 
+
+yow PROPN 
+
+mowe PROPN 
+
+be AUX 
+
+shewed VERB 
+
+& CCONJ 
+
+wel PROPN 
+
+knowen PROPN 
+
+bi PROPN 
+
+an DET 
+
+indifferent ADJ 
+
+Juge PROPN 
+
+and CCONJ 
+
+Mair PROPN 
+
+of ADP 
+
+owre PROPN 
+
+Citee PROPN 
+
+the PRON 
+
+which PRON 
+
+wyth VERB 
+
+yowre PROPN 
+
+ryghtful ADJ 
+
+lordeship NOUN 
+
+ygraunted VERB 
+
+for ADP 
+
+moost NOUN 
+
+pryncipal ADJ 
+
+remedye NOUN 
+
+as ADP 
+
+goddes NOUN 
+
+lawe PROPN 
+
+& CCONJ 
+
+al PROPN 
+
+resoun PROPN 
+
+wole NOUN 
+
+that SCONJ 
+
+no DET 
+
+domesman NOUN 
+
+stonde PROPN 
+
+togidre PROPN 
+
+Juge PROPN 
+
+& CCONJ 
+
+partye NOUN 
+
+wronges NOUN 
+
+sholle VERB 
+
+more ADJ 
+
+openlich NOUN 
+
+be VERB 
+
+knowe NOUN 
+
+& CCONJ 
+
+trouth PROPN 
+
+dor NOUN 
+
+apere ADV 
+
+SENTENCE BREAK
+
+Wryten VERB 
+
+at ADP 
+
+your PRON 
+
+forsayd NOUN 
+
+Cite PROPN 
+
+of ADP 
+
+london PROPN 
+
+the DET 
+
+xx NUM 
+
+day NOUN 
+
+of ADP 
+
+Decembre PROPN 
+
+------------------------------------------------------------------------------------------------------
+SENTENCE BREAK
+
+Be AUX 
+
+your PRON 
+
+awne ADJ 
+
+Jayn PROPN 
+
+Stonor PROPN 
+
+SENTENCE BREAK
+
+Also ADV 
+
+me PRON 
+
+thynk VERB 
+
+thay PROPN 
+
+sshuld AUX 
+
+nat AUX 
+
+be AUX 
+
+so ADV 
+
+wery NOUN 
+
+of ADP 
+
+you PRON 
+
+that PRON 
+
+dyd VERB 
+
+so ADV 
+
+gret NOUN 
+
+labour NOUN 
+
+and CCONJ 
+
+diligence NOUN 
+
+to PART 
+
+have VERB 
+
+you PRON 
+
+and CCONJ 
+
+wher NOUN 
+
+as ADP 
+
+ye ADV 
+
+thynk NOUN 
+
+I PRON 
+
+sshuld AUX 
+
+be AUX 
+
+unkynd ADJ 
+
+to ADP 
+
+you PRON 
+
+uerrely ADV 
+
+that DET 
+
+am AUX 
+
+I PRON 
+
+nat VERB 
+
+for ADP 
+
+and CCONJ 
+
+ye NOUN 
+
+be AUX 
+
+as SCONJ 
+
+I PRON 
+
+left VERB 
+
+you PRON 
+
+as SCONJ 
+
+I PRON 
+
+trust VERB 
+
+uerrely ADV 
+
+that SCONJ 
+
+ye NOUN 
+
+be AUX 
+
+I PRON 
+
+am AUX 
+
+and CCONJ 
+
+wyll ADJ 
+
+be AUX 
+
+to ADP 
+
+you PRON 
+
+as SCONJ 
+
+a DET 
+
+moder NOUN 
+
+sshuld AUX 
+
+be AUX 
+
+and CCONJ 
+
+if SCONJ 
+
+so ADV 
+
+be AUX 
+
+thay PROPN 
+
+be AUX 
+
+wery NOUN 
+
+of ADP 
+
+you PRON 
+
+ye PROPN 
+
+sshall PROPN 
+
+cum NOUN 
+
+to ADP 
+
+me PRON 
+
+and CCONJ 
+
+ye NOUN 
+
+wille VERB 
+
+your PRON 
+
+selfe NOUN 
+
+so SCONJ 
+
+that SCONJ 
+
+my PRON 
+
+housbond NOUN 
+
+or CCONJ 
+
+I PRON 
+
+may AUX 
+
+have AUX 
+
+writing VERB 
+
+fro NOUN 
+
+the DET 
+
+quene NOUN 
+
+with ADP 
+
+her PRON 
+
+awn ADJ 
+
+hand NOUN 
+
+and CCONJ 
+
+ells VERB 
+
+he PRON 
+
+nor CCONJ 
+
+I PRON 
+
+neyther VERB 
+
+dar PROPN 
+
+nor CCONJ 
+
+wyll NOUN 
+
+take VERB 
+
+upon SCONJ 
+
+us PRON 
+
+to PART 
+
+reseyve VERB 
+
+you PRON 
+
+seing VERB 
+
+the DET 
+
+quenys NOUN 
+
+displesyr VERB 
+
+afore ADV 
+
+for ADP 
+
+myn ADJ 
+
+housbond NOUN 
+
+seyth NOUN 
+
+he PRON 
+
+hath VERB 
+
+nat PROPN 
+
+wyllingly ADV 
+
+disobeyd VERB 
+
+her PRON 
+
+comaundment NOUN 
+
+here ADV 
+
+afore ADV 
+
+nor CCONJ 
+
+he PRON 
+
+wyll PROPN 
+
+nat PROPN 
+
+begynne PROPN 
+
+now ADV 
+
+SENTENCE BREAK
+
+And CCONJ 
+
+for ADP 
+
+so ADV 
+
+mekyll NOUN 
+
+as ADP 
+
+for ADP 
+
+shortnesse NOUN 
+
+off ADP 
+
+tyme NOUN 
+
+he PRON 
+
+m3yt INTJ 
+
+noght ADJ 
+
+utter NOUN 
+
+till SCONJ 
+
+his PRON 
+
+holynesse NOUN 
+
+his PRON 
+
+entent NOUN 
+
+at ADP 
+
+that DET 
+
+tyme NOUN 
+
+he PRON 
+
+besoght VERB 
+
+his PRON 
+
+holynesse NOUN 
+
+to PART 
+
+contynew VERB 
+
+the DET 
+
+said VERB 
+
+commyssyon NOUN 
+
+till SCONJ 
+
+the DET 
+
+next ADJ 
+
+Consistory NOUN 
+
+and CCONJ 
+
+the DET 
+
+cumming NOUN 
+
+of ADP 
+
+the DET 
+
+King PROPN 
+
+of ADP 
+
+France PROPN 
+
+embassiatore3 VERB 
+
+the DET 
+
+wilk NOUN 
+
+shall AUX 
+
+entre PROPN 
+
+Rome PROPN 
+
+the DET 
+
+setterday NOUN 
+
+nex PROPN 
+
+after ADP 
+
+the DET 
+
+day NOUN 
+
+affor ADP 
+
+reherset NOUN 
+
+wheruppon PROPN 
+
+the DET 
+
+Pope PROPN 
+
+was AUX 
+
+ryght NOUN 
+
+wele PROPN 
+
+content NOUN 
+
+and CCONJ 
+
+so ADV 
+
+degreet ADJ 
+
+SENTENCE BREAK
+
+I PRON 
+
+besek VERB 
+
+your PRON 
+
+gud NOUN 
+
+fadirhod PROPN 
+
+to PART 
+
+exhort VERB 
+
+our PRON 
+
+brether NOUN 
+
+to PART 
+
+pray VERB 
+
+hertly ADV 
+
+for ADP 
+
+the DET 
+
+cause NOUN 
+
+of ADP 
+
+Coldingham PROPN 
+
+the DET 
+
+wylk NOUN 
+
+was AUX 
+
+proposet VERB 
+
+in ADP 
+
+Consistorio PROPN 
+
+publico NOUN 
+
+at ADP 
+
+cumming VERB 
+
+off ADP 
+
+embassiatore3 PROPN 
+
+off ADP 
+
+the DET 
+
+king NOUN 
+
+of ADP 
+
+Portugaly PROPN 
+
+and CCONJ 
+
+for ADP 
+
+shortnesse NOUN 
+
+of ADP 
+
+tyme NOUN 
+
+the DET 
+
+pope NOUN 
+
+continewit NOUN 
+
+it PRON 
+
+to ADP 
+
+the DET 
+
+next ADJ 
+
+consistory ADJ 
+
+wher NOUN 
+
+shall AUX 
+
+do AUX 
+
+ther VERB 
+
+obedience VERB 
+
+the DET 
+
+embassiatore3 NOUN 
+
+off ADP 
+
+the DET 
+
+king NOUN 
+
+off ADP 
+
+France PROPN 
+
+and CCONJ 
+
+your PRON 
+
+ryghte3 NOUN 
+
+utterly ADV 
+
+decidit NOUN 
+
+SENTENCE BREAK
+
+London PROPN 
+
+SENTENCE BREAK
+
+Ano PROPN 
+
+------------------------------------------------------------------------------------------------------
+SENTENCE BREAK
+
+Be AUX 
+
+your PRON 
+
+awne ADJ 
+
+Jayn PROPN 
+
+Stonor PROPN 
+
+SENTENCE BREAK
+
+Also ADV 
+
+me PRON 
+
+thynk VERB 
+
+þay NOUN 
+
+sshuld AUX 
+
+nat VERB 
+
+be AUX 
+
+so ADV 
+
+wery NOUN 
+
+of ADP 
+
+yow PROPN 
+
+þat PROPN 
+
+dyd NOUN 
+
+so ADV 
+
+gret NOUN 
+
+labour NOUN 
+
+and CCONJ 
+
+diligence NOUN 
+
+to PART 
+
+have VERB 
+
+yow PROPN 
+
+and CCONJ 
+
+wher NOUN 
+
+as ADP 
+
+ye ADV 
+
+thynk NOUN 
+
+I PRON 
+
+sshuld AUX 
+
+be AUX 
+
+unkynde ADJ 
+
+to PART 
+
+yow VERB 
+
+verrely ADV 
+
+þat PROPN 
+
+am NOUN 
+
+I PRON 
+
+nat VERB 
+
+for ADP 
+
+and CCONJ 
+
+ye NOUN 
+
+be AUX 
+
+as SCONJ 
+
+I PRON 
+
+left VERB 
+
+yow PROPN 
+
+as SCONJ 
+
+I PRON 
+
+trust VERB 
+
+verrely ADV 
+
+þat NOUN 
+
+ye NOUN 
+
+be AUX 
+
+I PRON 
+
+am AUX 
+
+and CCONJ 
+
+wyll ADJ 
+
+be AUX 
+
+to ADP 
+
+yow PROPN 
+
+as SCONJ 
+
+a DET 
+
+moder NOUN 
+
+sshuld AUX 
+
+be AUX 
+
+and CCONJ 
+
+if SCONJ 
+
+so ADV 
+
+be AUX 
+
+þay NOUN 
+
+be AUX 
+
+wery NOUN 
+
+of ADP 
+
+yow PROPN 
+
+ye PROPN 
+
+sshall PROPN 
+
+cum NOUN 
+
+to ADP 
+
+me PRON 
+
+and CCONJ 
+
+ye NOUN 
+
+wille VERB 
+
+your PRON 
+
+selfe NOUN 
+
+so SCONJ 
+
+þat VERB 
+
+my PRON 
+
+housbond NOUN 
+
+or CCONJ 
+
+I PRON 
+
+may AUX 
+
+have AUX 
+
+writyng PROPN 
+
+fro PROPN 
+
+þe PROPN 
+
+quene NOUN 
+
+with ADP 
+
+her PRON 
+
+awn ADJ 
+
+hand NOUN 
+
+and CCONJ 
+
+ells VERB 
+
+he PRON 
+
+nor CCONJ 
+
+I PRON 
+
+neyther VERB 
+
+dar PROPN 
+
+nor CCONJ 
+
+wyll NOUN 
+
+take VERB 
+
+upon SCONJ 
+
+us PRON 
+
+to ADP 
+
+reseyve PROPN 
+
+yow PROPN 
+
+seyng PROPN 
+
+þe NOUN 
+
+quenys NOUN 
+
+displesyr VERB 
+
+afore ADV 
+
+for ADP 
+
+myn ADJ 
+
+housbond NOUN 
+
+seyth NOUN 
+
+he PRON 
+
+hath VERB 
+
+nat PROPN 
+
+wyllyngly ADV 
+
+disobeyde NOUN 
+
+her PRON 
+
+comaundment NOUN 
+
+here ADV 
+
+afore ADV 
+
+nor CCONJ 
+
+he PRON 
+
+wyll PROPN 
+
+nat VERB 
+
+begynne NOUN 
+
+nowe PROPN 
+
+SENTENCE BREAK
+
+And CCONJ 
+
+for ADP 
+
+so ADV 
+
+mekyll NOUN 
+
+as ADP 
+
+for ADP 
+
+shortnesse NOUN 
+
+off ADP 
+
+tyme NOUN 
+
+he PRON 
+
+m3yt INTJ 
+
+noght ADJ 
+
+utter NOUN 
+
+till SCONJ 
+
+his PRON 
+
+holynesse NOUN 
+
+his PRON 
+
+entent NOUN 
+
+att VERB 
+
+that PRON 
+
+tyme NOUN 
+
+he PRON 
+
+besoght VERB 
+
+his PRON 
+
+holynesse NOUN 
+
+to PART 
+
+contynew VERB 
+
+the DET 
+
+said VERB 
+
+commyssyon NOUN 
+
+till SCONJ 
+
+the DET 
+
+next ADJ 
+
+Consistory NOUN 
+
+and CCONJ 
+
+the DET 
+
+cummyng NOUN 
+
+of ADP 
+
+the DET 
+
+Kyng PROPN 
+
+of ADP 
+
+France PROPN 
+
+embassiatore3 VERB 
+
+the DET 
+
+wilk NOUN 
+
+shall AUX 
+
+entre PROPN 
+
+Rome PROPN 
+
+the DET 
+
+setterday NOUN 
+
+nex PROPN 
+
+after ADP 
+
+the DET 
+
+day NOUN 
+
+affor ADP 
+
+rehersett PROPN 
+
+wheruppon PROPN 
+
+the DET 
+
+Pope PROPN 
+
+was AUX 
+
+ryght NOUN 
+
+wele PROPN 
+
+content NOUN 
+
+and CCONJ 
+
+so ADV 
+
+degreet ADJ 
+
+SENTENCE BREAK
+
+I PRON 
+
+besek VERB 
+
+your PRON 
+
+gud NOUN 
+
+fadirhod PROPN 
+
+to PART 
+
+exhort VERB 
+
+our PRON 
+
+brether NOUN 
+
+to PART 
+
+pray VERB 
+
+hertly ADV 
+
+for ADP 
+
+the DET 
+
+cause NOUN 
+
+of ADP 
+
+Coldyngham PROPN 
+
+the DET 
+
+wylk NOUN 
+
+was AUX 
+
+proposet VERB 
+
+in ADP 
+
+Consistorio PROPN 
+
+publico PROPN 
+
+att PROPN 
+
+cummyng PROPN 
+
+off ADP 
+
+embassiatore3 PROPN 
+
+off ADP 
+
+the DET 
+
+kyng NOUN 
+
+of ADP 
+
+Portugaly PROPN 
+
+and CCONJ 
+
+for ADP 
+
+shortnesse NOUN 
+
+of ADP 
+
+tyme NOUN 
+
+the DET 
+
+pope PROPN 
+
+continewit NOUN 
+
+itt VERB 
+
+to ADP 
+
+the DET 
+
+next ADJ 
+
+consistory ADJ 
+
+wher PROPN 
+
+schall PROPN 
+
+do AUX 
+
+ther NOUN 
+
+obedience VERB 
+
+the DET 
+
+embassiatore3 NOUN 
+
+off ADP 
+
+the DET 
+
+kyng NOUN 
+
+off ADP 
+
+France PROPN 
+
+and CCONJ 
+
+your PRON 
+
+ryghte3 NOUN 
+
+utterly ADV 
+
+deciditt VERB 
+
+SENTENCE BREAK
+
+London PROPN 
+
+SENTENCE BREAK
+
+Ano PROPN 
+
