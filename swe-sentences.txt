@@ -1,0 +1,26 @@
+Detta är en mening.
+Detta är en annan mening.
+Lingvister är intresserade av meningar.
+Vissa lingvister bryr sig inte så mycket om skriftspråk eftersom skriftspråk bara är ett artefakt av talat språk, som är naturligt förekommande, precis som teckenspråk.
+Dock är många teckenspråk i världen fortfarande inte officiellt erkända som språk.
+Svenskt teckenspråk betraktades inte som ett riktigt språk förrän ganska nyligen.
+I Sverige betraktas svenskt teckenspråk i dag som dövas språk.
+Men av någon anledning betraktas det inte som ett minoritetsspråk i Sverige, till skillnad från till exempel finska eller jiddisch.
+Tillbaka till naturligt språk mer generellt.
+Människor har fyllts av förundran över naturligt språks komplexitet i tusentals år.
+Det var inte förrän Chomsky kom som vi började förstå några av språkets mer generella egenskaper.
+Han tog rekursion från matematik och tillämpade det på naturligt språk.
+Men rekursion missförstås ofta.
+Och debatteras hetskt.
+Låt oss inte bry oss om det nu.
+Allt detta är bra och väl.
+Kvarstår gör faktumet att vi behöver skriftspråk i våra moderna samhällen.
+Och vi behöver det inom forskningen, inte bara bland datalingvister, utan även bland lingvister som är intresserade av talspråk eller teckenspråk.
+Skriftspråk kan fungera som en sond för talspråk, till exempel.
+Denna korta text är en text om lingvistik.
+Det är inte svårt att dela upp strängar i ord i denna korta text.
+Till exempel finns det inga specialtecken, inga förkortningar, inga kontraktioner, som du kan se för ordet "kan inte" och så vidare.
+Vi kommer att hantera det senare.
+Den processen kallas tokenisering.
+Du kommer att lära dig mer om det under NLP-kursen.
+Lycka till med resten av kursen!
