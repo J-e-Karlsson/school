@@ -1,0 +1,112 @@
+[
+  {
+    "question_number": 21,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Flera av berättelserna i Eva Adolfssons essäsamling Till skilda orter (1998) tycks vara självbiografiskt _____ .",
+    "answers": {
+      "a": "engagerade",
+      "b": "beroende",
+      "c": "sammanhållna",
+      "d": "förankrade"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 22,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Det nya med detta sätt att ta fram en översiktsplan är att innehållet ska vara baserat på uppdaterade och relevanta _____ . Dessutom fungerar planen som ett verktyg för att _____ de lokala aktörerna, och därmed fånga upp medborgarperspektivet.",
+    "answers": {
+      "a": "kartor – moderera",
+      "b": "fakta – reglera",
+      "c": "data – involvera",
+      "d": "studier – exkludera"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 23,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Förslaget till _____ av den gamla trädgården utgick från de rådande förutsättningarna, och _____ de möjligheter till _____ och bevarande som ändå fanns.",
+    "answers": {
+      "a": "odling – bortsåg från – gårdsförsäljning",
+      "b": "restaurering – tog fasta på – återställande",
+      "c": "uthyrning – gav näring åt – arbetstillfällen",
+      "d": "skötsel – fann tröst i – nyskapande"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 24,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Hur en röst _____ rent akustiskt beror på en mängd olika faktorer. Därför är det svårt att hitta allmängiltiga och objektiva _____ för röststatus som skulle kunna användas kliniskt och pedagogiskt.",
+    "answers": {
+      "a": "ter sig – kriterier",
+      "b": "gör sig – valörer",
+      "c": "står sig – nyanser",
+      "d": "rör sig – normer"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 25,
+    "question": "Vilket av dessa alternativ passar in i följande mening? 1842 års folkskolestadga medförde att nästan alla svenska barn lärde sig läsa, skriva och räkna, vilket var _____ i modernitetsbygget.",
+    "answers": {
+      "a": "omvittnat",
+      "b": "bristfälligt",
+      "c": "ovärderligt",
+      "d": "framställt"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 26,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Innan resan kunde _____ måste segelfartyget Endeavour föras till den nederländska kolonin Batavia för en reparation som tog två månader _____ .",
+    "answers": {
+      "a": "utformas – i beslag",
+      "b": "återupptas – i anspråk",
+      "c": "genomdrivas – i retur",
+      "d": "avhandlas – i beredskap"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 27,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Lewi Pethrus fungerade som representant för Pingströrelsen, och hans fysiska närvaro blev ett tecken på att den nya församlingen tillhörde rörelsen. Pethrus symboliska kapital var med andra ord så starkt att han personligen _____ Pingströrelsen.",
+    "answers": {
+      "a": "besjälade",
+      "b": "frammanade",
+      "c": "ledsagade",
+      "d": "förkroppsligade"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 28,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Varje språk uttrycker en egen _____ . Det ger inte en avbildning punkt för punkt av den utomspråkliga verkligheten, utan lägger ett _____ över verkligheten, vilken alltså inte avbildas, utan _____ .",
+    "answers": {
+      "a": "tidsanda – lager – förvrängs",
+      "b": "världsbild – raster – tolkas",
+      "c": "livsstil – filter – beskrivs",
+      "d": "synvinkel – mönster – nyanseras"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 29,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Allt som du och jag vet är inte _____ i den meningen att vi kan formulera vad vi vet. Mycket av vår vardagskunskap är _____ eller så kallad tyst kunskap.",
+    "answers": {
+      "a": "aktuellt – inaktuell",
+      "b": "aktivt – retroaktiv",
+      "c": "explicit – implicit",
+      "d": "ordinärt – extraordinär"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 30,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Åklagarens besked var oväntat och ledde till spontant jubel hos många Baltimore- bor, som _____ hade väntat sig ännu ett frikännande av våldsamma poliser.",
+    "answers": {
+      "a": "luttrat",
+      "b": "kaxigt",
+      "c": "prompt",
+      "d": "ivrigt"
+    },
+    "question_type": "MEK"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "question_number": 21,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Redan i forntiden utnyttjade människor mikroorganismer vid produktion av jästa drycker, vid jäsning av deg och för produktion av till exempel surkål. Under denna tid använde man den _____ av mikroorganismer som spontant fanns _____ .",
+    "answers": {
+      "a": "uppsjö – aktuell",
+      "b": "odling – befintlig",
+      "c": "kaskad – upptänklig",
+      "d": "flora – tillgänglig"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 22,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Enligt lag ska vårdpersonal utföra sitt arbete i överensstämmelse med vetenskap och beprövad erfarenhet. Den vårdansvarige bär ensam ansvaret för hur arbets- uppgifterna fullgörs. En arbetsuppgift får överlåtas till någon annan om det är _____ med en god och säker vård.",
+    "answers": {
+      "a": "förenligt",
+      "b": "gångbart",
+      "c": "införlivat",
+      "d": "hanterbart"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 23,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Den grekiske filosofen Sokrates vägrade _____ som allkunnig eller lärare. Han _____ ofta att han saknade kunskap och ifrågasatte ständigt sina egna _____ .",
+    "answers": {
+      "a": "biträda – påstod – tillgångar",
+      "b": "tillträda – fruktade – fördomar",
+      "c": "framträda – insåg – baktankar",
+      "d": "uppträda – framhöll – slutsatser"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 24,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Det finns flera studier som visar att _____ mellan medborgare _____ med förtroendet för politiker och samhälleliga institutioner.",
+    "answers": {
+      "a": "vänskapen – koordinerar",
+      "b": "misstron – kompletterar",
+      "c": "tilliten – korrelerar",
+      "d": "sambanden – kontrasterar"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 25,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Narcissism är ett psykoanalytiskt begrepp som innebär kärlek till det egna jaget. Ordet _____ från myten om den unge Narkissos, som förälskade sig i sin egen spegelbild.",
+    "answers": {
+      "a": "erhålls",
+      "b": "härrör",
+      "c": "betingas",
+      "d": "uppstiger"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 26,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Många av dagens nyskapande forskningsresultat inom matematiken kan komma till _____ användning i framtiden. Men vi kan inte i förväg veta exakt vilka resultat som kommer att bli betydelsefulla. Det kan mycket väl bli några av dem som idag ter sig mest _____ .",
+    "answers": {
+      "a": "oväntad – marginella",
+      "b": "allmän – fruktbara",
+      "c": "begränsad – vilseledande",
+      "d": "experimentell – förutseende"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 27,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Riksarkivet är en av Sveriges äldsta myndigheter. Arkivet grundades 1618 men har _____ från slutet av 1200-talet.",
+    "answers": {
+      "a": "arv",
+      "b": "börd",
+      "c": "anor",
+      "d": "påbrå"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 28,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Ofta bygger samhällsplaneringen på en _____ om oss människor – som om vi alla kunde se och höra bra, röra oss obehindrat, förstå olika signaler från omvärlden och reagera snabbt och _____ på dessa. Nästan dagligen ser vi exempel på hur tillgänglighetsperspektivet _____ även i den svenska samhällsutvecklingen.",
+    "answers": {
+      "a": "fiktion – initierat – tillämpas",
+      "b": "illusion – adekvat – åsidosätts",
+      "c": "definition – kompetent – hörsammas",
+      "d": "kategorisering – propert – försummas"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 29,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Här diskuteras 1920-talets ekonomiska kris när barnen, och i _____ hela befolkningen, skulle lära sig hålla ordning på pengarna, med serien ”Spara och Slösa” i tidningen Lyckoslanten som _____ .",
+    "answers": {
+      "a": "synnerhet – draghjälp",
+      "b": "realiteten – tumregel",
+      "c": "extremfallet – förebild",
+      "d": "förlängningen – rättesnöre"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 30,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Den internationellt uppmärksammade kvinnoläkaren och nobelpristagaren Denis Mukwege _____ inte orden när han skildrar det motstånd han ofta mött i sitt hemland.",
+    "answers": {
+      "a": "skarvar",
+      "b": "skräder",
+      "c": "skingrar",
+      "d": "skonar"
+    },
+    "question_type": "MEK"
+  }
+]

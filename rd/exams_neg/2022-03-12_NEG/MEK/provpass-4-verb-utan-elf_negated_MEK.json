@@ -1,0 +1,112 @@
+[
+  {
+    "question_number": 21,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Under första världskriget kom många fiskarter som tidigare hade _____ till användning som livsmedel.",
+    "answers": {
+      "a": "avslagits",
+      "b": "uppskattats",
+      "c": "ratats",
+      "d": "förkastats"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 22,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Makt riskerar att korrumpera även den mest _____ individ, och inte heller kollektiv är _____ mot yttre, otillåten påverkan.",
+    "answers": {
+      "a": "bildade – motståndskraftig mot yttre påverkan",
+      "b": "inskränkta – stabila",
+      "c": "upplysta – immuna",
+      "d": "välinformerade – resistent mot yttre påverkan"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 23,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Restaurangprofilen Tore Wretman var _____ i sina välsittande kostymer och sitt blondlockiga, bakåtkammade hår. Han hade en avväpnande _____ , och trots att han var påfallande _____ uppfattades han inte som snobbig.",
+    "answers": {
+      "a": "stilig – charm – världsvan",
+      "b": "presentabel – karisma – kultiverad",
+      "c": "attraktiv – humor – sofistikerad",
+      "d": "stilenlig – blick – värdefull"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 24,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Lika länge som lagar och regler existerat har man på olika sätt kunnat kringgå dem. Som en följd av alltför sträng lagstiftning utvecklades till exempel möjligheten att få kunglig _____ i olika frågor.",
+    "answers": {
+      "a": "dispensation",
+      "b": "undantag",
+      "c": "eloge",
+      "d": "dispens"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 25,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? En återkommande fråga i debatten om de nya artskyddsreglerna i skogsvårds­ lagen är huruvida de arter som prioriteras verkligen är de som är _____ naturvårdsinsatser. Många arter bedöms exempelvis vara _____ ur ett europeiskt perspektiv, trots att de är livskraftiga och vanligt förekommande i Sverige.",
+    "answers": {
+      "a": "förtjänta – skyddvärda",
+      "b": "föremål för – riskabla",
+      "c": "i störst behov av – skyddsvärda",
+      "d": "i störst behöv av – värd att skydda"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 26,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Författarna till studien konstaterar att det finns mängder av forskning kring olika kostmetoders effektivitet när det gäller viktnedgång, men däremot ganska svag _____ i frågan om hur effektivt motion är för viktnedgång.",
+    "answers": {
+      "a": "evidens",
+      "b": "bevisning",
+      "c": "underlag",
+      "d": "konvergens"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 27,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Håkan Nesser har en _____ blandning av integritet och distans till sin person och sitt yrke. Han _____ mot alla klichéer om författarrollen och, framför allt, om deckargenren.",
+    "answers": {
+      "a": "besynnerlig – opponerar sig",
+      "b": "diskret – tar parti",
+      "c": "säregen – värjer sig",
+      "d": "egendomlig – står emot"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 28,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? I de nationella proven ska eleven läsa litterära texter, för att sedan _____ om dem i skrift. _____ som att skriva och analysera _____ framför kunskaper om exempelvis litteraturhistoria.",
+    "answers": {
+      "a": "fundera – kompetenser – prisas",
+      "b": "rapportera – Lärdomar – värderas",
+      "c": "resonera – Färdigheter – premieras",
+      "d": "överväga – färdigheter – belönas"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 29,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? 1800­talets romantiska epok har länge uppfattats som en _____ strömning, mer dominerad av filosofisk idealism än av reella samhällsfrågor. De senaste årens forskning har emellertid kunnat visa på mycket täta band mellan den tidens ekonomiska, politiska och estetiska _____ .",
+    "answers": {
+      "a": "världsfrånvänd – diskurser",
+      "b": "idealiserad – debatter",
+      "c": "andlig – resonemang",
+      "d": "humanistisk – dispyter"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 30,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Energiförbrukningen hos en organism är som lägst när organismen befinner sig i vila under _____ där värmeavgivningen till omvärlden är minimal.",
+    "answers": {
+      "a": "ingivelser",
+      "b": "betingelser",
+      "c": "omständigheter",
+      "d": "villkor"
+    },
+    "question_type": "MEK"
+  }
+]

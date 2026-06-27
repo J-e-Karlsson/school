@@ -1,0 +1,112 @@
+[
+  {
+    "question_number": 21,
+    "question": "Vilket av dessa alternativ passar in i följande mening? De allra flesta som insjuknar i influensa och som inte tillhör en riskgrupp klarar oftast att _____ på egen hand.",
+    "answers": {
+      "a": "isolera sig",
+      "b": "gardera sig",
+      "c": "kurera sig",
+      "d": "reparera sig"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 22,
+    "question": "Vilket av dessa alternativ passar in i följande mening? I Vetenskapsrådets rapport Forskningsbasering av lärarutbildningen visar författarna att dagens forskning är tolkande och beskrivande, samt att klassrumsnära studier nästan helt _____. Det måste bli en bättre balans så att de problem lärare och elever upplever i sin vardag _____.",
+    "answers": {
+      "a": "lyser med sin frånvaro – identifieras",
+      "b": "fyller sin funktion – reformeras",
+      "c": "lämnas i sticket – fokuseras",
+      "d": "faller mellan stolarna – formaliseras"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 23,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Under 1700-talet började adeln _____ monumentala barockträdgårdar. För exotiska växter byggdes orangerier, och i _____ experimenterade man med grönsaker. Köksväxterna var fortfarande viktiga eftersom _____ var ett statligt mål och adelsmännen satte en ära i att bli dugliga hushållare.",
+    "answers": {
+      "a": "anlägga – drivbänkar – självförsörjning",
+      "b": "förlägga – plantager – export",
+      "c": "belägga – krukor – växtproduktion",
+      "d": "frilägga – rabatter – kosthållning"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 24,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Valet av betong som byggmaterial är så självklart att få ifrågasätter det. Miljökraven är _____ eller lämnas till marknaden att själv formulera.",
+    "answers": {
+      "a": "oantastliga",
+      "b": "obefintliga",
+      "c": "oegentliga",
+      "d": "obehindrade"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 25,
+    "question": "Vilket av dessa alternativ passar in i följande mening? En smärtlindring som gör hästens smärta _____ kan förkorta klinikvistelsen, förbättra hästens välfärd samt ha en positiv effekt på dess _____.",
+    "answers": {
+      "a": "tolerabel – konvalescens",
+      "b": "distinkt – kondoleans",
+      "c": "foglig – koncentration",
+      "d": "neutral – kontamination"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 26,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Genom historien har skvaller inte sällan behandlats på ett _____ sätt. Men idag hävdar forskare att skvaller snarare bör ses som en social färdighet som är avgörande för att skapa relationer.",
+    "answers": {
+      "a": "uppbyggligt",
+      "b": "nedlåtande",
+      "c": "underordnat",
+      "d": "föredömligt"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 27,
+    "question": "Vilket av dessa alternativ passar in i följande mening? När man diskuterar betydelsen av att läsa skönlitteratur i skolan nämns ofta att det är bra för träning av läsfärdigheter och empatisk _____ eller för demokratisk fostran. Mer sällan talar man om skönlitteraturens _____, det vill säga de estetiska kvaliteter som skönlitteraturen är bärare av.",
+    "answers": {
+      "a": "övning – ansvar",
+      "b": "inlärning – genre",
+      "c": "medkänsla – mångfald",
+      "d": "inlevelse – egenvärde"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 28,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Vad enskilda personers insatser ger för _____ i form av ekonomiska resurser beror i _____ hög grad på yttre omständigheter, alltså det sammanhang och den plats i det ekonomiska systemet vi har haft turen eller oturen att _____ in i.",
+    "answers": {
+      "a": "återkoppling – obetydligt – växa",
+      "b": "resultat – sällsynt – reformeras",
+      "c": "utdelning – utomordentligt – socialiseras",
+      "d": "avtryck – måttligt – väljas"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 29,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Tonläget i regionen har _____ och många oroar sig nu för att en väpnad konflikt i området kan vara _____.",
+    "answers": {
+      "a": "sänkts – i antågande",
+      "b": "slipats upp – inom räckhåll",
+      "c": "skärpts – nära förestående",
+      "d": "skalats ned – under uppsegling"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 30,
+    "question": "Vilket av dessa alternativ passar in i följande mening? Hyresnämnden kan lämna tillstånd till uthyrning i andra hand om förstahands- hyresgästen på grund av ålder, sjukdom, tillfälligt arbete eller studier på annan ort har _____ skäl för att upplåta lägenheten i andra hand.",
+    "answers": {
+      "a": "omistliga",
+      "b": "avsiktliga",
+      "c": "uppdagade",
+      "d": "beaktansvärda"
+    },
+    "question_type": "MEK"
+  }
+]

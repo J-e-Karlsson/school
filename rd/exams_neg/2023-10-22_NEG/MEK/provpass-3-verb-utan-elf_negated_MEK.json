@@ -1,0 +1,112 @@
+[
+  {
+    "question_number": 21,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Syntetfibrer framställs av petroleum, det vill säga råolja, i kemiska processer som kan _____ med plasttillverkning. En stor del av klädbutikernas koftor, mössor och halsdukar tillverkas idag av syntetmaterial som akryl och polyester.",
+    "answers": {
+      "a": "likställas",
+      "b": "jämstälstas",
+      "c": "harmoniseras",
+      "d": "tillfogas"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 22,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Ett arkitektoniskt mästerverk utses inte bara av arkitekter, utan även av folk i allmänhet. Om inte annat är turistströmmarna till historiska _____ ett bevis på det. Människor har i alla tider _____ arkitektur, som på många sätt kan sägas vara en konstform.",
+    "answers": {
+      "a": "minnesmärke – beundrat",
+      "b": "ruiner – ringaktat",
+      "c": "monument – uppskattat",
+      "d": "landmärke – värderat"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 23,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Redan när vi föds är vi kognitivt disponerade att se _____ och kategorier, vilket styr hur vi värderar _____ . När vi lär oss nya saker försöker vi foga samman nya fakta med vår _____ av världen, vilket leder till att vi gradvis omformar vår världsbild.",
+    "answers": {
+      "a": "ramverk – data – förhandsuppfattning",
+      "b": "omgivning – fakta – förutfattning",
+      "c": "skillnader – berättelser – vision",
+      "d": "sammanhang – information – förförståelse"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 24,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? En viktig princip i GATT (Allmänna tull- och handelsavtalet) är reciprocitet, alltså att medlemsländerna _____ förbinder sig att avveckla handelshinder.",
+    "answers": {
+      "a": "tveklöst",
+      "b": "ömsesidigt",
+      "c": "mutuellt",
+      "d": "gemensamt"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 25,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Prästen, som först ser förbluffad ut, sänker sedan hakan och _____ en djupsinnig min. ”Jag är inte så _____ i Dostojevskij”, säger han. ”Vill ni förklara er närmare?”",
+    "answers": {
+      "a": "antar – bevandrad",
+      "b": "gissar – erfaren",
+      "c": "förmodar – kunnig",
+      "d": "uppger – förbunden"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 26,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Till skillnad från äldre tiders hospital var 1700-talets lasarett inte bara inriktade på _____ vård, utan här förväntades även en viss förbättring av patienternas tillstånd eller åtminstone någon lindring av deras lidande.",
+    "answers": {
+      "a": "livsbevarande",
+      "b": "livsförlängande",
+      "c": "livsbejakande",
+      "d": "livsuppehållande"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 27,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Att döma av enkätsvaren upplevde de flesta av hobbyodlarna att den direkta ekonomiska förlusten som följde av de invasiva spanska skogssniglarnas _____ trots allt var förhållandevis _____ .",
+    "answers": {
+      "a": "nedslag – väsentlig",
+      "b": "frosseri – måttlig",
+      "c": "överdriven aptit – lagom",
+      "d": "överkonsumtion – måttfull"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 28,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Med tanke på den långa tid som har _____ sedan Norrmalmstorgsdramat, och det faktum att såväl rånarna som gisslan och polisen _____ under stor psykisk press, är det närmast omöjligt att _____ vad som egentligen skedde i varje enskild situation.",
+    "answers": {
+      "a": "den gångna perioden – blivit utsatt för påfrestningar – fastställa vad som egentligen hände",
+      "b": "avlagts – agerade – fastställa",
+      "c": "förflutit – befunnit sig – utröna",
+      "d": "den gångna tiden – legat under stark press – klargöra vad som skett"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 29,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? Funktionärerna ledde bort de svettiga, utmattade hästarna som nyss hade tävlat, samtidigt som nya _____ samlades inför det _____ loppet.",
+    "answers": {
+      "a": "ekipage – förestående",
+      "b": "hästspann – annalkande",
+      "c": "körstyrka – stundande",
+      "d": "entourage – uppbyggande"
+    },
+    "question_type": "MEK"
+  },
+  {
+    "question_number": 30,
+    "question": "Vilket av dessa alternativ passar inte in i följande mening? I avsaknad av riktlinjer hade folkskolans och läroverkens lärare varit relativt _____ i sin bedömningspraktik, som till stor del byggde på läxförhör och examinationer utformade av lärarna själva.",
+    "answers": {
+      "a": "autonoma",
+      "b": "oberoende",
+      "c": "självständig",
+      "d": "frisinnade"
+    },
+    "question_type": "MEK"
+  }
+]
